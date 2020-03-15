@@ -1,0 +1,22 @@
+{
+  "name": "ratio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mark K Cowan",
+  "license": "MIT",
+  "dependencies": {
+    "@types/lodash": "^4.14.149",
+    "@types/moment": "^2.13.0",
+    "@types/node": "^13.9.1",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "ts-node": "^8.6.2",
+    "tslint": "^6.1.0",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "lint": "tslint --project .",
+    "compile": "tsc -b .",
+    "scrape": "ts-node src/scrape.ts"
+  }
+}

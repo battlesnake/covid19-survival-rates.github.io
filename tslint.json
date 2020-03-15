@@ -1,0 +1,22 @@
+{
+	"defaultSeverity": "error",
+	"extends": [
+		"tslint"
+	],
+	"jsRules": {},
+	"rules": {
+		"indent": [true, "tabs"],
+        "typedef": [
+            true,
+            "call-signature",
+            "property-declaration"
+        ],
+		"member-access": true
+	},
+	"rulesDirectory": [],
+	"linterOptions": {
+		"exclude": [
+			"node_modules/**/*.ts"
+		]
+	}
+}
