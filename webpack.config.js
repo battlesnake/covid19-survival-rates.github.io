@@ -5,7 +5,7 @@ module.exports = {
 		index: './src/script.ts',
 		vendor: ['d3', 'moment', 'lodash'],
 	},
-	devtool: 'inline-source-map',
+	devtool: 'source-map',
 	module: {
 		rules: [
 			{

@@ -97,3 +97,24 @@ svg .source {
 	transform: translate(0, 60px);
 }
 
+svg .legend {
+	transform: translate(40px, 60px);
+}
+
+svg .legend rect {
+	stroke: black;
+	stroke-width: 1;
+}
+
+svg .legend .legend-axis {
+	transform: translate(-0.5px, 0);
+}
+
+svg .legend .legend-axis text {
+	font-size: 10px;
+}
+
+svg .legend .legend-title {
+	font-size: 10px;
+	font-weight: 500;
+}

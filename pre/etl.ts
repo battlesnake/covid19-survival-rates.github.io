@@ -66,23 +66,44 @@ const calc_ratio = (recovered: number, deaths: number) => (recovered + deaths) ?
 
 const parse_date = (date: string): string => moment(date, ['YYYY-MM-DDTHH:mm:ss', 'M/D/YYYY H:mm']).format('YYYY-MM-DD');
 
+const country_name_map: { [name: string]: string } = {
+	'Viet Nam': 'Vietnam',
+	'UK': 'United Kingdom',
+	'US': 'USA',
+	'Taiwan*': 'Taiwan',
+	'Republic of Korea': 'South Korea',
+	'Russian Federation': 'Russia',
+	'occupied Palestinian territory': 'Palestine',
+	'North Ireland': 'United Kingdom',
+	'Republic of Moldova': 'Moldova',
+	'Republic of Ireland': 'Ireland',
+	'Macau SAR': 'Macau',
+	'Korea, South': 'South Korea',
+	'Iran (Islamic Republic of)': 'Iran',
+	'Hong Kong SAR': 'Hong Kong',
+	'Cote d\'Ivoire': 'Ivory Coast',
+	'Mainland China': 'China',
+};
+
+const normalise_country = (name: string): string => name in country_name_map ? country_name_map[name] : name;
+
+type RawDatum = Pick<Datum, 'region' | 'country' | 'date' | 'cases' | 'deaths' | 'recovered'>;
+
 const data: Data = _(files)
 	.map(name => _(fs.readFileSync(name, 'utf-8'))
 		.split(/[\r\n]+/)
 		.tap(lines => lines.shift())
 		.map(line => line.replace(/^\s+|\s+$/g, ''))
 		.filter(line => line.length > 0)
-		.map((line, index) => {
-			const [region, country, date, cases, deaths, recovered] = parse_csv_line(line);
+		.map<RawDatum>((line, index) => {
+			const [region, country, date, cases, deaths, recovered] = parse_csv_line(line).map(x => x.trim());
 			return <Datum> {
 				region,
-				country,
+				country: normalise_country(country),
 				date: parse_date(date),
 				cases: +cases,
 				deaths: +deaths,
 				recovered: +recovered,
-				active: +cases - +deaths - +recovered,
-				ratio: calc_ratio(+recovered, +deaths),
 			};
 		})
 		.sortBy('date')
@@ -90,6 +111,11 @@ const data: Data = _(files)
 	)
 	.flatten()
 	.uniqBy(JSON.stringify)
+	.map<Datum>(x => ({
+		...x,
+		active: x.cases - x.deaths - x.recovered,
+		ratio: calc_ratio(x.recovered, x.deaths),
+	}))
 	.value()
 	;
 
@@ -100,7 +126,7 @@ const by_region: RegionAg = _(data)
 
 const by_country: CountryAg = _(data)
 	.groupBy('country')
-	.mapValues((country_data: Data): DateAg => _(country_data.reduce<DateAg>(
+	.mapValues((country_data: Data): DateAg => _(_(country_data.reduce<DateAg>(
 		(xs: DateAg, x: Datum): DateAg => {
 			const ag = xs[x.date] || zero;
 			xs[x.date] = <Datum> {
@@ -119,6 +145,14 @@ const by_country: CountryAg = _(data)
 			ag.ratio = calc_ratio(ag.recovered, ag.deaths);
 			return ag;
 		})
+		.toPairs()
+		.reduce<[string, Datum][]>((xs: [string, Datum][], x: [string, Datum]) =>
+			xs.length === 0 || x[1].cases >= xs[xs.length - 1][1].cases ?
+				[...xs, x]
+			:
+				[...xs]
+		, []))
+		.fromPairs()
 		.value()
 	)
 	.value();

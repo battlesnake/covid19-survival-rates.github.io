@@ -8,11 +8,11 @@ const margin = { left: 200, top: 200, right: 200, bottom: 20 };
 const width_outer = 1200;
 const height_outer = 1200;
 
-const svg = d3.select('main')
+const svg_root = d3.select('main')
 	.append('svg')
 		.attr('preserveAspectRatio', 'xMinYMin meet')
-		.attr('viewBox', `0 0 ${width_outer} ${height_outer}`)
-	.append('g')
+		.attr('viewBox', `0 0 ${width_outer} ${height_outer}`);
+const svg = svg_root.append('g')
 		.attr('transform', `translate(${margin.left}, ${margin.top})`);
 
 (async () => {
@@ -43,8 +43,6 @@ const svg = d3.select('main')
 		.filter(({ data }) => data.length >= 5)
 		.sortBy('key')
 		.value();
-	const country_colour = d3.scaleSequential(d3.interpolateRdYlBu)
-		.domain([0, 1]);
 	/* Title */
 	const title_area = svg.append('g')
 		.attr('transform', `translate(0, ${-margin.top})`)
@@ -52,10 +50,10 @@ const svg = d3.select('main')
 			.attr('class', 'title-area');
 	title_area.append('text')
 		.attr('class', 'title')
-		.text('2019-nCOV per-country surival ratios');
+		.text('2019-nCOV per-country surival rates');
 	title_area.append('text')
 		.attr('class', 'smallprint')
-		.text('ratio = survived / (survived + died).  Showing only countries with: more than 10 closed cases, and more than zero closed cases reported on at least five days');
+		.text('rates = survived / (survived + died).  Showing only countries with: more than 10 closed cases, and more than zero closed cases reported on at least five days');
 	title_area.append('text')
 		.attr('class', 'source')
 		.html('Data source: <a href="https://github.com/CSSEGISandData/COVID-19">https://github.com/CSSEGISandData/COVID-19</a>');
@@ -107,6 +105,55 @@ const svg = d3.select('main')
 	y_axis2.selectAll('text')
 		.attr('dx', 20)
 		.attr('transform', `translate(0, ${height / 2 / chart_data.length})`)
+	/* Colour scheme and legend */
+	const country_colour = d3.scaleSequential(d3.interpolateRdYlBu)
+		.domain([0, 1]);
+	const legend_scale = d3.scaleLinear()
+		.domain([0, 1])
+		.range([margin.left - 20]);
+	const legend_width = margin.left - 100;
+	const legend_height = 20;
+	svg_root
+		.append('defs')
+			.append('linearGradient')
+				.attr('id', 'legend-gradient')
+				.attr('width', margin.left - 20)
+				.attr('height', 20)
+				.attr('x1', '0%')
+				.attr('x2', '100%')
+				.attr('y1', '0%')
+				.attr('y2', '0%')
+				.selectAll('stop')
+					.data([0, 20, 40, 60, 80, 100].map(x => ({ offset: `${x}%`, color: country_colour(x / 100) })))
+					.enter()
+						.append('stop')
+						.attr('offset', d => d.offset)
+						.attr('stop-color', d => d.color);
+	const legend_area = svg_root
+		.append('g')
+			.attr('class', 'legend');
+	legend_area.append('rect')
+				.attr('width', legend_width)
+				.attr('height', legend_height)
+				.attr('fill', 'url(\'#legend-gradient\')');
+	const x_legend = d3.scaleLinear()
+		.domain([0, 1])
+		.range([0, legend_width]);
+	legend_area
+		.append('g')
+			.attr('transform', `translate(0, ${legend_height})`)
+			.append('g')
+				.attr('class', 'legend-axis')
+				.call(d3.axisBottom(x_legend)
+				.tickSize(5)
+				.ticks(3)
+				.tickFormat(d3.format('.0%')))
+				.select('.domain').remove();
+	legend_area
+		.append('text')
+			.attr('class', 'legend-title')
+			.attr('dy', '-5')
+			.text('Survival rate');
 	/* Data plots */
 	const areas = svg.selectAll('areas')
 		.data(chart_data)
@@ -130,7 +177,7 @@ const svg = d3.select('main')
 			.curve(d3.curveBasis)
 			.x(d => x_date(d[0]))
 			.y(d => y_ratio(d[1])));
-	const tooltip = d3.select('main svg')
+	const tooltip = svg_root
 		.append('g')
 		.attr('class', 'tooltip');
 	const tooltip_g = tooltip
