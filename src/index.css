@@ -1,0 +1,99 @@
+html,
+body {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	font-family: sans-serif;
+}
+
+body {
+	overflow-y: scroll;
+}
+
+svg {
+	display: block;
+	width: 100%;
+}
+
+svg text {
+	font-family: sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+}
+
+svg .x-axis .tick text {
+	transform: translate(0, -10px) rotate(-60deg);
+	text-anchor: start;
+	alignment-baseline: central;
+}
+
+svg .x-axis .tick line {
+	stroke-dasharray: 1,3;
+	opacity: 0.5;
+}
+
+svg .y-axis .tick text {
+	text-anchor: end;
+	alignment-baseline: middle;
+}
+
+svg .y-axis-2 .tick text {
+	text-anchor: start;
+	alignment-baseline: middle;
+}
+
+svg .y-axis .tick line {
+	stroke-dasharray: 1,3;
+	opacity: 0.5;
+}
+
+svg .area-plot {
+	opacity: 0.7;
+	stroke-width: 1;
+}
+
+svg .tooltip {
+	visibility: hidden;
+}
+
+svg .tooltip-show {
+	visibility: visible;
+}
+
+svg .tooltip circle {
+	stroke: #222;
+	stroke-width: 1;
+	fill: #eee;
+}
+
+svg .tooltip text {
+	font-size: 12px;
+	font-weight: 600;
+	text-anchor: middle;
+	alignment-baseline: middle;
+}
+
+svg .title-area {
+	transform: translate(0, 20px);
+}
+
+svg .title-area text {
+	text-anchor: start;
+	dominant-baseline: text-before-edge;
+}
+
+svg .title {
+	font-size: 24px;
+	transform: translate(0, 0);
+}
+
+svg .smallprint {
+	font-size: 12px;
+	transform: translate(0, 36px);
+}
+
+svg .source {
+	font-size: 10px;
+	transform: translate(0, 60px);
+}
+

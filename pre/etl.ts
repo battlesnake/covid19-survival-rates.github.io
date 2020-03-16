@@ -1,9 +1,14 @@
 import * as fs from 'fs';
 import * as path from 'path';
-import _, { Collection } from 'lodash';
-import moment from 'moment';
+import * as _ from 'lodash';
+import * as moment from 'moment';
+import { Datum, Data, RegionAg, CountryAg, DateAg, CountryLatest, ScrapeData } from '../src/types';
 
-const input = path.join(__dirname, '..', '..', 'csse_covid_19_daily_reports');
+if (process.argv.length !== 3) {
+	throw new Error('Input path to csse_covid_19_daily_reports is required');
+}
+
+const input = process.argv[2];
 const output = path.join(__dirname, '..', 'results', 'out.json');
 
 const parse_csv_line = (line: string): string[] => {
@@ -41,19 +46,6 @@ const parse_csv_line = (line: string): string[] => {
 	return state.out;
 };
 
-interface Datum {
-	region: string;
-	country: string;
-	date: string;
-	cases: number;
-	deaths: number;
-	recovered: number;
-	active: number;
-	ratio: number;
-}
-
-type Data = Datum[];
-
 const zero: Datum = {
 	region: '',
 	country: '',
@@ -74,7 +66,7 @@ const calc_ratio = (recovered: number, deaths: number) => (recovered + deaths) ?
 
 const parse_date = (date: string): string => moment(date, ['YYYY-MM-DDTHH:mm:ss', 'M/D/YYYY H:mm']).format('YYYY-MM-DD');
 
-const data: Collection<Datum> = _(files)
+const data: Data = _(files)
 	.map(name => _(fs.readFileSync(name, 'utf-8'))
 		.split(/[\r\n]+/)
 		.tap(lines => lines.shift())
@@ -98,30 +90,17 @@ const data: Collection<Datum> = _(files)
 	)
 	.flatten()
 	.uniqBy(JSON.stringify)
+	.value()
 	;
 
-type RegionAg = {
-	[country: string]: {
-		[region: string]: Data;
-	};
-};
-
-const by_region: RegionAg = data
+const by_region: RegionAg = _(data)
 	.groupBy('country')
 	.mapValues(x => _.groupBy(x, 'region'))
 	.value();
 
-type DateAg = { [date: string]: Datum };
-
-type CountryAg = {
-	[country: string]: {
-		[date: string]: Data;
-	};
-};
-
-const by_country = data
+const by_country: CountryAg = _(data)
 	.groupBy('country')
-	.mapValues(country_data => _(country_data.reduce<DateAg>(
+	.mapValues((country_data: Data): DateAg => _(country_data.reduce<DateAg>(
 		(xs: DateAg, x: Datum): DateAg => {
 			const ag = xs[x.date] || zero;
 			xs[x.date] = <Datum> {
@@ -144,7 +123,7 @@ const by_country = data
 	)
 	.value();
 
-const country_latest: { [country: string]: Datum } = _(by_country)
+const country_latest: CountryLatest = _(by_country)
 	.mapValues(xs => _(xs)
 			.sortBy('date')
 			.reverse()
@@ -152,7 +131,8 @@ const country_latest: { [country: string]: Datum } = _(by_country)
 	)
 	.value();
 
-const result = {
+const result: ScrapeData = {
+	data,
 	by_region,
 	by_country,
 	country_latest,

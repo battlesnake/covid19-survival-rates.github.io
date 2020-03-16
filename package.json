@@ -5,18 +5,32 @@
   "author": "Mark K Cowan",
   "license": "MIT",
   "dependencies": {
-    "@types/lodash": "^4.14.149",
-    "@types/moment": "^2.13.0",
-    "@types/node": "^13.9.1",
+    "d3": "^5.15.0",
+    "d3-color": "^1.4.0",
+    "d3-time": "^1.1.0",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
-    "ts-node": "^8.6.2",
-    "tslint": "^6.1.0",
-    "typescript": "^3.8.3"
+    "webpack-cli": "^3.3.11"
   },
   "scripts": {
     "lint": "tslint --project .",
-    "compile": "tsc -b .",
-    "scrape": "ts-node src/scrape.ts"
+    "compile": "tsc --build tsconfig.json && webpack --config webpack.config.js --mode development",
+    "copy": "cp src/*.{html,css} results/*.json bin/",
+    "build": "yarn compile && yarn copy",
+    "etl": "ts-node pre/etl.ts ../csse_covid_19_daily_reports",
+    "serve": "http-server bin/ -p 8000",
+    "start": "yarn build && yarn serve"
+  },
+  "devDependencies": {
+    "@types/d3": "^5.7.2",
+    "@types/lodash": "^4.14.149",
+    "@types/moment": "^2.13.0",
+    "@types/node": "^13.9.1",
+    "http-server": "^0.12.1",
+    "ts-loader": "^6.2.1",
+    "ts-node": "^8.6.2",
+    "tslint": "^6.1.0",
+    "typescript": "^3.8.3",
+    "webpack": "^4.42.0"
   }
 }
