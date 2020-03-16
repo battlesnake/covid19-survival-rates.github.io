@@ -8,6 +8,9 @@ const margin = { left: 200, top: 200, right: 200, bottom: 20 };
 const width_outer = 1200;
 const height_outer = 1200;
 
+d3.select('main>*')
+	.remove();
+
 const svg_root = d3.select('main')
 	.append('svg')
 		.attr('preserveAspectRatio', 'xMinYMin meet')
@@ -66,7 +69,7 @@ const svg = svg_root.append('g')
 		.attr('class', 'x-axis')
 		.call(d3.axisTop(x_date)
 			.tickSize(-height)
-			.tickFormat(<any> d3.timeFormat('%Y-%m-%d')))
+			.tickFormat(<any> d3.timeFormat('%d %b')))
 		.select('.domain').remove();
 	/* Y-axis, with spacing */
 	const y_ratio = d3.scaleLinear()

@@ -14,7 +14,7 @@
   },
   "scripts": {
     "lint": "tslint --project .",
-    "compile": "tsc --build tsconfig.json && webpack --config webpack.config.js --mode development",
+    "compile": "tsc --build tsconfig.json && webpack --config webpack.config.js --mode production",
     "copy": "bash -c \"cp src/*.{html,css} results/*.json bin/\"",
     "build": "yarn compile && yarn copy",
     "etl": "ts-node pre/etl.ts ../csse_covid_19_daily_reports",
