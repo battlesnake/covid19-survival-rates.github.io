@@ -1,4 +1,1 @@
-*.js
-*.js.map
-results/*.json
 bin/
