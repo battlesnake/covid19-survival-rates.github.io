@@ -37,7 +37,6 @@ const svg = svg_root.append('g')
 				.map(({ date, ratio }) => [new Date(date), ratio])
 				.tap(xs => {
 					xs.unshift([<Date> d3.min(xs, d => d[0]), 0]);
-					xs.unshift([<Date> d3.min(dates), 0]);
 					xs.push(xs[xs.length - 1]);
 					xs.push([<Date> d3.max(xs, d => d[0]), 0]);
 				})
