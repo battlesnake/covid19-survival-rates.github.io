@@ -41169,6 +41169,2026 @@
 			"recovered": 0,
 			"active": 0,
 			"ratio": 0
+		},
+		{
+			"region": "Hubei",
+			"country": "China",
+			"date": "2020-03-18",
+			"cases": 67800,
+			"deaths": 3122,
+			"recovered": 56927,
+			"active": 7751,
+			"ratio": 0.9480091258805309
+		},
+		{
+			"region": "",
+			"country": "Italy",
+			"date": "2020-03-18",
+			"cases": 35713,
+			"deaths": 2978,
+			"recovered": 4025,
+			"active": 28710,
+			"ratio": 0.5747536769955733
+		},
+		{
+			"region": "",
+			"country": "Iran",
+			"date": "2020-03-18",
+			"cases": 17361,
+			"deaths": 1135,
+			"recovered": 5389,
+			"active": 10837,
+			"ratio": 0.826026977314531
+		},
+		{
+			"region": "",
+			"country": "Spain",
+			"date": "2020-03-18",
+			"cases": 13910,
+			"deaths": 623,
+			"recovered": 1081,
+			"active": 12206,
+			"ratio": 0.6343896713615024
+		},
+		{
+			"region": "",
+			"country": "Germany",
+			"date": "2020-03-18",
+			"cases": 12327,
+			"deaths": 28,
+			"recovered": 105,
+			"active": 12194,
+			"ratio": 0.7894736842105263
+		},
+		{
+			"region": "France",
+			"country": "France",
+			"date": "2020-03-18",
+			"cases": 9043,
+			"deaths": 148,
+			"recovered": 12,
+			"active": 8883,
+			"ratio": 0.075
+		},
+		{
+			"region": "",
+			"country": "South Korea",
+			"date": "2020-03-18",
+			"cases": 8413,
+			"deaths": 84,
+			"recovered": 1540,
+			"active": 6789,
+			"ratio": 0.9482758620689655
+		},
+		{
+			"region": "",
+			"country": "Switzerland",
+			"date": "2020-03-18",
+			"cases": 3028,
+			"deaths": 28,
+			"recovered": 15,
+			"active": 2985,
+			"ratio": 0.3488372093023256
+		},
+		{
+			"region": "United Kingdom",
+			"country": "United Kingdom",
+			"date": "2020-03-18",
+			"cases": 2626,
+			"deaths": 71,
+			"recovered": 65,
+			"active": 2490,
+			"ratio": 0.47794117647058826
+		},
+		{
+			"region": "New York",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 2495,
+			"deaths": 16,
+			"recovered": 0,
+			"active": 2479,
+			"ratio": 0
+		},
+		{
+			"region": "Netherlands",
+			"country": "Netherlands",
+			"date": "2020-03-18",
+			"cases": 2051,
+			"deaths": 58,
+			"recovered": 2,
+			"active": 1991,
+			"ratio": 0.03333333333333333
+		},
+		{
+			"region": "",
+			"country": "Austria",
+			"date": "2020-03-18",
+			"cases": 1646,
+			"deaths": 4,
+			"recovered": 9,
+			"active": 1633,
+			"ratio": 0.6923076923076923
+		},
+		{
+			"region": "",
+			"country": "Norway",
+			"date": "2020-03-18",
+			"cases": 1550,
+			"deaths": 6,
+			"recovered": 1,
+			"active": 1543,
+			"ratio": 0.14285714285714285
+		},
+		{
+			"region": "",
+			"country": "Belgium",
+			"date": "2020-03-18",
+			"cases": 1486,
+			"deaths": 14,
+			"recovered": 31,
+			"active": 1441,
+			"ratio": 0.6888888888888889
+		},
+		{
+			"region": "Guangdong",
+			"country": "China",
+			"date": "2020-03-18",
+			"cases": 1370,
+			"deaths": 8,
+			"recovered": 1313,
+			"active": 49,
+			"ratio": 0.9939439818319455
+		},
+		{
+			"region": "",
+			"country": "Sweden",
+			"date": "2020-03-18",
+			"cases": 1279,
+			"deaths": 10,
+			"recovered": 1,
+			"active": 1268,
+			"ratio": 0.09090909090909091
+		},
+		{
+			"region": "Denmark",
+			"country": "Denmark",
+			"date": "2020-03-18",
+			"cases": 1057,
+			"deaths": 4,
+			"recovered": 1,
+			"active": 1052,
+			"ratio": 0.2
+		},
+		{
+			"region": "Washington",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 1014,
+			"deaths": 55,
+			"recovered": 0,
+			"active": 959,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Japan",
+			"date": "2020-03-18",
+			"cases": 889,
+			"deaths": 29,
+			"recovered": 144,
+			"active": 716,
+			"ratio": 0.8323699421965318
+		},
+		{
+			"region": "",
+			"country": "Malaysia",
+			"date": "2020-03-18",
+			"cases": 790,
+			"deaths": 2,
+			"recovered": 60,
+			"active": 728,
+			"ratio": 0.967741935483871
+		},
+		{
+			"region": "California",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 751,
+			"deaths": 13,
+			"recovered": 0,
+			"active": 738,
+			"ratio": 0
+		},
+		{
+			"region": "Diamond Princess",
+			"country": "Cruise Ship",
+			"date": "2020-03-18",
+			"cases": 712,
+			"deaths": 7,
+			"recovered": 325,
+			"active": 380,
+			"ratio": 0.9789156626506024
+		},
+		{
+			"region": "Sichuan",
+			"country": "China",
+			"date": "2020-03-18",
+			"cases": 540,
+			"deaths": 3,
+			"recovered": 525,
+			"active": 12,
+			"ratio": 0.9943181818181818
+		},
+		{
+			"region": "Heilongjiang",
+			"country": "China",
+			"date": "2020-03-18",
+			"cases": 482,
+			"deaths": 13,
+			"recovered": 459,
+			"active": 10,
+			"ratio": 0.972457627118644
+		},
+		{
+			"region": "Beijing",
+			"country": "China",
+			"date": "2020-03-18",
+			"cases": 469,
+			"deaths": 8,
+			"recovered": 378,
+			"active": 83,
+			"ratio": 0.9792746113989638
+		},
+		{
+			"region": "",
+			"country": "Czechia",
+			"date": "2020-03-18",
+			"cases": 464,
+			"deaths": 0,
+			"recovered": 3,
+			"active": 461,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Qatar",
+			"date": "2020-03-18",
+			"cases": 452,
+			"deaths": 0,
+			"recovered": 4,
+			"active": 448,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Portugal",
+			"date": "2020-03-18",
+			"cases": 448,
+			"deaths": 2,
+			"recovered": 3,
+			"active": 443,
+			"ratio": 0.6
+		},
+		{
+			"region": "",
+			"country": "Israel",
+			"date": "2020-03-18",
+			"cases": 433,
+			"deaths": 0,
+			"recovered": 11,
+			"active": 422,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Greece",
+			"date": "2020-03-18",
+			"cases": 418,
+			"deaths": 5,
+			"recovered": 8,
+			"active": 405,
+			"ratio": 0.6153846153846154
+		},
+		{
+			"region": "",
+			"country": "Brazil",
+			"date": "2020-03-18",
+			"cases": 372,
+			"deaths": 3,
+			"recovered": 2,
+			"active": 367,
+			"ratio": 0.4
+		},
+		{
+			"region": "Shanghai",
+			"country": "China",
+			"date": "2020-03-18",
+			"cases": 361,
+			"deaths": 3,
+			"recovered": 326,
+			"active": 32,
+			"ratio": 0.9908814589665653
+		},
+		{
+			"region": "",
+			"country": "Finland",
+			"date": "2020-03-18",
+			"cases": 336,
+			"deaths": 0,
+			"recovered": 10,
+			"active": 326,
+			"ratio": 1
+		},
+		{
+			"region": "Florida",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 314,
+			"deaths": 7,
+			"recovered": 0,
+			"active": 307,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Singapore",
+			"date": "2020-03-18",
+			"cases": 313,
+			"deaths": 0,
+			"recovered": 114,
+			"active": 199,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Pakistan",
+			"date": "2020-03-18",
+			"cases": 299,
+			"deaths": 0,
+			"recovered": 2,
+			"active": 297,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Ireland",
+			"date": "2020-03-18",
+			"cases": 292,
+			"deaths": 2,
+			"recovered": 5,
+			"active": 285,
+			"ratio": 0.7142857142857143
+		},
+		{
+			"region": "New South Wales",
+			"country": "Australia",
+			"date": "2020-03-18",
+			"cases": 267,
+			"deaths": 5,
+			"recovered": 4,
+			"active": 258,
+			"ratio": 0.4444444444444444
+		},
+		{
+			"region": "New Jersey",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 267,
+			"deaths": 3,
+			"recovered": 0,
+			"active": 264,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Romania",
+			"date": "2020-03-18",
+			"cases": 260,
+			"deaths": 0,
+			"recovered": 19,
+			"active": 241,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Estonia",
+			"date": "2020-03-18",
+			"cases": 258,
+			"deaths": 0,
+			"recovered": 1,
+			"active": 257,
+			"ratio": 1
+		},
+		{
+			"region": "Louisiana",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 257,
+			"deaths": 4,
+			"recovered": 0,
+			"active": 253,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Bahrain",
+			"date": "2020-03-18",
+			"cases": 256,
+			"deaths": 1,
+			"recovered": 88,
+			"active": 167,
+			"ratio": 0.9887640449438202
+		},
+		{
+			"region": "Guangxi",
+			"country": "China",
+			"date": "2020-03-18",
+			"cases": 253,
+			"deaths": 2,
+			"recovered": 250,
+			"active": 1,
+			"ratio": 0.9920634920634921
+		},
+		{
+			"region": "",
+			"country": "Poland",
+			"date": "2020-03-18",
+			"cases": 251,
+			"deaths": 5,
+			"recovered": 13,
+			"active": 233,
+			"ratio": 0.7222222222222222
+		},
+		{
+			"region": "",
+			"country": "Iceland",
+			"date": "2020-03-18",
+			"cases": 250,
+			"deaths": 1,
+			"recovered": 5,
+			"active": 244,
+			"ratio": 0.8333333333333334
+		},
+		{
+			"region": "Shaanxi",
+			"country": "China",
+			"date": "2020-03-18",
+			"cases": 246,
+			"deaths": 3,
+			"recovered": 237,
+			"active": 6,
+			"ratio": 0.9875
+		},
+		{
+			"region": "",
+			"country": "Chile",
+			"date": "2020-03-18",
+			"cases": 238,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 238,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Indonesia",
+			"date": "2020-03-18",
+			"cases": 227,
+			"deaths": 19,
+			"recovered": 11,
+			"active": 197,
+			"ratio": 0.36666666666666664
+		},
+		{
+			"region": "Ontario",
+			"country": "Canada",
+			"date": "2020-03-18",
+			"cases": 221,
+			"deaths": 1,
+			"recovered": 5,
+			"active": 215,
+			"ratio": 0.8333333333333334
+		},
+		{
+			"region": "Massachusetts",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 218,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 218,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Thailand",
+			"date": "2020-03-18",
+			"cases": 212,
+			"deaths": 1,
+			"recovered": 42,
+			"active": 169,
+			"ratio": 0.9767441860465116
+		},
+		{
+			"region": "",
+			"country": "Luxembourg",
+			"date": "2020-03-18",
+			"cases": 203,
+			"deaths": 2,
+			"recovered": 0,
+			"active": 201,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Philippines",
+			"date": "2020-03-18",
+			"cases": 202,
+			"deaths": 19,
+			"recovered": 5,
+			"active": 178,
+			"ratio": 0.20833333333333334
+		},
+		{
+			"region": "Georgia",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 199,
+			"deaths": 3,
+			"recovered": 0,
+			"active": 196,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Egypt",
+			"date": "2020-03-18",
+			"cases": 196,
+			"deaths": 6,
+			"recovered": 32,
+			"active": 158,
+			"ratio": 0.8421052631578947
+		},
+		{
+			"region": "British Columbia",
+			"country": "Canada",
+			"date": "2020-03-18",
+			"cases": 186,
+			"deaths": 7,
+			"recovered": 4,
+			"active": 175,
+			"ratio": 0.36363636363636365
+		},
+		{
+			"region": "Colorado",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 184,
+			"deaths": 2,
+			"recovered": 0,
+			"active": 182,
+			"ratio": 0
+		},
+		{
+			"region": "Hong Kong",
+			"country": "China",
+			"date": "2020-03-18",
+			"cases": 181,
+			"deaths": 4,
+			"recovered": 92,
+			"active": 85,
+			"ratio": 0.9583333333333334
+		},
+		{
+			"region": "Texas",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 173,
+			"deaths": 3,
+			"recovered": 0,
+			"active": 170,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Iraq",
+			"date": "2020-03-18",
+			"cases": 164,
+			"deaths": 12,
+			"recovered": 43,
+			"active": 109,
+			"ratio": 0.7818181818181819
+		},
+		{
+			"region": "Illinois",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 162,
+			"deaths": 1,
+			"recovered": 0,
+			"active": 161,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "India",
+			"date": "2020-03-18",
+			"cases": 156,
+			"deaths": 3,
+			"recovered": 14,
+			"active": 139,
+			"ratio": 0.8235294117647058
+		},
+		{
+			"region": "Pennsylvania",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 152,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 152,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Russia",
+			"date": "2020-03-18",
+			"cases": 147,
+			"deaths": 0,
+			"recovered": 8,
+			"active": 139,
+			"ratio": 1
+		},
+		{
+			"region": "Guizhou",
+			"country": "China",
+			"date": "2020-03-18",
+			"cases": 146,
+			"deaths": 2,
+			"recovered": 144,
+			"active": 0,
+			"ratio": 0.9863013698630136
+		},
+		{
+			"region": "",
+			"country": "Peru",
+			"date": "2020-03-18",
+			"cases": 145,
+			"deaths": 0,
+			"recovered": 1,
+			"active": 144,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Kuwait",
+			"date": "2020-03-18",
+			"cases": 142,
+			"deaths": 0,
+			"recovered": 15,
+			"active": 127,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Lebanon",
+			"date": "2020-03-18",
+			"cases": 133,
+			"deaths": 3,
+			"recovered": 3,
+			"active": 127,
+			"ratio": 0.5
+		},
+		{
+			"region": "Liaoning",
+			"country": "China",
+			"date": "2020-03-18",
+			"cases": 125,
+			"deaths": 1,
+			"recovered": 122,
+			"active": 2,
+			"ratio": 0.991869918699187
+		},
+		{
+			"region": "Victoria",
+			"country": "Australia",
+			"date": "2020-03-18",
+			"cases": 121,
+			"deaths": 0,
+			"recovered": 8,
+			"active": 113,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "San Marino",
+			"date": "2020-03-18",
+			"cases": 119,
+			"deaths": 11,
+			"recovered": 4,
+			"active": 104,
+			"ratio": 0.26666666666666666
+		},
+		{
+			"region": "",
+			"country": "South Africa",
+			"date": "2020-03-18",
+			"cases": 116,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 116,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "United Arab Emirates",
+			"date": "2020-03-18",
+			"cases": 113,
+			"deaths": 0,
+			"recovered": 26,
+			"active": 87,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Ecuador",
+			"date": "2020-03-18",
+			"cases": 111,
+			"deaths": 2,
+			"recovered": 0,
+			"active": 109,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Slovakia",
+			"date": "2020-03-18",
+			"cases": 105,
+			"deaths": 1,
+			"recovered": 0,
+			"active": 104,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Taiwan",
+			"date": "2020-03-18",
+			"cases": 100,
+			"deaths": 1,
+			"recovered": 22,
+			"active": 77,
+			"ratio": 0.9565217391304348
+		},
+		{
+			"region": "",
+			"country": "Turkey",
+			"date": "2020-03-18",
+			"cases": 98,
+			"deaths": 1,
+			"recovered": 0,
+			"active": 97,
+			"ratio": 0
+		},
+		{
+			"region": "Alberta",
+			"country": "Canada",
+			"date": "2020-03-18",
+			"cases": 97,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 97,
+			"ratio": 0
+		},
+		{
+			"region": "Queensland",
+			"country": "Australia",
+			"date": "2020-03-18",
+			"cases": 94,
+			"deaths": 0,
+			"recovered": 8,
+			"active": 86,
+			"ratio": 1
+		},
+		{
+			"region": "Quebec",
+			"country": "Canada",
+			"date": "2020-03-18",
+			"cases": 94,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 94,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Colombia",
+			"date": "2020-03-18",
+			"cases": 93,
+			"deaths": 0,
+			"recovered": 1,
+			"active": 92,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Mexico",
+			"date": "2020-03-18",
+			"cases": 93,
+			"deaths": 0,
+			"recovered": 4,
+			"active": 89,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Bulgaria",
+			"date": "2020-03-18",
+			"cases": 92,
+			"deaths": 2,
+			"recovered": 0,
+			"active": 90,
+			"ratio": 0
+		},
+		{
+			"region": "Wisconsin",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 92,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 92,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Panama",
+			"date": "2020-03-18",
+			"cases": 86,
+			"deaths": 1,
+			"recovered": 0,
+			"active": 85,
+			"ratio": 0
+		},
+		{
+			"region": "Ohio",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 86,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 86,
+			"ratio": 0
+		},
+		{
+			"region": "Maryland",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 85,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 85,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Armenia",
+			"date": "2020-03-18",
+			"cases": 84,
+			"deaths": 0,
+			"recovered": 1,
+			"active": 83,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Serbia",
+			"date": "2020-03-18",
+			"cases": 83,
+			"deaths": 0,
+			"recovered": 1,
+			"active": 82,
+			"ratio": 1
+		},
+		{
+			"region": "Michigan",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 83,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 83,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Croatia",
+			"date": "2020-03-18",
+			"cases": 81,
+			"deaths": 0,
+			"recovered": 4,
+			"active": 77,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Argentina",
+			"date": "2020-03-18",
+			"cases": 79,
+			"deaths": 2,
+			"recovered": 3,
+			"active": 74,
+			"ratio": 0.6
+		},
+		{
+			"region": "Tennessee",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 79,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 79,
+			"ratio": 0
+		},
+		{
+			"region": "Minnesota",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 77,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 77,
+			"ratio": 0
+		},
+		{
+			"region": "Virginia",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 77,
+			"deaths": 2,
+			"recovered": 0,
+			"active": 75,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Vietnam",
+			"date": "2020-03-18",
+			"cases": 75,
+			"deaths": 0,
+			"recovered": 16,
+			"active": 59,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Algeria",
+			"date": "2020-03-18",
+			"cases": 74,
+			"deaths": 7,
+			"recovered": 12,
+			"active": 55,
+			"ratio": 0.631578947368421
+		},
+		{
+			"region": "",
+			"country": "Latvia",
+			"date": "2020-03-18",
+			"cases": 71,
+			"deaths": 0,
+			"recovered": 1,
+			"active": 70,
+			"ratio": 1
+		},
+		{
+			"region": "North Carolina",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 70,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 70,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Brunei",
+			"date": "2020-03-18",
+			"cases": 68,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 68,
+			"ratio": 0
+		},
+		{
+			"region": "Oregon",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 68,
+			"deaths": 2,
+			"recovered": 0,
+			"active": 66,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Albania",
+			"date": "2020-03-18",
+			"cases": 59,
+			"deaths": 2,
+			"recovered": 0,
+			"active": 57,
+			"ratio": 0
+		},
+		{
+			"region": "Faroe Islands",
+			"country": "Denmark",
+			"date": "2020-03-18",
+			"cases": 58,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 58,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Hungary",
+			"date": "2020-03-18",
+			"cases": 58,
+			"deaths": 1,
+			"recovered": 2,
+			"active": 55,
+			"ratio": 0.6666666666666666
+		},
+		{
+			"region": "Nevada",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 55,
+			"deaths": 1,
+			"recovered": 0,
+			"active": 54,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Jordan",
+			"date": "2020-03-18",
+			"cases": 52,
+			"deaths": 0,
+			"recovered": 1,
+			"active": 51,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Belarus",
+			"date": "2020-03-18",
+			"cases": 51,
+			"deaths": 0,
+			"recovered": 5,
+			"active": 46,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Sri Lanka",
+			"date": "2020-03-18",
+			"cases": 51,
+			"deaths": 0,
+			"recovered": 1,
+			"active": 50,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Costa Rica",
+			"date": "2020-03-18",
+			"cases": 50,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 50,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Uruguay",
+			"date": "2020-03-18",
+			"cases": 50,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 50,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Cyprus",
+			"date": "2020-03-18",
+			"cases": 49,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 49,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Morocco",
+			"date": "2020-03-18",
+			"cases": 49,
+			"deaths": 2,
+			"recovered": 1,
+			"active": 46,
+			"ratio": 0.3333333333333333
+		},
+		{
+			"region": "Alabama",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 46,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 46,
+			"ratio": 0
+		},
+		{
+			"region": "Maine",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 42,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 42,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Oman",
+			"date": "2020-03-18",
+			"cases": 39,
+			"deaths": 0,
+			"recovered": 12,
+			"active": 27,
+			"ratio": 1
+		},
+		{
+			"region": "Indiana",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 39,
+			"deaths": 2,
+			"recovered": 0,
+			"active": 37,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Bosnia and Herzegovina",
+			"date": "2020-03-18",
+			"cases": 38,
+			"deaths": 0,
+			"recovered": 2,
+			"active": 36,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Georgia",
+			"date": "2020-03-18",
+			"cases": 38,
+			"deaths": 0,
+			"recovered": 1,
+			"active": 37,
+			"ratio": 1
+		},
+		{
+			"region": "South Australia",
+			"country": "Australia",
+			"date": "2020-03-18",
+			"cases": 37,
+			"deaths": 0,
+			"recovered": 3,
+			"active": 34,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Venezuela",
+			"date": "2020-03-18",
+			"cases": 36,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 36,
+			"ratio": 0
+		},
+		{
+			"region": "Western Australia",
+			"country": "Australia",
+			"date": "2020-03-18",
+			"cases": 35,
+			"deaths": 1,
+			"recovered": 0,
+			"active": 34,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Cambodia",
+			"date": "2020-03-18",
+			"cases": 35,
+			"deaths": 0,
+			"recovered": 1,
+			"active": 34,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Kazakhstan",
+			"date": "2020-03-18",
+			"cases": 35,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 35,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "North Macedonia",
+			"date": "2020-03-18",
+			"cases": 35,
+			"deaths": 0,
+			"recovered": 1,
+			"active": 34,
+			"ratio": 1
+		},
+		{
+			"region": "Mississippi",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 34,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 34,
+			"ratio": 0
+		},
+		{
+			"region": "Arkansas",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 33,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 33,
+			"ratio": 0
+		},
+		{
+			"region": "Rhode Island",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 33,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 33,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Senegal",
+			"date": "2020-03-18",
+			"cases": 31,
+			"deaths": 0,
+			"recovered": 2,
+			"active": 29,
+			"ratio": 1
+		},
+		{
+			"region": "District of Columbia",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 31,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 31,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Moldova",
+			"date": "2020-03-18",
+			"cases": 30,
+			"deaths": 1,
+			"recovered": 1,
+			"active": 28,
+			"ratio": 0.5
+		},
+		{
+			"region": "",
+			"country": "Tunisia",
+			"date": "2020-03-18",
+			"cases": 29,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 29,
+			"ratio": 0
+		},
+		{
+			"region": "Iowa",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 29,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 29,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Liechtenstein",
+			"date": "2020-03-18",
+			"cases": 28,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 28,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Guadeloupe",
+			"date": "2020-03-18",
+			"cases": 27,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 27,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Lithuania",
+			"date": "2020-03-18",
+			"cases": 27,
+			"deaths": 0,
+			"recovered": 1,
+			"active": 26,
+			"ratio": 1
+		},
+		{
+			"region": "Arizona",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 27,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 27,
+			"ratio": 0
+		},
+		{
+			"region": "Kentucky",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 27,
+			"deaths": 1,
+			"recovered": 0,
+			"active": 26,
+			"ratio": 0
+		},
+		{
+			"region": "Nebraska",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 24,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 24,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Burkina Faso",
+			"date": "2020-03-18",
+			"cases": 20,
+			"deaths": 1,
+			"recovered": 0,
+			"active": 19,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "New Zealand",
+			"date": "2020-03-18",
+			"cases": 20,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 20,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Martinique",
+			"date": "2020-03-18",
+			"cases": 19,
+			"deaths": 1,
+			"recovered": 0,
+			"active": 18,
+			"ratio": 0
+		},
+		{
+			"region": "Delaware",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 19,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 19,
+			"ratio": 0
+		},
+		{
+			"region": "Missouri",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 18,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 18,
+			"ratio": 0
+		},
+		{
+			"region": "Vermont",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 18,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 18,
+			"ratio": 0
+		},
+		{
+			"region": "Manitoba",
+			"country": "Canada",
+			"date": "2020-03-18",
+			"cases": 15,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 15,
+			"ratio": 0
+		},
+		{
+			"region": "Macau",
+			"country": "China",
+			"date": "2020-03-18",
+			"cases": 15,
+			"deaths": 0,
+			"recovered": 10,
+			"active": 5,
+			"ratio": 1
+		},
+		{
+			"region": "Wyoming",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 15,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 15,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Uzbekistan",
+			"date": "2020-03-18",
+			"cases": 15,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 15,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Bangladesh",
+			"date": "2020-03-18",
+			"cases": 14,
+			"deaths": 1,
+			"recovered": 3,
+			"active": 10,
+			"ratio": 0.75
+		},
+		{
+			"region": "Hawaii",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 14,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 14,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Jamaica",
+			"date": "2020-03-18",
+			"cases": 13,
+			"deaths": 0,
+			"recovered": 2,
+			"active": 11,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Bolivia",
+			"date": "2020-03-18",
+			"cases": 12,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 12,
+			"ratio": 0
+		},
+		{
+			"region": "Nova Scotia",
+			"country": "Canada",
+			"date": "2020-03-18",
+			"cases": 12,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 12,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Reunion",
+			"date": "2020-03-18",
+			"cases": 12,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 12,
+			"ratio": 0
+		},
+		{
+			"region": "New Brunswick",
+			"country": "Canada",
+			"date": "2020-03-18",
+			"cases": 11,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 11,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Paraguay",
+			"date": "2020-03-18",
+			"cases": 11,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 11,
+			"ratio": 0
+		},
+		{
+			"region": "Montana",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 11,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 11,
+			"ratio": 0
+		},
+		{
+			"region": "Tasmania",
+			"country": "Australia",
+			"date": "2020-03-18",
+			"cases": 10,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 10,
+			"ratio": 0
+		},
+		{
+			"region": "Grand Princess",
+			"country": "Canada",
+			"date": "2020-03-18",
+			"cases": 9,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 9,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Honduras",
+			"date": "2020-03-18",
+			"cases": 9,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 9,
+			"ratio": 0
+		},
+		{
+			"region": "Idaho",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 9,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 9,
+			"ratio": 0
+		},
+		{
+			"region": "Saskatchewan",
+			"country": "Canada",
+			"date": "2020-03-18",
+			"cases": 8,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 8,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Nigeria",
+			"date": "2020-03-18",
+			"cases": 8,
+			"deaths": 0,
+			"recovered": 1,
+			"active": 7,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Rwanda",
+			"date": "2020-03-18",
+			"cases": 8,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 8,
+			"ratio": 0
+		},
+		{
+			"region": "Gibraltar",
+			"country": "United Kingdom",
+			"date": "2020-03-18",
+			"cases": 8,
+			"deaths": 0,
+			"recovered": 2,
+			"active": 6,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Cuba",
+			"date": "2020-03-18",
+			"cases": 7,
+			"deaths": 1,
+			"recovered": 0,
+			"active": 6,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Trinidad and Tobago",
+			"date": "2020-03-18",
+			"cases": 7,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 7,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Ivory Coast",
+			"date": "2020-03-18",
+			"cases": 6,
+			"deaths": 0,
+			"recovered": 1,
+			"active": 5,
+			"ratio": 1
+		},
+		{
+			"region": "",
+			"country": "Ethiopia",
+			"date": "2020-03-18",
+			"cases": 6,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 6,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Mongolia",
+			"date": "2020-03-18",
+			"cases": 6,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 6,
+			"ratio": 0
+		},
+		{
+			"region": "Alaska",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 6,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 6,
+			"ratio": 0
+		},
+		{
+			"region": "North Dakota",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 6,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 6,
+			"ratio": 0
+		},
+		{
+			"region": "Guam",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 5,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 5,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Aruba",
+			"date": "2020-03-18",
+			"cases": 4,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 4,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Congo (Kinshasa)",
+			"date": "2020-03-18",
+			"cases": 4,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 4,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Equatorial Guinea",
+			"date": "2020-03-18",
+			"cases": 4,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 4,
+			"ratio": 0
+		},
+		{
+			"region": "Australian Capital Territory",
+			"country": "Australia",
+			"date": "2020-03-18",
+			"cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 3,
+			"ratio": 0
+		},
+		{
+			"region": "St Martin",
+			"country": "France",
+			"date": "2020-03-18",
+			"cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 3,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Kyrgyzstan",
+			"date": "2020-03-18",
+			"cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 3,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Mauritius",
+			"date": "2020-03-18",
+			"cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 3,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Mayotte",
+			"date": "2020-03-18",
+			"cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 3,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Tanzania",
+			"date": "2020-03-18",
+			"cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 3,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Barbados",
+			"date": "2020-03-18",
+			"cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 2,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Benin",
+			"date": "2020-03-18",
+			"cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 2,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Liberia",
+			"date": "2020-03-18",
+			"cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 2,
+			"ratio": 0
+		},
+		{
+			"region": "Aruba",
+			"country": "Netherlands",
+			"date": "2020-03-18",
+			"cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 2,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Sudan",
+			"date": "2020-03-18",
+			"cases": 2,
+			"deaths": 1,
+			"recovered": 0,
+			"active": 1,
+			"ratio": 0
+		},
+		{
+			"region": "United States Virgin Islands",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 2,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Zambia",
+			"date": "2020-03-18",
+			"cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 2,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Djibouti",
+			"date": "2020-03-18",
+			"cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 1,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Gambia, The",
+			"date": "2020-03-18",
+			"cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 1,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Montenegro",
+			"date": "2020-03-18",
+			"cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 1,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Somalia",
+			"date": "2020-03-18",
+			"cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 1,
+			"ratio": 0
+		},
+		{
+			"region": "US",
+			"country": "USA",
+			"date": "2020-03-18",
+			"cases": 1,
+			"deaths": 0,
+			"recovered": 106,
+			"active": -105,
+			"ratio": 1
+		},
+		{
+			"region": "Montserrat",
+			"country": "United Kingdom",
+			"date": "2020-03-18",
+			"cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 1,
+			"ratio": 0
+		},
+		{
+			"region": "French Guiana",
+			"country": "France",
+			"date": "2020-03-18",
+			"cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 0,
+			"ratio": 0
+		},
+		{
+			"region": "Guadeloupe",
+			"country": "France",
+			"date": "2020-03-18",
+			"cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 0,
+			"ratio": 0
+		},
+		{
+			"region": "Mayotte",
+			"country": "France",
+			"date": "2020-03-18",
+			"cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 0,
+			"ratio": 0
+		},
+		{
+			"region": "Reunion",
+			"country": "France",
+			"date": "2020-03-18",
+			"cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 0,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "Guam",
+			"date": "2020-03-18",
+			"cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 0,
+			"ratio": 0
+		},
+		{
+			"region": "",
+			"country": "The Gambia",
+			"date": "2020-03-18",
+			"cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 0,
+			"ratio": 0
 		}
 	],
 	"by_region": {
@@ -42195,6 +44215,16 @@
 					"recovered": 369,
 					"active": 79,
 					"ratio": 0.9787798408488063
+				},
+				{
+					"region": "Beijing",
+					"country": "China",
+					"date": "2020-03-18",
+					"cases": 469,
+					"deaths": 8,
+					"recovered": 378,
+					"active": 83,
+					"ratio": 0.9792746113989638
 				}
 			],
 			"Chongqing": [
@@ -44253,6 +46283,16 @@
 					"recovered": 1307,
 					"active": 49,
 					"ratio": 0.993916349809886
+				},
+				{
+					"region": "Guangdong",
+					"country": "China",
+					"date": "2020-03-18",
+					"cases": 1370,
+					"deaths": 8,
+					"recovered": 1313,
+					"active": 49,
+					"ratio": 0.9939439818319455
 				}
 			],
 			"Guangxi": [
@@ -44795,6 +46835,16 @@
 					"recovered": 248,
 					"active": 3,
 					"ratio": 0.992
+				},
+				{
+					"region": "Guangxi",
+					"country": "China",
+					"date": "2020-03-18",
+					"cases": 253,
+					"deaths": 2,
+					"recovered": 250,
+					"active": 1,
+					"ratio": 0.9920634920634921
 				}
 			],
 			"Guizhou": [
@@ -45246,6 +47296,16 @@
 					"deaths": 2,
 					"recovered": 144,
 					"active": 1,
+					"ratio": 0.9863013698630136
+				},
+				{
+					"region": "Guizhou",
+					"country": "China",
+					"date": "2020-03-18",
+					"cases": 146,
+					"deaths": 2,
+					"recovered": 144,
+					"active": 0,
 					"ratio": 0.9863013698630136
 				}
 			],
@@ -46793,6 +48853,16 @@
 					"recovered": 456,
 					"active": 13,
 					"ratio": 0.9722814498933902
+				},
+				{
+					"region": "Heilongjiang",
+					"country": "China",
+					"date": "2020-03-18",
+					"cases": 482,
+					"deaths": 13,
+					"recovered": 459,
+					"active": 10,
+					"ratio": 0.972457627118644
 				}
 			],
 			"Henan": [
@@ -47847,6 +49917,16 @@
 					"recovered": 56003,
 					"active": 8685,
 					"ratio": 0.9473728727543391
+				},
+				{
+					"region": "Hubei",
+					"country": "China",
+					"date": "2020-03-18",
+					"cases": 67800,
+					"deaths": 3122,
+					"recovered": 56927,
+					"active": 7751,
+					"ratio": 0.9480091258805309
 				}
 			],
 			"Hunan": [
@@ -50879,6 +52959,16 @@
 					"recovered": 120,
 					"active": 4,
 					"ratio": 0.9917355371900827
+				},
+				{
+					"region": "Liaoning",
+					"country": "China",
+					"date": "2020-03-18",
+					"cases": 125,
+					"deaths": 1,
+					"recovered": 122,
+					"active": 2,
+					"ratio": 0.991869918699187
 				}
 			],
 			"Ningxia": [
@@ -52035,6 +54125,16 @@
 					"recovered": 236,
 					"active": 7,
 					"ratio": 0.9874476987447699
+				},
+				{
+					"region": "Shaanxi",
+					"country": "China",
+					"date": "2020-03-18",
+					"cases": 246,
+					"deaths": 3,
+					"recovered": 237,
+					"active": 6,
+					"ratio": 0.9875
 				}
 			],
 			"Shandong": [
@@ -53139,6 +55239,16 @@
 					"recovered": 325,
 					"active": 30,
 					"ratio": 0.9908536585365854
+				},
+				{
+					"region": "Shanghai",
+					"country": "China",
+					"date": "2020-03-18",
+					"cases": 361,
+					"deaths": 3,
+					"recovered": 326,
+					"active": 32,
+					"ratio": 0.9908814589665653
 				}
 			],
 			"Shanxi": [
@@ -54163,6 +56273,16 @@
 					"recovered": 520,
 					"active": 17,
 					"ratio": 0.994263862332696
+				},
+				{
+					"region": "Sichuan",
+					"country": "China",
+					"date": "2020-03-18",
+					"cases": 540,
+					"deaths": 3,
+					"recovered": 525,
+					"active": 12,
+					"ratio": 0.9943181818181818
 				}
 			],
 			"Tianjin": [
@@ -56255,6 +58375,16 @@
 					"recovered": 88,
 					"active": 70,
 					"ratio": 0.9565217391304348
+				},
+				{
+					"region": "Hong Kong",
+					"country": "China",
+					"date": "2020-03-18",
+					"cases": 181,
+					"deaths": 4,
+					"recovered": 92,
+					"active": 85,
+					"ratio": 0.9583333333333334
 				}
 			],
 			"Macau": [
@@ -56286,6 +58416,16 @@
 					"deaths": 0,
 					"recovered": 10,
 					"active": 2,
+					"ratio": 1
+				},
+				{
+					"region": "Macau",
+					"country": "China",
+					"date": "2020-03-18",
+					"cases": 15,
+					"deaths": 0,
+					"recovered": 10,
+					"active": 5,
 					"ratio": 1
 				}
 			]
@@ -57391,6 +59531,16 @@
 					"recovered": 22,
 					"active": 54,
 					"ratio": 0.9565217391304348
+				},
+				{
+					"region": "",
+					"country": "Taiwan",
+					"date": "2020-03-18",
+					"cases": 100,
+					"deaths": 1,
+					"recovered": 22,
+					"active": 77,
+					"ratio": 0.9565217391304348
 				}
 			]
 		},
@@ -57575,6 +59725,16 @@
 					"recovered": 1,
 					"active": 1020,
 					"ratio": 0.017857142857142856
+				},
+				{
+					"region": "Washington",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 1014,
+					"deaths": 55,
+					"recovered": 0,
+					"active": 959,
+					"ratio": 0
 				}
 			],
 			"Chicago": [
@@ -57739,6 +59899,16 @@
 					"recovered": 2,
 					"active": 158,
 					"ratio": 0.6666666666666666
+				},
+				{
+					"region": "Illinois",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 162,
+					"deaths": 1,
+					"recovered": 0,
+					"active": 161,
+					"ratio": 0
 				}
 			],
 			"California": [
@@ -57881,6 +60051,16 @@
 					"recovered": 6,
 					"active": 680,
 					"ratio": 0.3333333333333333
+				},
+				{
+					"region": "California",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 751,
+					"deaths": 13,
+					"recovered": 0,
+					"active": 738,
+					"ratio": 0
 				}
 			],
 			"Arizona": [
@@ -58003,6 +60183,16 @@
 					"recovered": 1,
 					"active": 19,
 					"ratio": 1
+				},
+				{
+					"region": "Arizona",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 27,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 27,
+					"ratio": 0
 				}
 			],
 			"Chicago, IL": [
@@ -60833,6 +63023,16 @@
 					"recovered": 0,
 					"active": 1693,
 					"ratio": 0
+				},
+				{
+					"region": "New York",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 2495,
+					"deaths": 16,
+					"recovered": 0,
+					"active": 2479,
+					"ratio": 0
 				}
 			],
 			"Massachusetts": [
@@ -60915,6 +63115,16 @@
 					"recovered": 1,
 					"active": 217,
 					"ratio": 1
+				},
+				{
+					"region": "Massachusetts",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 218,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 218,
+					"ratio": 0
 				}
 			],
 			"Diamond Princess": [
@@ -61071,6 +63281,16 @@
 					"recovered": 0,
 					"active": 145,
 					"ratio": 0
+				},
+				{
+					"region": "Georgia",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 199,
+					"deaths": 3,
+					"recovered": 0,
+					"active": 196,
+					"ratio": 0
 				}
 			],
 			"Colorado": [
@@ -61152,6 +63372,16 @@
 					"deaths": 2,
 					"recovered": 0,
 					"active": 158,
+					"ratio": 0
+				},
+				{
+					"region": "Colorado",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 184,
+					"deaths": 2,
+					"recovered": 0,
+					"active": 182,
 					"ratio": 0
 				}
 			],
@@ -61235,6 +63465,16 @@
 					"recovered": 0,
 					"active": 210,
 					"ratio": 0
+				},
+				{
+					"region": "Florida",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 314,
+					"deaths": 7,
+					"recovered": 0,
+					"active": 307,
+					"ratio": 0
 				}
 			],
 			"New Jersey": [
@@ -61317,6 +63557,16 @@
 					"recovered": 1,
 					"active": 263,
 					"ratio": 0.25
+				},
+				{
+					"region": "New Jersey",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 267,
+					"deaths": 3,
+					"recovered": 0,
+					"active": 264,
+					"ratio": 0
 				}
 			],
 			"Oregon": [
@@ -61398,6 +63648,16 @@
 					"deaths": 1,
 					"recovered": 0,
 					"active": 65,
+					"ratio": 0
+				},
+				{
+					"region": "Oregon",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 68,
+					"deaths": 2,
+					"recovered": 0,
+					"active": 66,
 					"ratio": 0
 				}
 			],
@@ -61481,6 +63741,16 @@
 					"recovered": 0,
 					"active": 109,
 					"ratio": 0
+				},
+				{
+					"region": "Texas",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 173,
+					"deaths": 3,
+					"recovered": 0,
+					"active": 170,
+					"ratio": 0
 				}
 			],
 			"Pennsylvania": [
@@ -61563,6 +63833,16 @@
 					"recovered": 0,
 					"active": 112,
 					"ratio": 0
+				},
+				{
+					"region": "Pennsylvania",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 152,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 152,
+					"ratio": 0
 				}
 			],
 			"Iowa": [
@@ -61634,6 +63914,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 23,
+					"ratio": 0
+				},
+				{
+					"region": "Iowa",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 29,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 29,
 					"ratio": 0
 				}
 			],
@@ -61717,6 +64007,16 @@
 					"recovered": 3,
 					"active": 57,
 					"ratio": 1
+				},
+				{
+					"region": "Maryland",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 85,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 85,
+					"ratio": 0
 				}
 			],
 			"North Carolina": [
@@ -61788,6 +64088,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 64,
+					"ratio": 0
+				},
+				{
+					"region": "North Carolina",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 70,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 70,
 					"ratio": 0
 				}
 			],
@@ -61953,6 +64263,16 @@
 					"recovered": 0,
 					"active": 74,
 					"ratio": 0
+				},
+				{
+					"region": "Tennessee",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 79,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 79,
+					"ratio": 0
 				}
 			],
 			"Virginia": [
@@ -62034,6 +64354,16 @@
 					"deaths": 2,
 					"recovered": 0,
 					"active": 65,
+					"ratio": 0
+				},
+				{
+					"region": "Virginia",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 77,
+					"deaths": 2,
+					"recovered": 0,
+					"active": 75,
 					"ratio": 0
 				}
 			],
@@ -62117,6 +64447,16 @@
 					"recovered": 0,
 					"active": 28,
 					"ratio": 0
+				},
+				{
+					"region": "Indiana",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 39,
+					"deaths": 2,
+					"recovered": 0,
+					"active": 37,
+					"ratio": 0
 				}
 			],
 			"Kentucky": [
@@ -62199,6 +64539,16 @@
 					"recovered": 1,
 					"active": 24,
 					"ratio": 0.5
+				},
+				{
+					"region": "Kentucky",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 27,
+					"deaths": 1,
+					"recovered": 0,
+					"active": 26,
+					"ratio": 0
 				}
 			],
 			"District of Columbia": [
@@ -62240,6 +64590,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 22,
+					"ratio": 0
+				},
+				{
+					"region": "District of Columbia",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 31,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 31,
 					"ratio": 0
 				}
 			],
@@ -62322,6 +64682,16 @@
 					"deaths": 1,
 					"recovered": 0,
 					"active": 55,
+					"ratio": 0
+				},
+				{
+					"region": "Nevada",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 55,
+					"deaths": 1,
+					"recovered": 0,
+					"active": 54,
 					"ratio": 0
 				}
 			],
@@ -62487,6 +64857,16 @@
 					"recovered": 0,
 					"active": 60,
 					"ratio": 0
+				},
+				{
+					"region": "Minnesota",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 77,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 77,
+					"ratio": 0
 				}
 			],
 			"Nebraska": [
@@ -62568,6 +64948,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 21,
+					"ratio": 0
+				},
+				{
+					"region": "Nebraska",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 24,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 24,
 					"ratio": 0
 				}
 			],
@@ -62651,6 +65041,16 @@
 					"recovered": 0,
 					"active": 67,
 					"ratio": 0
+				},
+				{
+					"region": "Ohio",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 86,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 86,
+					"ratio": 0
 				}
 			],
 			"Rhode Island": [
@@ -62712,6 +65112,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 23,
+					"ratio": 0
+				},
+				{
+					"region": "Rhode Island",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 33,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 33,
 					"ratio": 0
 				}
 			],
@@ -62795,6 +65205,16 @@
 					"recovered": 1,
 					"active": 71,
 					"ratio": 1
+				},
+				{
+					"region": "Wisconsin",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 92,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 92,
+					"ratio": 0
 				}
 			],
 			"Connecticut": [
@@ -62938,6 +65358,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 10,
+					"ratio": 0
+				},
+				{
+					"region": "Hawaii",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 14,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 14,
 					"ratio": 0
 				}
 			],
@@ -63217,6 +65647,16 @@
 					"recovered": 0,
 					"active": 192,
 					"ratio": 0
+				},
+				{
+					"region": "Louisiana",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 257,
+					"deaths": 4,
+					"recovered": 0,
+					"active": 253,
+					"ratio": 0
 				}
 			],
 			"Missouri": [
@@ -63278,6 +65718,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 11,
+					"ratio": 0
+				},
+				{
+					"region": "Missouri",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 18,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 18,
 					"ratio": 0
 				}
 			],
@@ -63341,6 +65791,16 @@
 					"recovered": 0,
 					"active": 12,
 					"ratio": 0
+				},
+				{
+					"region": "Vermont",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 18,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 18,
+					"ratio": 0
 				}
 			],
 			"Alaska": [
@@ -63382,6 +65842,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 3,
+					"ratio": 0
+				},
+				{
+					"region": "Alaska",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 6,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 6,
 					"ratio": 0
 				}
 			],
@@ -63455,6 +65925,16 @@
 					"recovered": 0,
 					"active": 22,
 					"ratio": 0
+				},
+				{
+					"region": "Arkansas",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 33,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 33,
+					"ratio": 0
 				}
 			],
 			"Delaware": [
@@ -63527,6 +66007,16 @@
 					"recovered": 0,
 					"active": 16,
 					"ratio": 0
+				},
+				{
+					"region": "Delaware",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 19,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 19,
+					"ratio": 0
 				}
 			],
 			"Idaho": [
@@ -63578,6 +66068,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 8,
+					"ratio": 0
+				},
+				{
+					"region": "Idaho",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 9,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 9,
 					"ratio": 0
 				}
 			],
@@ -63640,6 +66140,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 32,
+					"ratio": 0
+				},
+				{
+					"region": "Maine",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 42,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 42,
 					"ratio": 0
 				}
 			],
@@ -63713,6 +66223,16 @@
 					"recovered": 0,
 					"active": 65,
 					"ratio": 0
+				},
+				{
+					"region": "Michigan",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 83,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 83,
+					"ratio": 0
 				}
 			],
 			"Mississippi": [
@@ -63785,6 +66305,16 @@
 					"recovered": 0,
 					"active": 21,
 					"ratio": 0
+				},
+				{
+					"region": "Mississippi",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 34,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 34,
+					"ratio": 0
 				}
 			],
 			"Montana": [
@@ -63836,6 +66366,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 9,
+					"ratio": 0
+				},
+				{
+					"region": "Montana",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 11,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 11,
 					"ratio": 0
 				}
 			],
@@ -63960,6 +66500,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 3,
+					"ratio": 0
+				},
+				{
+					"region": "North Dakota",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 6,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 6,
 					"ratio": 0
 				}
 			],
@@ -64107,6 +66657,16 @@
 					"recovered": 0,
 					"active": 11,
 					"ratio": 0
+				},
+				{
+					"region": "Wyoming",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 15,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 15,
+					"ratio": 0
 				}
 			],
 			"Alabama": [
@@ -64158,6 +66718,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 39,
+					"ratio": 0
+				},
+				{
+					"region": "Alabama",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 46,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 46,
 					"ratio": 0
 				}
 			],
@@ -64215,6 +66785,16 @@
 					"recovered": 0,
 					"active": 3,
 					"ratio": 0
+				},
+				{
+					"region": "Guam",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 5,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 5,
+					"ratio": 0
 				}
 			],
 			"Virgin Islands": [
@@ -64237,6 +66817,30 @@
 					"recovered": 0,
 					"active": 2,
 					"ratio": 0
+				}
+			],
+			"United States Virgin Islands": [
+				{
+					"region": "United States Virgin Islands",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 2,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 2,
+					"ratio": 0
+				}
+			],
+			"US": [
+				{
+					"region": "US",
+					"country": "USA",
+					"date": "2020-03-18",
+					"cases": 1,
+					"deaths": 0,
+					"recovered": 106,
+					"active": -105,
+					"ratio": 1
 				}
 			]
 		},
@@ -64761,6 +67365,16 @@
 					"recovered": 144,
 					"active": 705,
 					"ratio": 0.8323699421965318
+				},
+				{
+					"region": "",
+					"country": "Japan",
+					"date": "2020-03-18",
+					"cases": 889,
+					"deaths": 29,
+					"recovered": 144,
+					"active": 716,
+					"ratio": 0.8323699421965318
 				}
 			]
 		},
@@ -65115,6 +67729,16 @@
 					"recovered": 41,
 					"active": 135,
 					"ratio": 0.9761904761904762
+				},
+				{
+					"region": "",
+					"country": "Thailand",
+					"date": "2020-03-18",
+					"cases": 212,
+					"deaths": 1,
+					"recovered": 42,
+					"active": 169,
+					"ratio": 0.9767441860465116
 				}
 			]
 		},
@@ -65629,6 +68253,16 @@
 					"recovered": 1407,
 					"active": 6832,
 					"ratio": 0.9455645161290323
+				},
+				{
+					"region": "",
+					"country": "South Korea",
+					"date": "2020-03-18",
+					"cases": 8413,
+					"deaths": 84,
+					"recovered": 1540,
+					"active": 6789,
+					"ratio": 0.9482758620689655
 				}
 			]
 		},
@@ -66083,6 +68717,16 @@
 					"recovered": 114,
 					"active": 152,
 					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Singapore",
+					"date": "2020-03-18",
+					"cases": 313,
+					"deaths": 0,
+					"recovered": 114,
+					"active": 199,
+					"ratio": 1
 				}
 			]
 		},
@@ -66277,6 +68921,16 @@
 					"recovered": 5,
 					"active": 170,
 					"ratio": 0.29411764705882354
+				},
+				{
+					"region": "",
+					"country": "Philippines",
+					"date": "2020-03-18",
+					"cases": 202,
+					"deaths": 19,
+					"recovered": 5,
+					"active": 178,
+					"ratio": 0.20833333333333334
 				}
 			]
 		},
@@ -66631,6 +69285,16 @@
 					"recovered": 49,
 					"active": 622,
 					"ratio": 0.9607843137254902
+				},
+				{
+					"region": "",
+					"country": "Malaysia",
+					"date": "2020-03-18",
+					"cases": 790,
+					"deaths": 2,
+					"recovered": 60,
+					"active": 728,
+					"ratio": 0.967741935483871
 				}
 			]
 		},
@@ -66915,6 +69579,16 @@
 					"recovered": 16,
 					"active": 50,
 					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Vietnam",
+					"date": "2020-03-18",
+					"cases": 75,
+					"deaths": 0,
+					"recovered": 16,
+					"active": 59,
+					"ratio": 1
 				}
 			]
 		},
@@ -67171,6 +69845,16 @@
 					"recovered": 4,
 					"active": 202,
 					"ratio": 0.5
+				},
+				{
+					"region": "New South Wales",
+					"country": "Australia",
+					"date": "2020-03-18",
+					"cases": 267,
+					"deaths": 5,
+					"recovered": 4,
+					"active": 258,
+					"ratio": 0.4444444444444444
 				}
 			],
 			"Victoria": [
@@ -67372,6 +70056,16 @@
 					"deaths": 0,
 					"recovered": 8,
 					"active": 86,
+					"ratio": 1
+				},
+				{
+					"region": "Victoria",
+					"country": "Australia",
+					"date": "2020-03-18",
+					"cases": 121,
+					"deaths": 0,
+					"recovered": 8,
+					"active": 113,
 					"ratio": 1
 				}
 			],
@@ -67575,6 +70269,16 @@
 					"recovered": 8,
 					"active": 70,
 					"ratio": 1
+				},
+				{
+					"region": "Queensland",
+					"country": "Australia",
+					"date": "2020-03-18",
+					"cases": 94,
+					"deaths": 0,
+					"recovered": 8,
+					"active": 86,
+					"ratio": 1
 				}
 			],
 			"South Australia": [
@@ -67686,6 +70390,16 @@
 					"deaths": 0,
 					"recovered": 3,
 					"active": 26,
+					"ratio": 1
+				},
+				{
+					"region": "South Australia",
+					"country": "Australia",
+					"date": "2020-03-18",
+					"cases": 37,
+					"deaths": 0,
+					"recovered": 3,
+					"active": 34,
 					"ratio": 1
 				}
 			],
@@ -67851,6 +70565,16 @@
 					"recovered": 0,
 					"active": 30,
 					"ratio": 0
+				},
+				{
+					"region": "Western Australia",
+					"country": "Australia",
+					"date": "2020-03-18",
+					"cases": 35,
+					"deaths": 1,
+					"recovered": 0,
+					"active": 34,
+					"ratio": 0
 				}
 			],
 			"Tasmania": [
@@ -67922,6 +70646,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 7,
+					"ratio": 0
+				},
+				{
+					"region": "Tasmania",
+					"country": "Australia",
+					"date": "2020-03-18",
+					"cases": 10,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 10,
 					"ratio": 0
 				}
 			],
@@ -68006,6 +70740,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 2,
+					"ratio": 0
+				},
+				{
+					"region": "Australian Capital Territory",
+					"country": "Australia",
+					"date": "2020-03-18",
+					"cases": 3,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 3,
 					"ratio": 0
 				}
 			]
@@ -68161,6 +70905,16 @@
 					"recovered": 4,
 					"active": 78,
 					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Mexico",
+					"date": "2020-03-18",
+					"cases": 93,
+					"deaths": 0,
+					"recovered": 4,
+					"active": 89,
+					"ratio": 1
 				}
 			]
 		},
@@ -68315,6 +71069,16 @@
 					"recovered": 2,
 					"active": 318,
 					"ratio": 0.6666666666666666
+				},
+				{
+					"region": "",
+					"country": "Brazil",
+					"date": "2020-03-18",
+					"cases": 372,
+					"deaths": 3,
+					"recovered": 2,
+					"active": 367,
+					"ratio": 0.4
 				}
 			]
 		},
@@ -68418,6 +71182,16 @@
 					"deaths": 0,
 					"recovered": 1,
 					"active": 64,
+					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Colombia",
+					"date": "2020-03-18",
+					"cases": 93,
+					"deaths": 0,
+					"recovered": 1,
+					"active": 92,
 					"ratio": 1
 				}
 			]
@@ -68755,6 +71529,16 @@
 					"recovered": 12,
 					"active": 7492,
 					"ratio": 0.075
+				},
+				{
+					"region": "France",
+					"country": "France",
+					"date": "2020-03-18",
+					"cases": 9043,
+					"deaths": 148,
+					"recovered": 12,
+					"active": 8883,
+					"ratio": 0.075
 				}
 			],
 			"St Martin": [
@@ -68776,6 +71560,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 2,
+					"ratio": 0
+				},
+				{
+					"region": "St Martin",
+					"country": "France",
+					"date": "2020-03-18",
+					"cases": 3,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 3,
 					"ratio": 0
 				}
 			],
@@ -68875,6 +71669,16 @@
 					"recovered": 0,
 					"active": 1,
 					"ratio": 0
+				},
+				{
+					"region": "Mayotte",
+					"country": "France",
+					"date": "2020-03-18",
+					"cases": 0,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 0,
+					"ratio": 0
 				}
 			],
 			"French Guiana": [
@@ -68907,6 +71711,16 @@
 					"recovered": 0,
 					"active": 7,
 					"ratio": 0
+				},
+				{
+					"region": "French Guiana",
+					"country": "France",
+					"date": "2020-03-18",
+					"cases": 0,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 0,
+					"ratio": 0
 				}
 			],
 			"Guadeloupe": [
@@ -68929,6 +71743,16 @@
 					"recovered": 0,
 					"active": 6,
 					"ratio": 0
+				},
+				{
+					"region": "Guadeloupe",
+					"country": "France",
+					"date": "2020-03-18",
+					"cases": 0,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 0,
+					"ratio": 0
 				}
 			],
 			"Reunion": [
@@ -68940,6 +71764,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 9,
+					"ratio": 0
+				},
+				{
+					"region": "Reunion",
+					"country": "France",
+					"date": "2020-03-18",
+					"cases": 0,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 0,
 					"ratio": 0
 				}
 			]
@@ -69219,6 +72053,16 @@
 					"recovered": 5,
 					"active": 179,
 					"ratio": 0.8333333333333334
+				},
+				{
+					"region": "Ontario",
+					"country": "Canada",
+					"date": "2020-03-18",
+					"cases": 221,
+					"deaths": 1,
+					"recovered": 5,
+					"active": 215,
+					"ratio": 0.8333333333333334
 				}
 			],
 			"British Columbia": [
@@ -69471,6 +72315,16 @@
 					"recovered": 4,
 					"active": 95,
 					"ratio": 0.5
+				},
+				{
+					"region": "British Columbia",
+					"country": "Canada",
+					"date": "2020-03-18",
+					"cases": 186,
+					"deaths": 7,
+					"recovered": 4,
+					"active": 175,
+					"ratio": 0.36363636363636365
 				}
 			],
 			"Toronto, ON": [
@@ -69763,6 +72617,16 @@
 					"recovered": 0,
 					"active": 74,
 					"ratio": 0
+				},
+				{
+					"region": "Alberta",
+					"country": "Canada",
+					"date": "2020-03-18",
+					"cases": 97,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 97,
+					"ratio": 0
 				}
 			],
 			"Quebec": [
@@ -69855,6 +72719,16 @@
 					"recovered": 0,
 					"active": 74,
 					"ratio": 0
+				},
+				{
+					"region": "Quebec",
+					"country": "Canada",
+					"date": "2020-03-18",
+					"cases": 94,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 94,
+					"ratio": 0
 				}
 			],
 			"New Brunswick": [
@@ -69896,6 +72770,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 8,
+					"ratio": 0
+				},
+				{
+					"region": "New Brunswick",
+					"country": "Canada",
+					"date": "2020-03-18",
+					"cases": 11,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 11,
 					"ratio": 0
 				}
 			],
@@ -69939,6 +72823,16 @@
 					"recovered": 0,
 					"active": 8,
 					"ratio": 0
+				},
+				{
+					"region": "Manitoba",
+					"country": "Canada",
+					"date": "2020-03-18",
+					"cases": 15,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 15,
+					"ratio": 0
 				}
 			],
 			"Saskatchewan": [
@@ -69971,6 +72865,16 @@
 					"recovered": 0,
 					"active": 7,
 					"ratio": 0
+				},
+				{
+					"region": "Saskatchewan",
+					"country": "Canada",
+					"date": "2020-03-18",
+					"cases": 8,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 8,
+					"ratio": 0
 				}
 			],
 			"Grand Princess": [
@@ -70002,6 +72906,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 8,
+					"ratio": 0
+				},
+				{
+					"region": "Grand Princess",
+					"country": "Canada",
+					"date": "2020-03-18",
+					"cases": 9,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 9,
 					"ratio": 0
 				}
 			],
@@ -70058,6 +72972,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 7,
+					"ratio": 0
+				},
+				{
+					"region": "Nova Scotia",
+					"country": "Canada",
+					"date": "2020-03-18",
+					"cases": 12,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 12,
 					"ratio": 0
 				}
 			]
@@ -70172,6 +73096,16 @@
 					"deaths": 0,
 					"recovered": 1,
 					"active": 32,
+					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Cambodia",
+					"date": "2020-03-18",
+					"cases": 35,
+					"deaths": 0,
+					"recovered": 1,
+					"active": 34,
 					"ratio": 1
 				}
 			]
@@ -70307,6 +73241,16 @@
 					"recovered": 1,
 					"active": 43,
 					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Sri Lanka",
+					"date": "2020-03-18",
+					"cases": 51,
+					"deaths": 0,
+					"recovered": 1,
+					"active": 50,
+					"ratio": 1
 				}
 			]
 		},
@@ -70360,6 +73304,16 @@
 					"deaths": 0,
 					"recovered": 1,
 					"active": 4,
+					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Ivory Coast",
+					"date": "2020-03-18",
+					"cases": 6,
+					"deaths": 0,
+					"recovered": 1,
+					"active": 5,
 					"ratio": 1
 				}
 			]
@@ -70717,6 +73671,16 @@
 					"recovered": 67,
 					"active": 9166,
 					"ratio": 0.7362637362637363
+				},
+				{
+					"region": "",
+					"country": "Germany",
+					"date": "2020-03-18",
+					"cases": 12327,
+					"deaths": 28,
+					"recovered": 105,
+					"active": 12194,
+					"ratio": 0.7894736842105263
 				}
 			]
 		},
@@ -70900,6 +73864,16 @@
 					"deaths": 0,
 					"recovered": 10,
 					"active": 311,
+					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Finland",
+					"date": "2020-03-18",
+					"cases": 336,
+					"deaths": 0,
+					"recovered": 10,
+					"active": 326,
 					"ratio": 1
 				}
 			]
@@ -71125,6 +74099,16 @@
 					"recovered": 23,
 					"active": 75,
 					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "United Arab Emirates",
+					"date": "2020-03-18",
+					"cases": 113,
+					"deaths": 0,
+					"recovered": 26,
+					"active": 87,
+					"ratio": 1
 				}
 			]
 		},
@@ -71338,6 +74322,16 @@
 					"deaths": 3,
 					"recovered": 14,
 					"active": 125,
+					"ratio": 0.8235294117647058
+				},
+				{
+					"region": "",
+					"country": "India",
+					"date": "2020-03-18",
+					"cases": 156,
+					"deaths": 3,
+					"recovered": 14,
+					"active": 139,
 					"ratio": 0.8235294117647058
 				}
 			]
@@ -71613,6 +74607,16 @@
 					"recovered": 2941,
 					"active": 26062,
 					"ratio": 0.5402277736958119
+				},
+				{
+					"region": "",
+					"country": "Italy",
+					"date": "2020-03-18",
+					"cases": 35713,
+					"deaths": 2978,
+					"recovered": 4025,
+					"active": 28710,
+					"ratio": 0.5747536769955733
 				}
 			]
 		},
@@ -71903,6 +74907,16 @@
 					"recovered": 1,
 					"active": 2,
 					"ratio": 1
+				},
+				{
+					"region": "Gibraltar",
+					"country": "United Kingdom",
+					"date": "2020-03-18",
+					"cases": 8,
+					"deaths": 0,
+					"recovered": 2,
+					"active": 6,
+					"ratio": 1
 				}
 			],
 			"United Kingdom": [
@@ -71945,6 +74959,16 @@
 					"recovered": 52,
 					"active": 1843,
 					"ratio": 0.48598130841121495
+				},
+				{
+					"region": "United Kingdom",
+					"country": "United Kingdom",
+					"date": "2020-03-18",
+					"cases": 2626,
+					"deaths": 71,
+					"recovered": 65,
+					"active": 2490,
+					"ratio": 0.47794117647058826
 				}
 			],
 			"Cayman Islands": [
@@ -71956,6 +74980,18 @@
 					"deaths": 1,
 					"recovered": 0,
 					"active": 0,
+					"ratio": 0
+				}
+			],
+			"Montserrat": [
+				{
+					"region": "Montserrat",
+					"country": "United Kingdom",
+					"date": "2020-03-18",
+					"cases": 1,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 1,
 					"ratio": 0
 				}
 			]
@@ -72100,6 +75136,16 @@
 					"deaths": 0,
 					"recovered": 8,
 					"active": 106,
+					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Russia",
+					"date": "2020-03-18",
+					"cases": 147,
+					"deaths": 0,
+					"recovered": 8,
+					"active": 139,
 					"ratio": 1
 				}
 			]
@@ -72325,6 +75371,16 @@
 					"recovered": 1,
 					"active": 1182,
 					"ratio": 0.125
+				},
+				{
+					"region": "",
+					"country": "Sweden",
+					"date": "2020-03-18",
+					"cases": 1279,
+					"deaths": 10,
+					"recovered": 1,
+					"active": 1268,
+					"ratio": 0.09090909090909091
 				}
 			]
 		},
@@ -72579,6 +75635,16 @@
 					"recovered": 1028,
 					"active": 10187,
 					"ratio": 0.6585522101217168
+				},
+				{
+					"region": "",
+					"country": "Spain",
+					"date": "2020-03-18",
+					"cases": 13910,
+					"deaths": 623,
+					"recovered": 1081,
+					"active": 12206,
+					"ratio": 0.6343896713615024
 				}
 			]
 		},
@@ -72763,6 +75829,16 @@
 					"recovered": 1,
 					"active": 1232,
 					"ratio": 0.09090909090909091
+				},
+				{
+					"region": "",
+					"country": "Belgium",
+					"date": "2020-03-18",
+					"cases": 1486,
+					"deaths": 14,
+					"recovered": 31,
+					"active": 1441,
+					"ratio": 0.6888888888888889
 				}
 			]
 		},
@@ -73113,6 +76189,16 @@
 					"recovered": 32,
 					"active": 160,
 					"ratio": 0.8888888888888888
+				},
+				{
+					"region": "",
+					"country": "Egypt",
+					"date": "2020-03-18",
+					"cases": 196,
+					"deaths": 6,
+					"recovered": 32,
+					"active": 158,
+					"ratio": 0.8421052631578947
 				}
 			]
 		},
@@ -73397,6 +76483,16 @@
 					"recovered": 5389,
 					"active": 9792,
 					"ratio": 0.8450682138936804
+				},
+				{
+					"region": "",
+					"country": "Iran",
+					"date": "2020-03-18",
+					"cases": 17361,
+					"deaths": 1135,
+					"recovered": 5389,
+					"active": 10837,
+					"ratio": 0.826026977314531
 				}
 			]
 		},
@@ -73603,6 +76699,16 @@
 					"recovered": 11,
 					"active": 326,
 					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Israel",
+					"date": "2020-03-18",
+					"cases": 433,
+					"deaths": 0,
+					"recovered": 11,
+					"active": 422,
+					"ratio": 1
 				}
 			]
 		},
@@ -73788,6 +76894,16 @@
 					"deaths": 3,
 					"recovered": 3,
 					"active": 114,
+					"ratio": 0.5
+				},
+				{
+					"region": "",
+					"country": "Lebanon",
+					"date": "2020-03-18",
+					"cases": 133,
+					"deaths": 3,
+					"recovered": 3,
+					"active": 127,
 					"ratio": 0.5
 				}
 			]
@@ -74005,6 +77121,16 @@
 					"recovered": 32,
 					"active": 111,
 					"ratio": 0.7441860465116279
+				},
+				{
+					"region": "",
+					"country": "Iraq",
+					"date": "2020-03-18",
+					"cases": 164,
+					"deaths": 12,
+					"recovered": 43,
+					"active": 109,
+					"ratio": 0.7818181818181819
 				}
 			]
 		},
@@ -74138,6 +77264,16 @@
 					"deaths": 0,
 					"recovered": 9,
 					"active": 15,
+					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Oman",
+					"date": "2020-03-18",
+					"cases": 39,
+					"deaths": 0,
+					"recovered": 12,
+					"active": 27,
 					"ratio": 1
 				}
 			]
@@ -74417,6 +77553,16 @@
 					"recovered": 81,
 					"active": 146,
 					"ratio": 0.9878048780487805
+				},
+				{
+					"region": "",
+					"country": "Bahrain",
+					"date": "2020-03-18",
+					"cases": 256,
+					"deaths": 1,
+					"recovered": 88,
+					"active": 167,
+					"ratio": 0.9887640449438202
 				}
 			]
 		},
@@ -74590,6 +77736,16 @@
 					"deaths": 0,
 					"recovered": 9,
 					"active": 121,
+					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Kuwait",
+					"date": "2020-03-18",
+					"cases": 142,
+					"deaths": 0,
+					"recovered": 15,
+					"active": 127,
 					"ratio": 1
 				}
 			]
@@ -74807,6 +77963,16 @@
 					"recovered": 1,
 					"active": 1328,
 					"ratio": 0.25
+				},
+				{
+					"region": "",
+					"country": "Austria",
+					"date": "2020-03-18",
+					"cases": 1646,
+					"deaths": 4,
+					"recovered": 9,
+					"active": 1633,
+					"ratio": 0.6923076923076923
 				}
 			]
 		},
@@ -74941,6 +78107,16 @@
 					"recovered": 12,
 					"active": 44,
 					"ratio": 0.75
+				},
+				{
+					"region": "",
+					"country": "Algeria",
+					"date": "2020-03-18",
+					"cases": 74,
+					"deaths": 7,
+					"recovered": 12,
+					"active": 55,
+					"ratio": 0.631578947368421
 				}
 			]
 		},
@@ -75104,6 +78280,16 @@
 					"deaths": 0,
 					"recovered": 4,
 					"active": 61,
+					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Croatia",
+					"date": "2020-03-18",
+					"cases": 81,
+					"deaths": 0,
+					"recovered": 4,
+					"active": 77,
 					"ratio": 1
 				}
 			]
@@ -75289,6 +78475,16 @@
 					"recovered": 4,
 					"active": 2669,
 					"ratio": 0.12903225806451613
+				},
+				{
+					"region": "",
+					"country": "Switzerland",
+					"date": "2020-03-18",
+					"cases": 3028,
+					"deaths": 28,
+					"recovered": 15,
+					"active": 2985,
+					"ratio": 0.3488372093023256
 				}
 			]
 		},
@@ -75423,6 +78619,16 @@
 					"recovered": 2,
 					"active": 234,
 					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Pakistan",
+					"date": "2020-03-18",
+					"cases": 299,
+					"deaths": 0,
+					"recovered": 2,
+					"active": 297,
+					"ratio": 1
 				}
 			]
 		},
@@ -75546,6 +78752,16 @@
 					"deaths": 0,
 					"recovered": 1,
 					"active": 33,
+					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Georgia",
+					"date": "2020-03-18",
+					"cases": 38,
+					"deaths": 0,
+					"recovered": 1,
+					"active": 37,
 					"ratio": 1
 				}
 			]
@@ -75711,6 +78927,16 @@
 					"recovered": 8,
 					"active": 374,
 					"ratio": 0.6153846153846154
+				},
+				{
+					"region": "",
+					"country": "Greece",
+					"date": "2020-03-18",
+					"cases": 418,
+					"deaths": 5,
+					"recovered": 8,
+					"active": 405,
+					"ratio": 0.6153846153846154
 				}
 			]
 		},
@@ -75794,6 +79020,16 @@
 					"deaths": 0,
 					"recovered": 1,
 					"active": 25,
+					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "North Macedonia",
+					"date": "2020-03-18",
+					"cases": 35,
+					"deaths": 0,
+					"recovered": 1,
+					"active": 34,
 					"ratio": 1
 				}
 			]
@@ -76009,6 +79245,16 @@
 					"recovered": 1,
 					"active": 1459,
 					"ratio": 0.25
+				},
+				{
+					"region": "",
+					"country": "Norway",
+					"date": "2020-03-18",
+					"cases": 1550,
+					"deaths": 6,
+					"recovered": 1,
+					"active": 1543,
+					"ratio": 0.14285714285714285
 				}
 			]
 		},
@@ -76183,6 +79429,16 @@
 					"recovered": 16,
 					"active": 168,
 					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Romania",
+					"date": "2020-03-18",
+					"cases": 260,
+					"deaths": 0,
+					"recovered": 19,
+					"active": 241,
+					"ratio": 1
 				}
 			]
 		},
@@ -76349,6 +79605,16 @@
 					"recovered": 1,
 					"active": 972,
 					"ratio": 0.2
+				},
+				{
+					"region": "Denmark",
+					"country": "Denmark",
+					"date": "2020-03-18",
+					"cases": 1057,
+					"deaths": 4,
+					"recovered": 1,
+					"active": 1052,
+					"ratio": 0.2
 				}
 			],
 			"Faroe Islands": [
@@ -76410,6 +79676,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 47,
+					"ratio": 0
+				},
+				{
+					"region": "Faroe Islands",
+					"country": "Denmark",
+					"date": "2020-03-18",
+					"cases": 58,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 58,
 					"ratio": 0
 				}
 			]
@@ -76524,6 +79800,16 @@
 					"deaths": 0,
 					"recovered": 1,
 					"active": 224,
+					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Estonia",
+					"date": "2020-03-18",
+					"cases": 258,
+					"deaths": 0,
+					"recovered": 1,
+					"active": 257,
 					"ratio": 1
 				}
 			]
@@ -76721,6 +80007,16 @@
 					"recovered": 2,
 					"active": 1660,
 					"ratio": 0.044444444444444446
+				},
+				{
+					"region": "Netherlands",
+					"country": "Netherlands",
+					"date": "2020-03-18",
+					"cases": 2051,
+					"deaths": 58,
+					"recovered": 2,
+					"active": 1991,
+					"ratio": 0.03333333333333333
 				}
 			],
 			"Curacao": [
@@ -76742,6 +80038,18 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 3,
+					"ratio": 0
+				}
+			],
+			"Aruba": [
+				{
+					"region": "Aruba",
+					"country": "Netherlands",
+					"date": "2020-03-18",
+					"cases": 2,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 2,
 					"ratio": 0
 				}
 			]
@@ -76897,6 +80205,16 @@
 					"recovered": 4,
 					"active": 98,
 					"ratio": 0.36363636363636365
+				},
+				{
+					"region": "",
+					"country": "San Marino",
+					"date": "2020-03-18",
+					"cases": 119,
+					"deaths": 11,
+					"recovered": 4,
+					"active": 104,
+					"ratio": 0.26666666666666666
 				}
 			]
 		},
@@ -77095,6 +80413,16 @@
 					"recovered": 3,
 					"active": 33,
 					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Belarus",
+					"date": "2020-03-18",
+					"cases": 51,
+					"deaths": 0,
+					"recovered": 5,
+					"active": 46,
+					"ratio": 1
 				}
 			]
 		},
@@ -77279,6 +80607,16 @@
 					"recovered": 0,
 					"active": 219,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Iceland",
+					"date": "2020-03-18",
+					"cases": 250,
+					"deaths": 1,
+					"recovered": 5,
+					"active": 244,
+					"ratio": 0.8333333333333334
 				}
 			]
 		},
@@ -77352,6 +80690,16 @@
 					"deaths": 0,
 					"recovered": 1,
 					"active": 24,
+					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Lithuania",
+					"date": "2020-03-18",
+					"cases": 27,
+					"deaths": 0,
+					"recovered": 1,
+					"active": 26,
 					"ratio": 1
 				}
 			]
@@ -77437,6 +80785,16 @@
 					"recovered": 0,
 					"active": 12,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "New Zealand",
+					"date": "2020-03-18",
+					"cases": 20,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 20,
+					"ratio": 0
 				}
 			]
 		},
@@ -77491,6 +80849,16 @@
 					"recovered": 0,
 					"active": 3,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Nigeria",
+					"date": "2020-03-18",
+					"cases": 8,
+					"deaths": 0,
+					"recovered": 1,
+					"active": 7,
+					"ratio": 1
 				}
 			]
 		},
@@ -77635,6 +81003,16 @@
 					"recovered": 5,
 					"active": 216,
 					"ratio": 0.7142857142857143
+				},
+				{
+					"region": "",
+					"country": "Ireland",
+					"date": "2020-03-18",
+					"cases": 292,
+					"deaths": 2,
+					"recovered": 5,
+					"active": 285,
+					"ratio": 0.7142857142857143
 				}
 			]
 		},
@@ -77768,6 +81146,16 @@
 					"deaths": 1,
 					"recovered": 0,
 					"active": 139,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Luxembourg",
+					"date": "2020-03-18",
+					"cases": 203,
+					"deaths": 2,
+					"recovered": 0,
+					"active": 201,
 					"ratio": 0
 				}
 			]
@@ -77947,6 +81335,16 @@
 					"recovered": 4,
 					"active": 435,
 					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Qatar",
+					"date": "2020-03-18",
+					"cases": 452,
+					"deaths": 0,
+					"recovered": 4,
+					"active": 448,
+					"ratio": 1
 				}
 			]
 		},
@@ -78050,6 +81448,16 @@
 					"deaths": 2,
 					"recovered": 0,
 					"active": 56,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Ecuador",
+					"date": "2020-03-18",
+					"cases": 111,
+					"deaths": 2,
+					"recovered": 0,
+					"active": 109,
 					"ratio": 0
 				}
 			]
@@ -78218,6 +81626,16 @@
 					"deaths": 0,
 					"recovered": 1,
 					"active": 77,
+					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Armenia",
+					"date": "2020-03-18",
+					"cases": 84,
+					"deaths": 0,
+					"recovered": 1,
+					"active": 83,
 					"ratio": 1
 				}
 			]
@@ -78407,6 +81825,16 @@
 					"recovered": 8,
 					"active": 159,
 					"ratio": 0.6153846153846154
+				},
+				{
+					"region": "",
+					"country": "Indonesia",
+					"date": "2020-03-18",
+					"cases": 227,
+					"deaths": 19,
+					"recovered": 11,
+					"active": 197,
+					"ratio": 0.36666666666666664
 				}
 			]
 		},
@@ -78551,6 +81979,16 @@
 					"recovered": 3,
 					"active": 444,
 					"ratio": 0.75
+				},
+				{
+					"region": "",
+					"country": "Portugal",
+					"date": "2020-03-18",
+					"cases": 448,
+					"deaths": 2,
+					"recovered": 3,
+					"active": 443,
+					"ratio": 0.6
 				}
 			]
 		},
@@ -78729,6 +82167,16 @@
 					"recovered": 1,
 					"active": 48,
 					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Latvia",
+					"date": "2020-03-18",
+					"cases": 71,
+					"deaths": 0,
+					"recovered": 1,
+					"active": 70,
+					"ratio": 1
 				}
 			]
 		},
@@ -78842,6 +82290,16 @@
 					"deaths": 2,
 					"recovered": 1,
 					"active": 35,
+					"ratio": 0.3333333333333333
+				},
+				{
+					"region": "",
+					"country": "Morocco",
+					"date": "2020-03-18",
+					"cases": 49,
+					"deaths": 2,
+					"recovered": 1,
+					"active": 46,
 					"ratio": 0.3333333333333333
 				}
 			]
@@ -79051,6 +82509,16 @@
 					"recovered": 2,
 					"active": 24,
 					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Senegal",
+					"date": "2020-03-18",
+					"cases": 31,
+					"deaths": 0,
+					"recovered": 2,
+					"active": 29,
+					"ratio": 1
 				}
 			]
 		},
@@ -79175,6 +82643,16 @@
 					"recovered": 3,
 					"active": 63,
 					"ratio": 0.6
+				},
+				{
+					"region": "",
+					"country": "Argentina",
+					"date": "2020-03-18",
+					"cases": 79,
+					"deaths": 2,
+					"recovered": 3,
+					"active": 74,
+					"ratio": 0.6
 				}
 			]
 		},
@@ -79289,6 +82767,16 @@
 					"recovered": 0,
 					"active": 201,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Chile",
+					"date": "2020-03-18",
+					"cases": 238,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 238,
+					"ratio": 0
 				}
 			]
 		},
@@ -79352,6 +82840,16 @@
 					"deaths": 0,
 					"recovered": 1,
 					"active": 33,
+					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Jordan",
+					"date": "2020-03-18",
+					"cases": 52,
+					"deaths": 0,
+					"recovered": 1,
+					"active": 51,
 					"ratio": 1
 				}
 			]
@@ -79545,6 +83043,16 @@
 					"recovered": 2,
 					"active": 47,
 					"ratio": 0.6666666666666666
+				},
+				{
+					"region": "",
+					"country": "Hungary",
+					"date": "2020-03-18",
+					"cases": 58,
+					"deaths": 1,
+					"recovered": 2,
+					"active": 55,
+					"ratio": 0.6666666666666666
 				}
 			]
 		},
@@ -79636,6 +83144,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 7,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Liechtenstein",
+					"date": "2020-03-18",
+					"cases": 28,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 28,
 					"ratio": 0
 				}
 			]
@@ -79761,6 +83279,16 @@
 					"recovered": 13,
 					"active": 220,
 					"ratio": 0.7222222222222222
+				},
+				{
+					"region": "",
+					"country": "Poland",
+					"date": "2020-03-18",
+					"cases": 251,
+					"deaths": 5,
+					"recovered": 13,
+					"active": 233,
+					"ratio": 0.7222222222222222
 				}
 			]
 		},
@@ -79844,6 +83372,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 24,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Tunisia",
+					"date": "2020-03-18",
+					"cases": 29,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 29,
 					"ratio": 0
 				}
 			]
@@ -80002,6 +83540,16 @@
 					"deaths": 0,
 					"recovered": 2,
 					"active": 24,
+					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Bosnia and Herzegovina",
+					"date": "2020-03-18",
+					"cases": 38,
+					"deaths": 0,
+					"recovered": 2,
+					"active": 36,
 					"ratio": 1
 				}
 			]
@@ -80221,6 +83769,16 @@
 					"recovered": 0,
 					"active": 62,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "South Africa",
+					"date": "2020-03-18",
+					"cases": 116,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 116,
+					"ratio": 0
 				}
 			]
 		},
@@ -80433,6 +83991,16 @@
 					"recovered": 0,
 					"active": 41,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Costa Rica",
+					"date": "2020-03-18",
+					"cases": 50,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 50,
+					"ratio": 0
 				}
 			]
 		},
@@ -80537,6 +84105,16 @@
 					"recovered": 1,
 					"active": 116,
 					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Peru",
+					"date": "2020-03-18",
+					"cases": 145,
+					"deaths": 0,
+					"recovered": 1,
+					"active": 144,
+					"ratio": 1
 				}
 			]
 		},
@@ -80630,6 +84208,16 @@
 					"deaths": 0,
 					"recovered": 1,
 					"active": 64,
+					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Serbia",
+					"date": "2020-03-18",
+					"cases": 83,
+					"deaths": 0,
+					"recovered": 1,
+					"active": 82,
 					"ratio": 1
 				}
 			]
@@ -80734,6 +84322,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 72,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Slovakia",
+					"date": "2020-03-18",
+					"cases": 105,
+					"deaths": 1,
+					"recovered": 0,
+					"active": 104,
 					"ratio": 0
 				}
 			]
@@ -80975,6 +84573,16 @@
 					"recovered": 0,
 					"active": 15,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Martinique",
+					"date": "2020-03-18",
+					"cases": 19,
+					"deaths": 1,
+					"recovered": 0,
+					"active": 18,
+					"ratio": 0
 				}
 			]
 		},
@@ -81058,6 +84666,16 @@
 					"deaths": 2,
 					"recovered": 0,
 					"active": 65,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Bulgaria",
+					"date": "2020-03-18",
+					"cases": 92,
+					"deaths": 2,
+					"recovered": 0,
+					"active": 90,
 					"ratio": 0
 				}
 			]
@@ -81197,6 +84815,16 @@
 					"recovered": 3,
 					"active": 7,
 					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Bangladesh",
+					"date": "2020-03-18",
+					"cases": 14,
+					"deaths": 1,
+					"recovered": 3,
+					"active": 10,
+					"ratio": 0.75
 				}
 			]
 		},
@@ -81291,6 +84919,16 @@
 					"recovered": 1,
 					"active": 29,
 					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Moldova",
+					"date": "2020-03-18",
+					"cases": 30,
+					"deaths": 1,
+					"recovered": 1,
+					"active": 28,
+					"ratio": 0.5
 				}
 			]
 		},
@@ -81354,6 +84992,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 9,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Paraguay",
+					"date": "2020-03-18",
+					"cases": 11,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 11,
 					"ratio": 0
 				}
 			]
@@ -81449,6 +85097,16 @@
 					"recovered": 0,
 					"active": 54,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Albania",
+					"date": "2020-03-18",
+					"cases": 59,
+					"deaths": 2,
+					"recovered": 0,
+					"active": 57,
+					"ratio": 0
 				}
 			]
 		},
@@ -81522,6 +85180,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 46,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Cyprus",
+					"date": "2020-03-18",
+					"cases": 49,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 49,
 					"ratio": 0
 				}
 			]
@@ -81621,6 +85289,16 @@
 					"recovered": 0,
 					"active": 56,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Brunei",
+					"date": "2020-03-18",
+					"cases": 68,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 68,
+					"ratio": 0
 				}
 			]
 		},
@@ -81717,6 +85395,16 @@
 					"recovered": 0,
 					"active": 15,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Burkina Faso",
+					"date": "2020-03-18",
+					"cases": 20,
+					"deaths": 1,
+					"recovered": 0,
+					"active": 19,
+					"ratio": 0
 				}
 			]
 		},
@@ -81809,6 +85497,16 @@
 					"recovered": 0,
 					"active": 5,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Mongolia",
+					"date": "2020-03-18",
+					"cases": 6,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 6,
+					"ratio": 0
 				}
 			]
 		},
@@ -81893,6 +85591,16 @@
 					"recovered": 0,
 					"active": 68,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Panama",
+					"date": "2020-03-18",
+					"cases": 86,
+					"deaths": 1,
+					"recovered": 0,
+					"active": 85,
+					"ratio": 0
 				}
 			]
 		},
@@ -81916,6 +85624,16 @@
 					"deaths": 7,
 					"recovered": 325,
 					"active": 364,
+					"ratio": 0.9789156626506024
+				},
+				{
+					"region": "Diamond Princess",
+					"country": "Cruise Ship",
+					"date": "2020-03-18",
+					"cases": 712,
+					"deaths": 7,
+					"recovered": 325,
+					"active": 380,
 					"ratio": 0.9789156626506024
 				}
 			]
@@ -81991,6 +85709,16 @@
 					"recovered": 3,
 					"active": 393,
 					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Czechia",
+					"date": "2020-03-18",
+					"cases": 464,
+					"deaths": 0,
+					"recovered": 3,
+					"active": 461,
+					"ratio": 1
 				}
 			]
 		},
@@ -82034,6 +85762,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 11,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Bolivia",
+					"date": "2020-03-18",
+					"cases": 12,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 12,
 					"ratio": 0
 				}
 			]
@@ -82089,6 +85827,16 @@
 					"recovered": 0,
 					"active": 8,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Honduras",
+					"date": "2020-03-18",
+					"cases": 9,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 9,
+					"ratio": 0
 				}
 			]
 		},
@@ -82132,6 +85880,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 3,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Congo (Kinshasa)",
+					"date": "2020-03-18",
+					"cases": 4,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 4,
 					"ratio": 0
 				}
 			]
@@ -82207,6 +85965,16 @@
 					"recovered": 2,
 					"active": 10,
 					"ratio": 1
+				},
+				{
+					"region": "",
+					"country": "Jamaica",
+					"date": "2020-03-18",
+					"cases": 13,
+					"deaths": 0,
+					"recovered": 2,
+					"active": 11,
+					"ratio": 1
 				}
 			]
 		},
@@ -82270,6 +86038,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 9,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Reunion",
+					"date": "2020-03-18",
+					"cases": 12,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 12,
 					"ratio": 0
 				}
 			]
@@ -82335,6 +86113,16 @@
 					"recovered": 0,
 					"active": 46,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Turkey",
+					"date": "2020-03-18",
+					"cases": 98,
+					"deaths": 1,
+					"recovered": 0,
+					"active": 97,
+					"ratio": 0
 				}
 			]
 		},
@@ -82378,6 +86166,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 5,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Cuba",
+					"date": "2020-03-18",
+					"cases": 7,
+					"deaths": 1,
+					"recovered": 0,
+					"active": 6,
 					"ratio": 0
 				}
 			]
@@ -82487,6 +86285,16 @@
 					"recovered": 0,
 					"active": 33,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Kazakhstan",
+					"date": "2020-03-18",
+					"cases": 35,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 35,
+					"ratio": 0
 				}
 			]
 		},
@@ -82565,6 +86373,16 @@
 					"recovered": 0,
 					"active": 18,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Guadeloupe",
+					"date": "2020-03-18",
+					"cases": 27,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 27,
+					"ratio": 0
 				}
 			]
 		},
@@ -82599,6 +86417,16 @@
 					"recovered": 0,
 					"active": 5,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Ethiopia",
+					"date": "2020-03-18",
+					"cases": 6,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 6,
+					"ratio": 0
 				}
 			]
 		},
@@ -82622,6 +86450,16 @@
 					"deaths": 1,
 					"recovered": 0,
 					"active": 0,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Sudan",
+					"date": "2020-03-18",
+					"cases": 2,
+					"deaths": 1,
+					"recovered": 0,
+					"active": 1,
 					"ratio": 0
 				}
 			]
@@ -82725,6 +86563,16 @@
 					"recovered": 0,
 					"active": 3,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Aruba",
+					"date": "2020-03-18",
+					"cases": 4,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 4,
+					"ratio": 0
 				}
 			]
 		},
@@ -82826,6 +86674,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 29,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Uruguay",
+					"date": "2020-03-18",
+					"cases": 50,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 50,
 					"ratio": 0
 				}
 			]
@@ -82977,6 +86835,16 @@
 					"recovered": 0,
 					"active": 5,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Trinidad and Tobago",
+					"date": "2020-03-18",
+					"cases": 7,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 7,
+					"ratio": 0
 				}
 			]
 		},
@@ -83020,6 +86888,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 33,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Venezuela",
+					"date": "2020-03-18",
+					"cases": 36,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 36,
 					"ratio": 0
 				}
 			]
@@ -83175,6 +87053,16 @@
 					"recovered": 0,
 					"active": 7,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Rwanda",
+					"date": "2020-03-18",
+					"cases": 8,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 8,
+					"ratio": 0
 				}
 			]
 		},
@@ -83323,6 +87211,16 @@
 					"recovered": 0,
 					"active": 1,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Equatorial Guinea",
+					"date": "2020-03-18",
+					"cases": 4,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 4,
+					"ratio": 0
 				}
 			]
 		},
@@ -83357,6 +87255,16 @@
 					"recovered": 0,
 					"active": 10,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Uzbekistan",
+					"date": "2020-03-18",
+					"cases": 15,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 15,
+					"ratio": 0
 				}
 			]
 		},
@@ -83370,6 +87278,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 3,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Guam",
+					"date": "2020-03-18",
+					"cases": 0,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 0,
 					"ratio": 0
 				}
 			]
@@ -83409,6 +87327,16 @@
 					"recovered": 0,
 					"active": 1,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Benin",
+					"date": "2020-03-18",
+					"cases": 2,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 2,
+					"ratio": 0
 				}
 			]
 		},
@@ -83447,6 +87375,16 @@
 					"recovered": 0,
 					"active": 1,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Liberia",
+					"date": "2020-03-18",
+					"cases": 2,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 2,
+					"ratio": 0
 				}
 			]
 		},
@@ -83460,6 +87398,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 1,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Mayotte",
+					"date": "2020-03-18",
+					"cases": 3,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 3,
 					"ratio": 0
 				}
 			]
@@ -83499,6 +87447,16 @@
 					"recovered": 0,
 					"active": 1,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Somalia",
+					"date": "2020-03-18",
+					"cases": 1,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 1,
+					"ratio": 0
 				}
 			]
 		},
@@ -83522,6 +87480,16 @@
 					"deaths": 0,
 					"recovered": 0,
 					"active": 1,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Tanzania",
+					"date": "2020-03-18",
+					"cases": 3,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 3,
 					"ratio": 0
 				}
 			]
@@ -83551,6 +87519,16 @@
 					"recovered": 0,
 					"active": 2,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Barbados",
+					"date": "2020-03-18",
+					"cases": 2,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 2,
+					"ratio": 0
 				}
 			]
 		},
@@ -83565,6 +87543,16 @@
 					"recovered": 0,
 					"active": 2,
 					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "Montenegro",
+					"date": "2020-03-18",
+					"cases": 1,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 1,
+					"ratio": 0
 				}
 			]
 		},
@@ -83574,6 +87562,86 @@
 					"region": "",
 					"country": "The Gambia",
 					"date": "2020-03-17",
+					"cases": 1,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 1,
+					"ratio": 0
+				},
+				{
+					"region": "",
+					"country": "The Gambia",
+					"date": "2020-03-18",
+					"cases": 0,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 0,
+					"ratio": 0
+				}
+			]
+		},
+		"Kyrgyzstan": {
+			"": [
+				{
+					"region": "",
+					"country": "Kyrgyzstan",
+					"date": "2020-03-18",
+					"cases": 3,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 3,
+					"ratio": 0
+				}
+			]
+		},
+		"Mauritius": {
+			"": [
+				{
+					"region": "",
+					"country": "Mauritius",
+					"date": "2020-03-18",
+					"cases": 3,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 3,
+					"ratio": 0
+				}
+			]
+		},
+		"Zambia": {
+			"": [
+				{
+					"region": "",
+					"country": "Zambia",
+					"date": "2020-03-18",
+					"cases": 2,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 2,
+					"ratio": 0
+				}
+			]
+		},
+		"Djibouti": {
+			"": [
+				{
+					"region": "",
+					"country": "Djibouti",
+					"date": "2020-03-18",
+					"cases": 1,
+					"deaths": 0,
+					"recovered": 0,
+					"active": 1,
+					"ratio": 0
+				}
+			]
+		},
+		"Gambia, The": {
+			"": [
+				{
+					"region": "",
+					"country": "Gambia, The",
+					"date": "2020-03-18",
 					"cases": 1,
 					"deaths": 0,
 					"recovered": 0,
@@ -85040,6 +89108,16 @@
 				"recovered": 37,
 				"active": 59,
 				"ratio": 0.9487179487179487
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Taiwan",
+				"date": "2020-03-18",
+				"cases": 100,
+				"deaths": 1,
+				"recovered": 22,
+				"active": 77,
+				"ratio": 0.9565217391304348
 			}
 		},
 		"USA": {
@@ -85292,6 +89370,16 @@
 				"recovered": 17,
 				"active": 6162,
 				"ratio": 0.136
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "USA",
+				"date": "2020-03-18",
+				"cases": 7447,
+				"deaths": 115,
+				"recovered": 106,
+				"active": 7226,
+				"ratio": 0.4796380090497738
 			}
 		},
 		"Japan": {
@@ -85986,6 +90074,16 @@
 				"recovered": 41,
 				"active": 135,
 				"ratio": 0.9761904761904762
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Thailand",
+				"date": "2020-03-18",
+				"cases": 212,
+				"deaths": 1,
+				"recovered": 42,
+				"active": 169,
+				"ratio": 0.9767441860465116
 			}
 		},
 		"South Korea": {
@@ -87002,6 +91100,16 @@
 				"recovered": 5,
 				"active": 170,
 				"ratio": 0.29411764705882354
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Philippines",
+				"date": "2020-03-18",
+				"cases": 202,
+				"deaths": 19,
+				"recovered": 5,
+				"active": 178,
+				"ratio": 0.20833333333333334
 			}
 		},
 		"Malaysia": {
@@ -87334,6 +91442,16 @@
 				"recovered": 49,
 				"active": 622,
 				"ratio": 0.9607843137254902
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Malaysia",
+				"date": "2020-03-18",
+				"cases": 790,
+				"deaths": 2,
+				"recovered": 60,
+				"active": 728,
+				"ratio": 0.967741935483871
 			}
 		},
 		"Vietnam": {
@@ -87748,6 +91866,16 @@
 				"recovered": 20,
 				"active": 388,
 				"ratio": 0.8
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Australia",
+				"date": "2020-03-18",
+				"cases": 567,
+				"deaths": 6,
+				"recovered": 23,
+				"active": 538,
+				"ratio": 0.7931034482758621
 			}
 		},
 		"Mexico": {
@@ -87880,6 +92008,16 @@
 				"recovered": 4,
 				"active": 78,
 				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Mexico",
+				"date": "2020-03-18",
+				"cases": 93,
+				"deaths": 0,
+				"recovered": 4,
+				"active": 89,
+				"ratio": 1
 			}
 		},
 		"Brazil": {
@@ -87992,6 +92130,16 @@
 				"recovered": 2,
 				"active": 318,
 				"ratio": 0.6666666666666666
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Brazil",
+				"date": "2020-03-18",
+				"cases": 372,
+				"deaths": 3,
+				"recovered": 2,
+				"active": 367,
+				"ratio": 0.4
 			}
 		},
 		"Colombia": {
@@ -88083,6 +92231,16 @@
 				"deaths": 0,
 				"recovered": 1,
 				"active": 64,
+				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Colombia",
+				"date": "2020-03-18",
+				"cases": 93,
+				"deaths": 0,
+				"recovered": 1,
+				"active": 92,
 				"ratio": 1
 			}
 		},
@@ -88385,6 +92543,16 @@
 				"deaths": 148,
 				"recovered": 12,
 				"active": 7514,
+				"ratio": 0.075
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "France",
+				"date": "2020-03-18",
+				"cases": 9046,
+				"deaths": 148,
+				"recovered": 12,
+				"active": 8886,
 				"ratio": 0.075
 			}
 		},
@@ -88700,6 +92868,16 @@
 				"recovered": 9,
 				"active": 400,
 				"ratio": 0.6923076923076923
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Canada",
+				"date": "2020-03-18",
+				"cases": 653,
+				"deaths": 8,
+				"recovered": 9,
+				"active": 636,
+				"ratio": 0.5294117647058824
 			}
 		},
 		"Cambodia": {
@@ -88791,6 +92969,16 @@
 				"deaths": 0,
 				"recovered": 1,
 				"active": 32,
+				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Cambodia",
+				"date": "2020-03-18",
+				"cases": 35,
+				"deaths": 0,
+				"recovered": 1,
+				"active": 34,
 				"ratio": 1
 			}
 		},
@@ -88914,6 +93102,16 @@
 				"recovered": 1,
 				"active": 43,
 				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Sri Lanka",
+				"date": "2020-03-18",
+				"cases": 51,
+				"deaths": 0,
+				"recovered": 1,
+				"active": 50,
+				"ratio": 1
 			}
 		},
 		"Ivory Coast": {
@@ -88965,6 +93163,16 @@
 				"deaths": 0,
 				"recovered": 1,
 				"active": 4,
+				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Ivory Coast",
+				"date": "2020-03-18",
+				"cases": 6,
+				"deaths": 0,
+				"recovered": 1,
+				"active": 5,
 				"ratio": 1
 			}
 		},
@@ -89288,6 +93496,16 @@
 				"recovered": 67,
 				"active": 9166,
 				"ratio": 0.7362637362637363
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Germany",
+				"date": "2020-03-18",
+				"cases": 12327,
+				"deaths": 28,
+				"recovered": 105,
+				"active": 12194,
+				"ratio": 0.7894736842105263
 			}
 		},
 		"Finland": {
@@ -89459,6 +93677,16 @@
 				"deaths": 0,
 				"recovered": 10,
 				"active": 311,
+				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Finland",
+				"date": "2020-03-18",
+				"cases": 336,
+				"deaths": 0,
+				"recovered": 10,
+				"active": 326,
 				"ratio": 1
 			}
 		},
@@ -89784,6 +94012,16 @@
 				"recovered": 8,
 				"active": 133,
 				"ratio": 0.7272727272727273
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "India",
+				"date": "2020-03-18",
+				"cases": 156,
+				"deaths": 3,
+				"recovered": 14,
+				"active": 139,
+				"ratio": 0.8235294117647058
 			}
 		},
 		"Italy": {
@@ -90248,6 +94486,16 @@
 				"recovered": 53,
 				"active": 1845,
 				"ratio": 0.49074074074074076
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "United Kingdom",
+				"date": "2020-03-18",
+				"cases": 2635,
+				"deaths": 71,
+				"recovered": 67,
+				"active": 2497,
+				"ratio": 0.4855072463768116
 			}
 		},
 		"Russia": {
@@ -90339,6 +94587,16 @@
 				"deaths": 0,
 				"recovered": 8,
 				"active": 106,
+				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Russia",
+				"date": "2020-03-18",
+				"cases": 147,
+				"deaths": 0,
+				"recovered": 8,
+				"active": 139,
 				"ratio": 1
 			}
 		},
@@ -90724,6 +94982,16 @@
 				"recovered": 1028,
 				"active": 10187,
 				"ratio": 0.6585522101217168
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Spain",
+				"date": "2020-03-18",
+				"cases": 13910,
+				"deaths": 623,
+				"recovered": 1081,
+				"active": 12206,
+				"ratio": 0.6343896713615024
 			}
 		},
 		"Belgium": {
@@ -90886,6 +95154,16 @@
 				"recovered": 1,
 				"active": 1232,
 				"ratio": 0.09090909090909091
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Belgium",
+				"date": "2020-03-18",
+				"cases": 1486,
+				"deaths": 14,
+				"recovered": 31,
+				"active": 1441,
+				"ratio": 0.6888888888888889
 			}
 		},
 		"Others": {
@@ -91180,6 +95458,16 @@
 				"recovered": 32,
 				"active": 160,
 				"ratio": 0.8888888888888888
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Egypt",
+				"date": "2020-03-18",
+				"cases": 196,
+				"deaths": 6,
+				"recovered": 32,
+				"active": 158,
+				"ratio": 0.8421052631578947
 			}
 		},
 		"Iran": {
@@ -91553,6 +95841,16 @@
 				"deaths": 0,
 				"recovered": 11,
 				"active": 326,
+				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Israel",
+				"date": "2020-03-18",
+				"cases": 433,
+				"deaths": 0,
+				"recovered": 11,
+				"active": 422,
 				"ratio": 1
 			}
 		},
@@ -91969,6 +96267,16 @@
 				"deaths": 0,
 				"recovered": 9,
 				"active": 15,
+				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Oman",
+				"date": "2020-03-18",
+				"cases": 39,
+				"deaths": 0,
+				"recovered": 12,
+				"active": 27,
 				"ratio": 1
 			}
 		},
@@ -92498,6 +96806,16 @@
 				"recovered": 1,
 				"active": 1328,
 				"ratio": 0.25
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Austria",
+				"date": "2020-03-18",
+				"cases": 1646,
+				"deaths": 4,
+				"recovered": 9,
+				"active": 1633,
+				"ratio": 0.6923076923076923
 			}
 		},
 		"Algeria": {
@@ -92630,6 +96948,16 @@
 				"recovered": 12,
 				"active": 44,
 				"ratio": 0.75
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Algeria",
+				"date": "2020-03-18",
+				"cases": 74,
+				"deaths": 7,
+				"recovered": 12,
+				"active": 55,
+				"ratio": 0.631578947368421
 			}
 		},
 		"Croatia": {
@@ -92761,6 +97089,16 @@
 				"deaths": 0,
 				"recovered": 4,
 				"active": 61,
+				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Croatia",
+				"date": "2020-03-18",
+				"cases": 81,
+				"deaths": 0,
+				"recovered": 4,
+				"active": 77,
 				"ratio": 1
 			}
 		},
@@ -92924,6 +97262,16 @@
 				"recovered": 4,
 				"active": 2669,
 				"ratio": 0.12903225806451613
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Switzerland",
+				"date": "2020-03-18",
+				"cases": 3028,
+				"deaths": 28,
+				"recovered": 15,
+				"active": 2985,
+				"ratio": 0.3488372093023256
 			}
 		},
 		"Pakistan": {
@@ -93025,6 +97373,16 @@
 				"deaths": 0,
 				"recovered": 2,
 				"active": 234,
+				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Pakistan",
+				"date": "2020-03-18",
+				"cases": 299,
+				"deaths": 0,
+				"recovered": 2,
+				"active": 297,
 				"ratio": 1
 			}
 		},
@@ -93250,6 +97608,16 @@
 				"recovered": 8,
 				"active": 374,
 				"ratio": 0.6153846153846154
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Greece",
+				"date": "2020-03-18",
+				"cases": 418,
+				"deaths": 5,
+				"recovered": 8,
+				"active": 405,
+				"ratio": 0.6153846153846154
 			}
 		},
 		"North Macedonia": {
@@ -93331,6 +97699,16 @@
 				"deaths": 0,
 				"recovered": 1,
 				"active": 25,
+				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "North Macedonia",
+				"date": "2020-03-18",
+				"cases": 35,
+				"deaths": 0,
+				"recovered": 1,
+				"active": 34,
 				"ratio": 1
 			}
 		},
@@ -93616,6 +97994,16 @@
 				"recovered": 16,
 				"active": 168,
 				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Romania",
+				"date": "2020-03-18",
+				"cases": 260,
+				"deaths": 0,
+				"recovered": 19,
+				"active": 241,
+				"ratio": 1
 			}
 		},
 		"Denmark": {
@@ -93820,6 +98208,16 @@
 				"recovered": 1,
 				"active": 224,
 				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Estonia",
+				"date": "2020-03-18",
+				"cases": 258,
+				"deaths": 0,
+				"recovered": 1,
+				"active": 257,
+				"ratio": 1
 			}
 		},
 		"Netherlands": {
@@ -93982,6 +98380,16 @@
 				"recovered": 2,
 				"active": 1663,
 				"ratio": 0.044444444444444446
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Netherlands",
+				"date": "2020-03-18",
+				"cases": 2053,
+				"deaths": 58,
+				"recovered": 2,
+				"active": 1993,
+				"ratio": 0.03333333333333333
 			}
 		},
 		"San Marino": {
@@ -94238,6 +98646,16 @@
 				"recovered": 3,
 				"active": 33,
 				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Belarus",
+				"date": "2020-03-18",
+				"cases": 51,
+				"deaths": 0,
+				"recovered": 5,
+				"active": 46,
+				"ratio": 1
 			}
 		},
 		"Iceland": {
@@ -94370,6 +98788,16 @@
 				"recovered": 0,
 				"active": 219,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Iceland",
+				"date": "2020-03-18",
+				"cases": 250,
+				"deaths": 1,
+				"recovered": 5,
+				"active": 244,
+				"ratio": 0.8333333333333334
 			}
 		},
 		"Lithuania": {
@@ -94421,6 +98849,16 @@
 				"deaths": 0,
 				"recovered": 1,
 				"active": 24,
+				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Lithuania",
+				"date": "2020-03-18",
+				"cases": 27,
+				"deaths": 0,
+				"recovered": 1,
+				"active": 26,
 				"ratio": 1
 			}
 		},
@@ -94504,6 +98942,16 @@
 				"recovered": 0,
 				"active": 12,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "New Zealand",
+				"date": "2020-03-18",
+				"cases": 20,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 20,
+				"ratio": 0
 			}
 		},
 		"Nigeria": {
@@ -94556,6 +99004,16 @@
 				"recovered": 0,
 				"active": 3,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Nigeria",
+				"date": "2020-03-18",
+				"cases": 8,
+				"deaths": 0,
+				"recovered": 1,
+				"active": 7,
+				"ratio": 1
 			}
 		},
 		"Ireland": {
@@ -94647,6 +99105,16 @@
 				"deaths": 2,
 				"recovered": 5,
 				"active": 216,
+				"ratio": 0.7142857142857143
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Ireland",
+				"date": "2020-03-18",
+				"cases": 292,
+				"deaths": 2,
+				"recovered": 5,
+				"active": 285,
 				"ratio": 0.7142857142857143
 			}
 		},
@@ -94759,6 +99227,16 @@
 				"deaths": 1,
 				"recovered": 0,
 				"active": 139,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Luxembourg",
+				"date": "2020-03-18",
+				"cases": 203,
+				"deaths": 2,
+				"recovered": 0,
+				"active": 201,
 				"ratio": 0
 			}
 		},
@@ -95006,6 +99484,16 @@
 				"recovered": 0,
 				"active": 56,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Ecuador",
+				"date": "2020-03-18",
+				"cases": 111,
+				"deaths": 2,
+				"recovered": 0,
+				"active": 109,
+				"ratio": 0
 			}
 		},
 		"Czech Republic": {
@@ -95169,6 +99657,16 @@
 				"deaths": 0,
 				"recovered": 1,
 				"active": 77,
+				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Armenia",
+				"date": "2020-03-18",
+				"cases": 84,
+				"deaths": 0,
+				"recovered": 1,
+				"active": 83,
 				"ratio": 1
 			}
 		},
@@ -95334,6 +99832,16 @@
 				"recovered": 8,
 				"active": 159,
 				"ratio": 0.6153846153846154
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Indonesia",
+				"date": "2020-03-18",
+				"cases": 227,
+				"deaths": 19,
+				"recovered": 11,
+				"active": 197,
+				"ratio": 0.36666666666666664
 			}
 		},
 		"Portugal": {
@@ -95456,6 +99964,16 @@
 				"recovered": 3,
 				"active": 444,
 				"ratio": 0.75
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Portugal",
+				"date": "2020-03-18",
+				"cases": 448,
+				"deaths": 2,
+				"recovered": 3,
+				"active": 443,
+				"ratio": 0.6
 			}
 		},
 		"Andorra": {
@@ -95610,6 +100128,16 @@
 				"recovered": 1,
 				"active": 48,
 				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Latvia",
+				"date": "2020-03-18",
+				"cases": 71,
+				"deaths": 0,
+				"recovered": 1,
+				"active": 70,
+				"ratio": 1
 			}
 		},
 		"Morocco": {
@@ -95701,6 +100229,16 @@
 				"deaths": 2,
 				"recovered": 1,
 				"active": 35,
+				"ratio": 0.3333333333333333
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Morocco",
+				"date": "2020-03-18",
+				"cases": 49,
+				"deaths": 2,
+				"recovered": 1,
+				"active": 46,
 				"ratio": 0.3333333333333333
 			}
 		},
@@ -95938,6 +100476,16 @@
 				"recovered": 3,
 				"active": 63,
 				"ratio": 0.6
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Argentina",
+				"date": "2020-03-18",
+				"cases": 79,
+				"deaths": 2,
+				"recovered": 3,
+				"active": 74,
+				"ratio": 0.6
 			}
 		},
 		"Chile": {
@@ -96030,6 +100578,16 @@
 				"recovered": 0,
 				"active": 201,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Chile",
+				"date": "2020-03-18",
+				"cases": 238,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 238,
+				"ratio": 0
 			}
 		},
 		"Jordan": {
@@ -96091,6 +100649,16 @@
 				"deaths": 0,
 				"recovered": 1,
 				"active": 33,
+				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Jordan",
+				"date": "2020-03-18",
+				"cases": 52,
+				"deaths": 0,
+				"recovered": 1,
+				"active": 51,
 				"ratio": 1
 			}
 		},
@@ -96248,6 +100816,16 @@
 				"recovered": 2,
 				"active": 47,
 				"ratio": 0.6666666666666666
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Hungary",
+				"date": "2020-03-18",
+				"cases": 58,
+				"deaths": 1,
+				"recovered": 2,
+				"active": 55,
+				"ratio": 0.6666666666666666
 			}
 		},
 		"Faroe Islands": {
@@ -96333,6 +100911,16 @@
 				"deaths": 0,
 				"recovered": 0,
 				"active": 7,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Liechtenstein",
+				"date": "2020-03-18",
+				"cases": 28,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 28,
 				"ratio": 0
 			}
 		},
@@ -96436,6 +101024,16 @@
 				"recovered": 13,
 				"active": 220,
 				"ratio": 0.7222222222222222
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Poland",
+				"date": "2020-03-18",
+				"cases": 251,
+				"deaths": 5,
+				"recovered": 13,
+				"active": 233,
+				"ratio": 0.7222222222222222
 			}
 		},
 		"Tunisia": {
@@ -96487,6 +101085,16 @@
 				"deaths": 0,
 				"recovered": 0,
 				"active": 24,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Tunisia",
+				"date": "2020-03-18",
+				"cases": 29,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 29,
 				"ratio": 0
 			}
 		},
@@ -96601,6 +101209,16 @@
 				"deaths": 0,
 				"recovered": 2,
 				"active": 24,
+				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Bosnia and Herzegovina",
+				"date": "2020-03-18",
+				"cases": 38,
+				"deaths": 0,
+				"recovered": 2,
+				"active": 36,
 				"ratio": 1
 			}
 		},
@@ -96766,6 +101384,16 @@
 				"recovered": 0,
 				"active": 62,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "South Africa",
+				"date": "2020-03-18",
+				"cases": 116,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 116,
+				"ratio": 0
 			}
 		},
 		"Bhutan": {
@@ -96922,6 +101550,16 @@
 				"recovered": 0,
 				"active": 41,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Costa Rica",
+				"date": "2020-03-18",
+				"cases": 50,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 50,
+				"ratio": 0
 			}
 		},
 		"Peru": {
@@ -97023,6 +101661,16 @@
 				"deaths": 0,
 				"recovered": 1,
 				"active": 116,
+				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Peru",
+				"date": "2020-03-18",
+				"cases": 145,
+				"deaths": 0,
+				"recovered": 1,
+				"active": 144,
 				"ratio": 1
 			}
 		},
@@ -97147,6 +101795,16 @@
 				"deaths": 0,
 				"recovered": 0,
 				"active": 72,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Slovakia",
+				"date": "2020-03-18",
+				"cases": 105,
+				"deaths": 1,
+				"recovered": 0,
+				"active": 104,
 				"ratio": 0
 			}
 		},
@@ -97368,6 +102026,16 @@
 				"recovered": 0,
 				"active": 15,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Martinique",
+				"date": "2020-03-18",
+				"cases": 19,
+				"deaths": 1,
+				"recovered": 0,
+				"active": 18,
+				"ratio": 0
 			}
 		},
 		"Bulgaria": {
@@ -97439,6 +102107,16 @@
 				"deaths": 2,
 				"recovered": 0,
 				"active": 65,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Bulgaria",
+				"date": "2020-03-18",
+				"cases": 92,
+				"deaths": 2,
+				"recovered": 0,
+				"active": 90,
 				"ratio": 0
 			}
 		},
@@ -97544,6 +102222,16 @@
 				"recovered": 3,
 				"active": 7,
 				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Bangladesh",
+				"date": "2020-03-18",
+				"cases": 14,
+				"deaths": 1,
+				"recovered": 3,
+				"active": 10,
+				"ratio": 0.75
 			}
 		},
 		"Moldova": {
@@ -97618,6 +102306,16 @@
 				"recovered": 0,
 				"active": 11,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Paraguay",
+				"date": "2020-03-18",
+				"cases": 11,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 11,
+				"ratio": 0
 			}
 		},
 		"Albania": {
@@ -97669,6 +102367,16 @@
 				"deaths": 1,
 				"recovered": 0,
 				"active": 54,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Albania",
+				"date": "2020-03-18",
+				"cases": 59,
+				"deaths": 2,
+				"recovered": 0,
+				"active": 57,
 				"ratio": 0
 			}
 		},
@@ -97731,6 +102439,16 @@
 				"deaths": 0,
 				"recovered": 0,
 				"active": 46,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Cyprus",
+				"date": "2020-03-18",
+				"cases": 49,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 49,
 				"ratio": 0
 			}
 		},
@@ -97805,6 +102523,16 @@
 				"deaths": 0,
 				"recovered": 0,
 				"active": 56,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Brunei",
+				"date": "2020-03-18",
+				"cases": 68,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 68,
 				"ratio": 0
 			}
 		},
@@ -97883,6 +102611,16 @@
 				"deaths": 0,
 				"recovered": 0,
 				"active": 15,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Burkina Faso",
+				"date": "2020-03-18",
+				"cases": 20,
+				"deaths": 1,
+				"recovered": 0,
+				"active": 19,
 				"ratio": 0
 			}
 		},
@@ -97970,6 +102708,16 @@
 				"recovered": 0,
 				"active": 5,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Mongolia",
+				"date": "2020-03-18",
+				"cases": 6,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 6,
+				"ratio": 0
 			}
 		},
 		"Panama": {
@@ -98032,6 +102780,16 @@
 				"recovered": 0,
 				"active": 68,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Panama",
+				"date": "2020-03-18",
+				"cases": 86,
+				"deaths": 1,
+				"recovered": 0,
+				"active": 85,
+				"ratio": 0
 			}
 		},
 		"Cruise Ship": {
@@ -98053,6 +102811,16 @@
 				"deaths": 7,
 				"recovered": 325,
 				"active": 364,
+				"ratio": 0.9789156626506024
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Cruise Ship",
+				"date": "2020-03-18",
+				"cases": 712,
+				"deaths": 7,
+				"recovered": 325,
+				"active": 380,
 				"ratio": 0.9789156626506024
 			}
 		},
@@ -98096,6 +102864,16 @@
 				"recovered": 3,
 				"active": 393,
 				"ratio": 1
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Czechia",
+				"date": "2020-03-18",
+				"cases": 464,
+				"deaths": 0,
+				"recovered": 3,
+				"active": 461,
+				"ratio": 1
 			}
 		},
 		"Bolivia": {
@@ -98127,6 +102905,16 @@
 				"deaths": 0,
 				"recovered": 0,
 				"active": 11,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Bolivia",
+				"date": "2020-03-18",
+				"cases": 12,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 12,
 				"ratio": 0
 			}
 		},
@@ -98180,6 +102968,16 @@
 				"recovered": 0,
 				"active": 8,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Honduras",
+				"date": "2020-03-18",
+				"cases": 9,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 9,
+				"ratio": 0
 			}
 		},
 		"Congo (Kinshasa)": {
@@ -98201,6 +102999,16 @@
 				"deaths": 0,
 				"recovered": 0,
 				"active": 3,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Congo (Kinshasa)",
+				"date": "2020-03-18",
+				"cases": 4,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 4,
 				"ratio": 0
 			}
 		},
@@ -98276,6 +103084,16 @@
 				"recovered": 0,
 				"active": 9,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Reunion",
+				"date": "2020-03-18",
+				"cases": 12,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 12,
+				"ratio": 0
 			}
 		},
 		"Turkey": {
@@ -98318,6 +103136,16 @@
 				"recovered": 0,
 				"active": 46,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Turkey",
+				"date": "2020-03-18",
+				"cases": 98,
+				"deaths": 1,
+				"recovered": 0,
+				"active": 97,
+				"ratio": 0
 			}
 		},
 		"Cuba": {
@@ -98359,6 +103187,16 @@
 				"deaths": 0,
 				"recovered": 0,
 				"active": 5,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Cuba",
+				"date": "2020-03-18",
+				"cases": 7,
+				"deaths": 1,
+				"recovered": 0,
+				"active": 6,
 				"ratio": 0
 			}
 		},
@@ -98464,6 +103302,16 @@
 				"recovered": 0,
 				"active": 33,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Kazakhstan",
+				"date": "2020-03-18",
+				"cases": 35,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 35,
+				"ratio": 0
 			}
 		},
 		"Cayman Islands": {
@@ -98528,6 +103376,16 @@
 				"recovered": 0,
 				"active": 18,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Guadeloupe",
+				"date": "2020-03-18",
+				"cases": 27,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 27,
+				"ratio": 0
 			}
 		},
 		"Ethiopia": {
@@ -98560,6 +103418,16 @@
 				"recovered": 0,
 				"active": 5,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Ethiopia",
+				"date": "2020-03-18",
+				"cases": 6,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 6,
+				"ratio": 0
 			}
 		},
 		"Sudan": {
@@ -98581,6 +103449,16 @@
 				"deaths": 1,
 				"recovered": 0,
 				"active": 0,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Sudan",
+				"date": "2020-03-18",
+				"cases": 2,
+				"deaths": 1,
+				"recovered": 0,
+				"active": 1,
 				"ratio": 0
 			}
 		},
@@ -98678,6 +103556,16 @@
 				"recovered": 0,
 				"active": 3,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Aruba",
+				"date": "2020-03-18",
+				"cases": 4,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 4,
+				"ratio": 0
 			}
 		},
 		"Kenya": {
@@ -98743,6 +103631,16 @@
 				"deaths": 0,
 				"recovered": 0,
 				"active": 29,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Uruguay",
+				"date": "2020-03-18",
+				"cases": 50,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 50,
 				"ratio": 0
 			}
 		},
@@ -98874,6 +103772,16 @@
 				"recovered": 0,
 				"active": 5,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Trinidad and Tobago",
+				"date": "2020-03-18",
+				"cases": 7,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 7,
+				"ratio": 0
 			}
 		},
 		"Venezuela": {
@@ -98915,6 +103823,16 @@
 				"deaths": 0,
 				"recovered": 0,
 				"active": 33,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Venezuela",
+				"date": "2020-03-18",
+				"cases": 36,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 36,
 				"ratio": 0
 			}
 		},
@@ -99058,6 +103976,16 @@
 				"recovered": 0,
 				"active": 7,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Rwanda",
+				"date": "2020-03-18",
+				"cases": 8,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 8,
+				"ratio": 0
 			}
 		},
 		"Saint Lucia": {
@@ -99162,6 +104090,16 @@
 				"recovered": 0,
 				"active": 1,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Equatorial Guinea",
+				"date": "2020-03-18",
+				"cases": 4,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 4,
+				"ratio": 0
 			}
 		},
 		"Uzbekistan": {
@@ -99193,6 +104131,16 @@
 				"deaths": 0,
 				"recovered": 0,
 				"active": 10,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Uzbekistan",
+				"date": "2020-03-18",
+				"cases": 15,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 15,
 				"ratio": 0
 			}
 		},
@@ -99230,6 +104178,16 @@
 				"recovered": 0,
 				"active": 1,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Benin",
+				"date": "2020-03-18",
+				"cases": 2,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 2,
+				"ratio": 0
 			}
 		},
 		"Greenland": {
@@ -99264,6 +104222,16 @@
 				"recovered": 0,
 				"active": 1,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Liberia",
+				"date": "2020-03-18",
+				"cases": 2,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 2,
+				"ratio": 0
 			}
 		},
 		"Mayotte": {
@@ -99275,6 +104243,16 @@
 				"deaths": 0,
 				"recovered": 0,
 				"active": 1,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Mayotte",
+				"date": "2020-03-18",
+				"cases": 3,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 3,
 				"ratio": 0
 			}
 		},
@@ -99295,6 +104273,16 @@
 				"region": "",
 				"country": "Somalia",
 				"date": "2020-03-16",
+				"cases": 1,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 1,
+				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Somalia",
+				"date": "2020-03-18",
 				"cases": 1,
 				"deaths": 0,
 				"recovered": 0,
@@ -99322,6 +104310,16 @@
 				"recovered": 0,
 				"active": 1,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Tanzania",
+				"date": "2020-03-18",
+				"cases": 3,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 3,
+				"ratio": 0
 			}
 		},
 		"The Bahamas": {
@@ -99346,6 +104344,16 @@
 				"recovered": 0,
 				"active": 2,
 				"ratio": 0
+			},
+			"2020-03-18": {
+				"region": "",
+				"country": "Barbados",
+				"date": "2020-03-18",
+				"cases": 2,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 2,
+				"ratio": 0
 			}
 		},
 		"Montenegro": {
@@ -99365,6 +104373,66 @@
 				"region": "",
 				"country": "The Gambia",
 				"date": "2020-03-17",
+				"cases": 1,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 1,
+				"ratio": 0
+			}
+		},
+		"Kyrgyzstan": {
+			"2020-03-18": {
+				"region": "",
+				"country": "Kyrgyzstan",
+				"date": "2020-03-18",
+				"cases": 3,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 3,
+				"ratio": 0
+			}
+		},
+		"Mauritius": {
+			"2020-03-18": {
+				"region": "",
+				"country": "Mauritius",
+				"date": "2020-03-18",
+				"cases": 3,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 3,
+				"ratio": 0
+			}
+		},
+		"Zambia": {
+			"2020-03-18": {
+				"region": "",
+				"country": "Zambia",
+				"date": "2020-03-18",
+				"cases": 2,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 2,
+				"ratio": 0
+			}
+		},
+		"Djibouti": {
+			"2020-03-18": {
+				"region": "",
+				"country": "Djibouti",
+				"date": "2020-03-18",
+				"cases": 1,
+				"deaths": 0,
+				"recovered": 0,
+				"active": 1,
+				"ratio": 0
+			}
+		},
+		"Gambia, The": {
+			"2020-03-18": {
+				"region": "",
+				"country": "Gambia, The",
+				"date": "2020-03-18",
 				"cases": 1,
 				"deaths": 0,
 				"recovered": 0,
@@ -99407,22 +104475,22 @@
 		"Taiwan": {
 			"region": "",
 			"country": "Taiwan",
-			"date": "2020-03-11",
-			"cases": 98,
-			"deaths": 2,
-			"recovered": 37,
-			"active": 59,
-			"ratio": 0.9487179487179487
+			"date": "2020-03-18",
+			"cases": 100,
+			"deaths": 1,
+			"recovered": 22,
+			"active": 77,
+			"ratio": 0.9565217391304348
 		},
 		"USA": {
 			"region": "",
 			"country": "USA",
-			"date": "2020-03-17",
-			"cases": 6287,
-			"deaths": 108,
-			"recovered": 17,
-			"active": 6162,
-			"ratio": 0.136
+			"date": "2020-03-18",
+			"cases": 7447,
+			"deaths": 115,
+			"recovered": 106,
+			"active": 7226,
+			"ratio": 0.4796380090497738
 		},
 		"Japan": {
 			"region": "",
@@ -99437,12 +104505,12 @@
 		"Thailand": {
 			"region": "",
 			"country": "Thailand",
-			"date": "2020-03-17",
-			"cases": 177,
+			"date": "2020-03-18",
+			"cases": 212,
 			"deaths": 1,
-			"recovered": 41,
-			"active": 135,
-			"ratio": 0.9761904761904762
+			"recovered": 42,
+			"active": 169,
+			"ratio": 0.9767441860465116
 		},
 		"South Korea": {
 			"region": "",
@@ -99467,22 +104535,22 @@
 		"Philippines": {
 			"region": "",
 			"country": "Philippines",
-			"date": "2020-03-17",
-			"cases": 187,
-			"deaths": 12,
+			"date": "2020-03-18",
+			"cases": 202,
+			"deaths": 19,
 			"recovered": 5,
-			"active": 170,
-			"ratio": 0.29411764705882354
+			"active": 178,
+			"ratio": 0.20833333333333334
 		},
 		"Malaysia": {
 			"region": "",
 			"country": "Malaysia",
-			"date": "2020-03-17",
-			"cases": 673,
+			"date": "2020-03-18",
+			"cases": 790,
 			"deaths": 2,
-			"recovered": 49,
-			"active": 622,
-			"ratio": 0.9607843137254902
+			"recovered": 60,
+			"active": 728,
+			"ratio": 0.967741935483871
 		},
 		"Vietnam": {
 			"region": "",
@@ -99497,51 +104565,51 @@
 		"Australia": {
 			"region": "",
 			"country": "Australia",
-			"date": "2020-03-17",
-			"cases": 413,
-			"deaths": 5,
-			"recovered": 20,
-			"active": 388,
-			"ratio": 0.8
+			"date": "2020-03-18",
+			"cases": 567,
+			"deaths": 6,
+			"recovered": 23,
+			"active": 538,
+			"ratio": 0.7931034482758621
 		},
 		"Mexico": {
 			"region": "",
 			"country": "Mexico",
-			"date": "2020-03-17",
-			"cases": 82,
+			"date": "2020-03-18",
+			"cases": 93,
 			"deaths": 0,
 			"recovered": 4,
-			"active": 78,
+			"active": 89,
 			"ratio": 1
 		},
 		"Brazil": {
 			"region": "",
 			"country": "Brazil",
-			"date": "2020-03-17",
-			"cases": 321,
-			"deaths": 1,
+			"date": "2020-03-18",
+			"cases": 372,
+			"deaths": 3,
 			"recovered": 2,
-			"active": 318,
-			"ratio": 0.6666666666666666
+			"active": 367,
+			"ratio": 0.4
 		},
 		"Colombia": {
 			"region": "",
 			"country": "Colombia",
-			"date": "2020-03-17",
-			"cases": 65,
+			"date": "2020-03-18",
+			"cases": 93,
 			"deaths": 0,
 			"recovered": 1,
-			"active": 64,
+			"active": 92,
 			"ratio": 1
 		},
 		"France": {
 			"region": "",
 			"country": "France",
-			"date": "2020-03-17",
-			"cases": 7674,
+			"date": "2020-03-18",
+			"cases": 9046,
 			"deaths": 148,
 			"recovered": 12,
-			"active": 7514,
+			"active": 8886,
 			"ratio": 0.075
 		},
 		"Nepal": {
@@ -99557,61 +104625,61 @@
 		"Canada": {
 			"region": "",
 			"country": "Canada",
-			"date": "2020-03-16",
-			"cases": 413,
-			"deaths": 4,
+			"date": "2020-03-18",
+			"cases": 653,
+			"deaths": 8,
 			"recovered": 9,
-			"active": 400,
-			"ratio": 0.6923076923076923
+			"active": 636,
+			"ratio": 0.5294117647058824
 		},
 		"Cambodia": {
 			"region": "",
 			"country": "Cambodia",
-			"date": "2020-03-17",
-			"cases": 33,
+			"date": "2020-03-18",
+			"cases": 35,
 			"deaths": 0,
 			"recovered": 1,
-			"active": 32,
+			"active": 34,
 			"ratio": 1
 		},
 		"Sri Lanka": {
 			"region": "",
 			"country": "Sri Lanka",
-			"date": "2020-03-17",
-			"cases": 44,
+			"date": "2020-03-18",
+			"cases": 51,
 			"deaths": 0,
 			"recovered": 1,
-			"active": 43,
+			"active": 50,
 			"ratio": 1
 		},
 		"Ivory Coast": {
 			"region": "",
 			"country": "Ivory Coast",
-			"date": "2020-03-17",
-			"cases": 5,
+			"date": "2020-03-18",
+			"cases": 6,
 			"deaths": 0,
 			"recovered": 1,
-			"active": 4,
+			"active": 5,
 			"ratio": 1
 		},
 		"Germany": {
 			"region": "",
 			"country": "Germany",
-			"date": "2020-03-17",
-			"cases": 9257,
-			"deaths": 24,
-			"recovered": 67,
-			"active": 9166,
-			"ratio": 0.7362637362637363
+			"date": "2020-03-18",
+			"cases": 12327,
+			"deaths": 28,
+			"recovered": 105,
+			"active": 12194,
+			"ratio": 0.7894736842105263
 		},
 		"Finland": {
 			"region": "",
 			"country": "Finland",
-			"date": "2020-03-17",
-			"cases": 321,
+			"date": "2020-03-18",
+			"cases": 336,
 			"deaths": 0,
 			"recovered": 10,
-			"active": 311,
+			"active": 326,
 			"ratio": 1
 		},
 		"United Arab Emirates": {
@@ -99627,12 +104695,12 @@
 		"India": {
 			"region": "",
 			"country": "India",
-			"date": "2020-03-11",
-			"cases": 144,
+			"date": "2020-03-18",
+			"cases": 156,
 			"deaths": 3,
-			"recovered": 8,
-			"active": 133,
-			"ratio": 0.7272727272727273
+			"recovered": 14,
+			"active": 139,
+			"ratio": 0.8235294117647058
 		},
 		"Italy": {
 			"region": "",
@@ -99647,21 +104715,21 @@
 		"United Kingdom": {
 			"region": "",
 			"country": "United Kingdom",
-			"date": "2020-03-17",
-			"cases": 1953,
-			"deaths": 55,
-			"recovered": 53,
-			"active": 1845,
-			"ratio": 0.49074074074074076
+			"date": "2020-03-18",
+			"cases": 2635,
+			"deaths": 71,
+			"recovered": 67,
+			"active": 2497,
+			"ratio": 0.4855072463768116
 		},
 		"Russia": {
 			"region": "",
 			"country": "Russia",
-			"date": "2020-03-17",
-			"cases": 114,
+			"date": "2020-03-18",
+			"cases": 147,
 			"deaths": 0,
 			"recovered": 8,
-			"active": 106,
+			"active": 139,
 			"ratio": 1
 		},
 		"Sweden": {
@@ -99677,22 +104745,22 @@
 		"Spain": {
 			"region": "",
 			"country": "Spain",
-			"date": "2020-03-17",
-			"cases": 11748,
-			"deaths": 533,
-			"recovered": 1028,
-			"active": 10187,
-			"ratio": 0.6585522101217168
+			"date": "2020-03-18",
+			"cases": 13910,
+			"deaths": 623,
+			"recovered": 1081,
+			"active": 12206,
+			"ratio": 0.6343896713615024
 		},
 		"Belgium": {
 			"region": "",
 			"country": "Belgium",
-			"date": "2020-03-17",
-			"cases": 1243,
-			"deaths": 10,
-			"recovered": 1,
-			"active": 1232,
-			"ratio": 0.09090909090909091
+			"date": "2020-03-18",
+			"cases": 1486,
+			"deaths": 14,
+			"recovered": 31,
+			"active": 1441,
+			"ratio": 0.6888888888888889
 		},
 		"Others": {
 			"region": "",
@@ -99707,12 +104775,12 @@
 		"Egypt": {
 			"region": "",
 			"country": "Egypt",
-			"date": "2020-03-17",
+			"date": "2020-03-18",
 			"cases": 196,
-			"deaths": 4,
+			"deaths": 6,
 			"recovered": 32,
-			"active": 160,
-			"ratio": 0.8888888888888888
+			"active": 158,
+			"ratio": 0.8421052631578947
 		},
 		"Iran": {
 			"region": "",
@@ -99727,11 +104795,11 @@
 		"Israel": {
 			"region": "",
 			"country": "Israel",
-			"date": "2020-03-17",
-			"cases": 337,
+			"date": "2020-03-18",
+			"cases": 433,
 			"deaths": 0,
 			"recovered": 11,
-			"active": 326,
+			"active": 422,
 			"ratio": 1
 		},
 		"Lebanon": {
@@ -99757,11 +104825,11 @@
 		"Oman": {
 			"region": "",
 			"country": "Oman",
-			"date": "2020-03-17",
-			"cases": 24,
+			"date": "2020-03-18",
+			"cases": 39,
 			"deaths": 0,
-			"recovered": 9,
-			"active": 15,
+			"recovered": 12,
+			"active": 27,
 			"ratio": 1
 		},
 		"Afghanistan": {
@@ -99797,51 +104865,51 @@
 		"Austria": {
 			"region": "",
 			"country": "Austria",
-			"date": "2020-03-17",
-			"cases": 1332,
-			"deaths": 3,
-			"recovered": 1,
-			"active": 1328,
-			"ratio": 0.25
+			"date": "2020-03-18",
+			"cases": 1646,
+			"deaths": 4,
+			"recovered": 9,
+			"active": 1633,
+			"ratio": 0.6923076923076923
 		},
 		"Algeria": {
 			"region": "",
 			"country": "Algeria",
-			"date": "2020-03-17",
-			"cases": 60,
-			"deaths": 4,
+			"date": "2020-03-18",
+			"cases": 74,
+			"deaths": 7,
 			"recovered": 12,
-			"active": 44,
-			"ratio": 0.75
+			"active": 55,
+			"ratio": 0.631578947368421
 		},
 		"Croatia": {
 			"region": "",
 			"country": "Croatia",
-			"date": "2020-03-17",
-			"cases": 65,
+			"date": "2020-03-18",
+			"cases": 81,
 			"deaths": 0,
 			"recovered": 4,
-			"active": 61,
+			"active": 77,
 			"ratio": 1
 		},
 		"Switzerland": {
 			"region": "",
 			"country": "Switzerland",
-			"date": "2020-03-17",
-			"cases": 2700,
-			"deaths": 27,
-			"recovered": 4,
-			"active": 2669,
-			"ratio": 0.12903225806451613
+			"date": "2020-03-18",
+			"cases": 3028,
+			"deaths": 28,
+			"recovered": 15,
+			"active": 2985,
+			"ratio": 0.3488372093023256
 		},
 		"Pakistan": {
 			"region": "",
 			"country": "Pakistan",
-			"date": "2020-03-17",
-			"cases": 236,
+			"date": "2020-03-18",
+			"cases": 299,
 			"deaths": 0,
 			"recovered": 2,
-			"active": 234,
+			"active": 297,
 			"ratio": 1
 		},
 		"Georgia": {
@@ -99857,21 +104925,21 @@
 		"Greece": {
 			"region": "",
 			"country": "Greece",
-			"date": "2020-03-17",
-			"cases": 387,
+			"date": "2020-03-18",
+			"cases": 418,
 			"deaths": 5,
 			"recovered": 8,
-			"active": 374,
+			"active": 405,
 			"ratio": 0.6153846153846154
 		},
 		"North Macedonia": {
 			"region": "",
 			"country": "North Macedonia",
-			"date": "2020-03-17",
-			"cases": 26,
+			"date": "2020-03-18",
+			"cases": 35,
 			"deaths": 0,
 			"recovered": 1,
-			"active": 25,
+			"active": 34,
 			"ratio": 1
 		},
 		"Norway": {
@@ -99887,11 +104955,11 @@
 		"Romania": {
 			"region": "",
 			"country": "Romania",
-			"date": "2020-03-17",
-			"cases": 184,
+			"date": "2020-03-18",
+			"cases": 260,
 			"deaths": 0,
-			"recovered": 16,
-			"active": 168,
+			"recovered": 19,
+			"active": 241,
 			"ratio": 1
 		},
 		"Denmark": {
@@ -99907,22 +104975,22 @@
 		"Estonia": {
 			"region": "",
 			"country": "Estonia",
-			"date": "2020-03-17",
-			"cases": 225,
+			"date": "2020-03-18",
+			"cases": 258,
 			"deaths": 0,
 			"recovered": 1,
-			"active": 224,
+			"active": 257,
 			"ratio": 1
 		},
 		"Netherlands": {
 			"region": "",
 			"country": "Netherlands",
-			"date": "2020-03-17",
-			"cases": 1708,
-			"deaths": 43,
+			"date": "2020-03-18",
+			"cases": 2053,
+			"deaths": 58,
 			"recovered": 2,
-			"active": 1663,
-			"ratio": 0.044444444444444446
+			"active": 1993,
+			"ratio": 0.03333333333333333
 		},
 		"San Marino": {
 			"region": "",
@@ -99947,71 +105015,71 @@
 		"Belarus": {
 			"region": "",
 			"country": "Belarus",
-			"date": "2020-03-16",
-			"cases": 36,
+			"date": "2020-03-18",
+			"cases": 51,
 			"deaths": 0,
-			"recovered": 3,
-			"active": 33,
+			"recovered": 5,
+			"active": 46,
 			"ratio": 1
 		},
 		"Iceland": {
 			"region": "",
 			"country": "Iceland",
-			"date": "2020-03-17",
-			"cases": 220,
+			"date": "2020-03-18",
+			"cases": 250,
 			"deaths": 1,
-			"recovered": 0,
-			"active": 219,
-			"ratio": 0
+			"recovered": 5,
+			"active": 244,
+			"ratio": 0.8333333333333334
 		},
 		"Lithuania": {
 			"region": "",
 			"country": "Lithuania",
-			"date": "2020-03-17",
-			"cases": 25,
+			"date": "2020-03-18",
+			"cases": 27,
 			"deaths": 0,
 			"recovered": 1,
-			"active": 24,
+			"active": 26,
 			"ratio": 1
 		},
 		"New Zealand": {
 			"region": "",
 			"country": "New Zealand",
-			"date": "2020-03-17",
-			"cases": 12,
+			"date": "2020-03-18",
+			"cases": 20,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 12,
+			"active": 20,
 			"ratio": 0
 		},
 		"Nigeria": {
 			"region": "",
 			"country": "Nigeria",
-			"date": "2020-03-17",
-			"cases": 3,
+			"date": "2020-03-18",
+			"cases": 8,
 			"deaths": 0,
-			"recovered": 0,
-			"active": 3,
-			"ratio": 0
+			"recovered": 1,
+			"active": 7,
+			"ratio": 1
 		},
 		"Ireland": {
 			"region": "",
 			"country": "Ireland",
-			"date": "2020-03-17",
-			"cases": 223,
+			"date": "2020-03-18",
+			"cases": 292,
 			"deaths": 2,
 			"recovered": 5,
-			"active": 216,
+			"active": 285,
 			"ratio": 0.7142857142857143
 		},
 		"Luxembourg": {
 			"region": "",
 			"country": "Luxembourg",
-			"date": "2020-03-17",
-			"cases": 140,
-			"deaths": 1,
+			"date": "2020-03-18",
+			"cases": 203,
+			"deaths": 2,
 			"recovered": 0,
-			"active": 139,
+			"active": 201,
 			"ratio": 0
 		},
 		"Monaco": {
@@ -100037,11 +105105,11 @@
 		"Ecuador": {
 			"region": "",
 			"country": "Ecuador",
-			"date": "2020-03-17",
-			"cases": 58,
+			"date": "2020-03-18",
+			"cases": 111,
 			"deaths": 2,
 			"recovered": 0,
-			"active": 56,
+			"active": 109,
 			"ratio": 0
 		},
 		"Czech Republic": {
@@ -100057,11 +105125,11 @@
 		"Armenia": {
 			"region": "",
 			"country": "Armenia",
-			"date": "2020-03-17",
-			"cases": 78,
+			"date": "2020-03-18",
+			"cases": 84,
 			"deaths": 0,
 			"recovered": 1,
-			"active": 77,
+			"active": 83,
 			"ratio": 1
 		},
 		"Dominican Republic": {
@@ -100077,22 +105145,22 @@
 		"Indonesia": {
 			"region": "",
 			"country": "Indonesia",
-			"date": "2020-03-17",
-			"cases": 172,
-			"deaths": 5,
-			"recovered": 8,
-			"active": 159,
-			"ratio": 0.6153846153846154
+			"date": "2020-03-18",
+			"cases": 227,
+			"deaths": 19,
+			"recovered": 11,
+			"active": 197,
+			"ratio": 0.36666666666666664
 		},
 		"Portugal": {
 			"region": "",
 			"country": "Portugal",
-			"date": "2020-03-17",
+			"date": "2020-03-18",
 			"cases": 448,
-			"deaths": 1,
+			"deaths": 2,
 			"recovered": 3,
-			"active": 444,
-			"ratio": 0.75
+			"active": 443,
+			"ratio": 0.6
 		},
 		"Andorra": {
 			"region": "",
@@ -100107,21 +105175,21 @@
 		"Latvia": {
 			"region": "",
 			"country": "Latvia",
-			"date": "2020-03-17",
-			"cases": 49,
+			"date": "2020-03-18",
+			"cases": 71,
 			"deaths": 0,
 			"recovered": 1,
-			"active": 48,
+			"active": 70,
 			"ratio": 1
 		},
 		"Morocco": {
 			"region": "",
 			"country": "Morocco",
-			"date": "2020-03-17",
-			"cases": 38,
+			"date": "2020-03-18",
+			"cases": 49,
 			"deaths": 2,
 			"recovered": 1,
-			"active": 35,
+			"active": 46,
 			"ratio": 0.3333333333333333
 		},
 		"Saudi Arabia": {
@@ -100147,31 +105215,31 @@
 		"Argentina": {
 			"region": "",
 			"country": "Argentina",
-			"date": "2020-03-17",
-			"cases": 68,
+			"date": "2020-03-18",
+			"cases": 79,
 			"deaths": 2,
 			"recovered": 3,
-			"active": 63,
+			"active": 74,
 			"ratio": 0.6
 		},
 		"Chile": {
 			"region": "",
 			"country": "Chile",
-			"date": "2020-03-17",
-			"cases": 201,
+			"date": "2020-03-18",
+			"cases": 238,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 201,
+			"active": 238,
 			"ratio": 0
 		},
 		"Jordan": {
 			"region": "",
 			"country": "Jordan",
-			"date": "2020-03-17",
-			"cases": 34,
+			"date": "2020-03-18",
+			"cases": 52,
 			"deaths": 0,
 			"recovered": 1,
-			"active": 33,
+			"active": 51,
 			"ratio": 1
 		},
 		"Ukraine": {
@@ -100197,11 +105265,11 @@
 		"Hungary": {
 			"region": "",
 			"country": "Hungary",
-			"date": "2020-03-17",
-			"cases": 50,
+			"date": "2020-03-18",
+			"cases": 58,
 			"deaths": 1,
 			"recovered": 2,
-			"active": 47,
+			"active": 55,
 			"ratio": 0.6666666666666666
 		},
 		"Faroe Islands": {
@@ -100227,31 +105295,31 @@
 		"Liechtenstein": {
 			"region": "",
 			"country": "Liechtenstein",
-			"date": "2020-03-17",
-			"cases": 7,
+			"date": "2020-03-18",
+			"cases": 28,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 7,
+			"active": 28,
 			"ratio": 0
 		},
 		"Poland": {
 			"region": "",
 			"country": "Poland",
-			"date": "2020-03-17",
-			"cases": 238,
+			"date": "2020-03-18",
+			"cases": 251,
 			"deaths": 5,
 			"recovered": 13,
-			"active": 220,
+			"active": 233,
 			"ratio": 0.7222222222222222
 		},
 		"Tunisia": {
 			"region": "",
 			"country": "Tunisia",
-			"date": "2020-03-17",
-			"cases": 24,
+			"date": "2020-03-18",
+			"cases": 29,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 24,
+			"active": 29,
 			"ratio": 0
 		},
 		"Palestine": {
@@ -100267,11 +105335,11 @@
 		"Bosnia and Herzegovina": {
 			"region": "",
 			"country": "Bosnia and Herzegovina",
-			"date": "2020-03-17",
-			"cases": 26,
+			"date": "2020-03-18",
+			"cases": 38,
 			"deaths": 0,
 			"recovered": 2,
-			"active": 24,
+			"active": 36,
 			"ratio": 1
 		},
 		"Slovenia": {
@@ -100287,11 +105355,11 @@
 		"South Africa": {
 			"region": "",
 			"country": "South Africa",
-			"date": "2020-03-16",
-			"cases": 62,
+			"date": "2020-03-18",
+			"cases": 116,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 62,
+			"active": 116,
 			"ratio": 0
 		},
 		"Bhutan": {
@@ -100317,21 +105385,21 @@
 		"Costa Rica": {
 			"region": "",
 			"country": "Costa Rica",
-			"date": "2020-03-17",
-			"cases": 41,
+			"date": "2020-03-18",
+			"cases": 50,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 41,
+			"active": 50,
 			"ratio": 0
 		},
 		"Peru": {
 			"region": "",
 			"country": "Peru",
-			"date": "2020-03-17",
-			"cases": 117,
+			"date": "2020-03-18",
+			"cases": 145,
 			"deaths": 0,
 			"recovered": 1,
-			"active": 116,
+			"active": 144,
 			"ratio": 1
 		},
 		"Serbia": {
@@ -100347,11 +105415,11 @@
 		"Slovakia": {
 			"region": "",
 			"country": "Slovakia",
-			"date": "2020-03-17",
-			"cases": 72,
-			"deaths": 0,
+			"date": "2020-03-18",
+			"cases": 105,
+			"deaths": 1,
 			"recovered": 0,
-			"active": 72,
+			"active": 104,
 			"ratio": 0
 		},
 		"Togo": {
@@ -100397,21 +105465,21 @@
 		"Martinique": {
 			"region": "",
 			"country": "Martinique",
-			"date": "2020-03-17",
-			"cases": 16,
+			"date": "2020-03-18",
+			"cases": 19,
 			"deaths": 1,
 			"recovered": 0,
-			"active": 15,
+			"active": 18,
 			"ratio": 0
 		},
 		"Bulgaria": {
 			"region": "",
 			"country": "Bulgaria",
-			"date": "2020-03-17",
-			"cases": 67,
+			"date": "2020-03-18",
+			"cases": 92,
 			"deaths": 2,
 			"recovered": 0,
-			"active": 65,
+			"active": 90,
 			"ratio": 0
 		},
 		"Maldives": {
@@ -100427,12 +105495,12 @@
 		"Bangladesh": {
 			"region": "",
 			"country": "Bangladesh",
-			"date": "2020-03-17",
-			"cases": 10,
-			"deaths": 0,
+			"date": "2020-03-18",
+			"cases": 14,
+			"deaths": 1,
 			"recovered": 3,
-			"active": 7,
-			"ratio": 1
+			"active": 10,
+			"ratio": 0.75
 		},
 		"Moldova": {
 			"region": "",
@@ -100447,7 +105515,7 @@
 		"Paraguay": {
 			"region": "",
 			"country": "Paraguay",
-			"date": "2020-03-11",
+			"date": "2020-03-18",
 			"cases": 11,
 			"deaths": 0,
 			"recovered": 0,
@@ -100457,21 +105525,21 @@
 		"Albania": {
 			"region": "",
 			"country": "Albania",
-			"date": "2020-03-17",
-			"cases": 55,
-			"deaths": 1,
+			"date": "2020-03-18",
+			"cases": 59,
+			"deaths": 2,
 			"recovered": 0,
-			"active": 54,
+			"active": 57,
 			"ratio": 0
 		},
 		"Cyprus": {
 			"region": "",
 			"country": "Cyprus",
-			"date": "2020-03-17",
-			"cases": 46,
+			"date": "2020-03-18",
+			"cases": 49,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 46,
+			"active": 49,
 			"ratio": 0
 		},
 		"St. Martin": {
@@ -100487,11 +105555,11 @@
 		"Brunei": {
 			"region": "",
 			"country": "Brunei",
-			"date": "2020-03-17",
-			"cases": 56,
+			"date": "2020-03-18",
+			"cases": 68,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 56,
+			"active": 68,
 			"ratio": 0
 		},
 		"Taipei and environs": {
@@ -100527,11 +105595,11 @@
 		"Burkina Faso": {
 			"region": "",
 			"country": "Burkina Faso",
-			"date": "2020-03-16",
-			"cases": 15,
-			"deaths": 0,
+			"date": "2020-03-18",
+			"cases": 20,
+			"deaths": 1,
 			"recovered": 0,
-			"active": 15,
+			"active": 19,
 			"ratio": 0
 		},
 		"Channel Islands": {
@@ -100557,71 +105625,71 @@
 		"Mongolia": {
 			"region": "",
 			"country": "Mongolia",
-			"date": "2020-03-17",
-			"cases": 5,
+			"date": "2020-03-18",
+			"cases": 6,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 5,
+			"active": 6,
 			"ratio": 0
 		},
 		"Panama": {
 			"region": "",
 			"country": "Panama",
-			"date": "2020-03-17",
-			"cases": 69,
+			"date": "2020-03-18",
+			"cases": 86,
 			"deaths": 1,
 			"recovered": 0,
-			"active": 68,
+			"active": 85,
 			"ratio": 0
 		},
 		"Cruise Ship": {
 			"region": "",
 			"country": "Cruise Ship",
-			"date": "2020-03-13",
-			"cases": 696,
+			"date": "2020-03-18",
+			"cases": 712,
 			"deaths": 7,
 			"recovered": 325,
-			"active": 364,
+			"active": 380,
 			"ratio": 0.9789156626506024
 		},
 		"Czechia": {
 			"region": "",
 			"country": "Czechia",
-			"date": "2020-03-17",
-			"cases": 396,
+			"date": "2020-03-18",
+			"cases": 464,
 			"deaths": 0,
 			"recovered": 3,
-			"active": 393,
+			"active": 461,
 			"ratio": 1
 		},
 		"Bolivia": {
 			"region": "",
 			"country": "Bolivia",
-			"date": "2020-03-16",
-			"cases": 11,
+			"date": "2020-03-18",
+			"cases": 12,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 11,
+			"active": 12,
 			"ratio": 0
 		},
 		"Honduras": {
 			"region": "",
 			"country": "Honduras",
-			"date": "2020-03-17",
-			"cases": 8,
+			"date": "2020-03-18",
+			"cases": 9,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 8,
+			"active": 9,
 			"ratio": 0
 		},
 		"Congo (Kinshasa)": {
 			"region": "",
 			"country": "Congo (Kinshasa)",
-			"date": "2020-03-17",
-			"cases": 3,
+			"date": "2020-03-18",
+			"cases": 4,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 3,
+			"active": 4,
 			"ratio": 0
 		},
 		"Jamaica": {
@@ -100637,31 +105705,31 @@
 		"Reunion": {
 			"region": "",
 			"country": "Reunion",
-			"date": "2020-03-17",
-			"cases": 9,
+			"date": "2020-03-18",
+			"cases": 12,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 9,
+			"active": 12,
 			"ratio": 0
 		},
 		"Turkey": {
 			"region": "",
 			"country": "Turkey",
-			"date": "2020-03-17",
-			"cases": 47,
+			"date": "2020-03-18",
+			"cases": 98,
 			"deaths": 1,
 			"recovered": 0,
-			"active": 46,
+			"active": 97,
 			"ratio": 0
 		},
 		"Cuba": {
 			"region": "",
 			"country": "Cuba",
-			"date": "2020-03-17",
-			"cases": 5,
-			"deaths": 0,
+			"date": "2020-03-18",
+			"cases": 7,
+			"deaths": 1,
 			"recovered": 0,
-			"active": 5,
+			"active": 6,
 			"ratio": 0
 		},
 		"Guyana": {
@@ -100677,11 +105745,11 @@
 		"Kazakhstan": {
 			"region": "",
 			"country": "Kazakhstan",
-			"date": "2020-03-17",
-			"cases": 33,
+			"date": "2020-03-18",
+			"cases": 35,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 33,
+			"active": 35,
 			"ratio": 0
 		},
 		"Cayman Islands": {
@@ -100697,31 +105765,31 @@
 		"Guadeloupe": {
 			"region": "",
 			"country": "Guadeloupe",
-			"date": "2020-03-17",
-			"cases": 18,
+			"date": "2020-03-18",
+			"cases": 27,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 18,
+			"active": 27,
 			"ratio": 0
 		},
 		"Ethiopia": {
 			"region": "",
 			"country": "Ethiopia",
-			"date": "2020-03-16",
-			"cases": 5,
+			"date": "2020-03-18",
+			"cases": 6,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 5,
+			"active": 6,
 			"ratio": 0
 		},
 		"Sudan": {
 			"region": "",
 			"country": "Sudan",
-			"date": "2020-03-14",
-			"cases": 1,
+			"date": "2020-03-18",
+			"cases": 2,
 			"deaths": 1,
 			"recovered": 0,
-			"active": 0,
+			"active": 1,
 			"ratio": 0
 		},
 		"Guinea": {
@@ -100747,11 +105815,11 @@
 		"Aruba": {
 			"region": "",
 			"country": "Aruba",
-			"date": "2020-03-17",
-			"cases": 3,
+			"date": "2020-03-18",
+			"cases": 4,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 3,
+			"active": 4,
 			"ratio": 0
 		},
 		"Kenya": {
@@ -100777,11 +105845,11 @@
 		"Uruguay": {
 			"region": "",
 			"country": "Uruguay",
-			"date": "2020-03-17",
-			"cases": 29,
+			"date": "2020-03-18",
+			"cases": 50,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 29,
+			"active": 50,
 			"ratio": 0
 		},
 		"Ghana": {
@@ -100827,21 +105895,21 @@
 		"Trinidad and Tobago": {
 			"region": "",
 			"country": "Trinidad and Tobago",
-			"date": "2020-03-17",
-			"cases": 5,
+			"date": "2020-03-18",
+			"cases": 7,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 5,
+			"active": 7,
 			"ratio": 0
 		},
 		"Venezuela": {
 			"region": "",
 			"country": "Venezuela",
-			"date": "2020-03-17",
-			"cases": 33,
+			"date": "2020-03-18",
+			"cases": 36,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 33,
+			"active": 36,
 			"ratio": 0
 		},
 		"Curacao": {
@@ -100897,11 +105965,11 @@
 		"Rwanda": {
 			"region": "",
 			"country": "Rwanda",
-			"date": "2020-03-17",
-			"cases": 7,
+			"date": "2020-03-18",
+			"cases": 8,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 7,
+			"active": 8,
 			"ratio": 0
 		},
 		"Saint Lucia": {
@@ -100967,21 +106035,21 @@
 		"Equatorial Guinea": {
 			"region": "",
 			"country": "Equatorial Guinea",
-			"date": "2020-03-15",
-			"cases": 1,
+			"date": "2020-03-18",
+			"cases": 4,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 1,
+			"active": 4,
 			"ratio": 0
 		},
 		"Uzbekistan": {
 			"region": "",
 			"country": "Uzbekistan",
-			"date": "2020-03-17",
-			"cases": 10,
+			"date": "2020-03-18",
+			"cases": 15,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 10,
+			"active": 15,
 			"ratio": 0
 		},
 		"Guam": {
@@ -101007,11 +106075,11 @@
 		"Benin": {
 			"region": "",
 			"country": "Benin",
-			"date": "2020-03-16",
-			"cases": 1,
+			"date": "2020-03-18",
+			"cases": 2,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 1,
+			"active": 2,
 			"ratio": 0
 		},
 		"Greenland": {
@@ -101027,21 +106095,21 @@
 		"Liberia": {
 			"region": "",
 			"country": "Liberia",
-			"date": "2020-03-17",
-			"cases": 1,
+			"date": "2020-03-18",
+			"cases": 2,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 1,
+			"active": 2,
 			"ratio": 0
 		},
 		"Mayotte": {
 			"region": "",
 			"country": "Mayotte",
-			"date": "2020-03-16",
-			"cases": 1,
+			"date": "2020-03-18",
+			"cases": 3,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 1,
+			"active": 3,
 			"ratio": 0
 		},
 		"Republic of the Congo": {
@@ -101057,7 +106125,7 @@
 		"Somalia": {
 			"region": "",
 			"country": "Somalia",
-			"date": "2020-03-16",
+			"date": "2020-03-18",
 			"cases": 1,
 			"deaths": 0,
 			"recovered": 0,
@@ -101067,11 +106135,11 @@
 		"Tanzania": {
 			"region": "",
 			"country": "Tanzania",
-			"date": "2020-03-17",
-			"cases": 1,
+			"date": "2020-03-18",
+			"cases": 3,
 			"deaths": 0,
 			"recovered": 0,
-			"active": 1,
+			"active": 3,
 			"ratio": 0
 		},
 		"The Bahamas": {
@@ -101087,7 +106155,7 @@
 		"Barbados": {
 			"region": "",
 			"country": "Barbados",
-			"date": "2020-03-17",
+			"date": "2020-03-18",
 			"cases": 2,
 			"deaths": 0,
 			"recovered": 0,
@@ -101108,6 +106176,56 @@
 			"region": "",
 			"country": "The Gambia",
 			"date": "2020-03-17",
+			"cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 1,
+			"ratio": 0
+		},
+		"Kyrgyzstan": {
+			"region": "",
+			"country": "Kyrgyzstan",
+			"date": "2020-03-18",
+			"cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 3,
+			"ratio": 0
+		},
+		"Mauritius": {
+			"region": "",
+			"country": "Mauritius",
+			"date": "2020-03-18",
+			"cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 3,
+			"ratio": 0
+		},
+		"Zambia": {
+			"region": "",
+			"country": "Zambia",
+			"date": "2020-03-18",
+			"cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 2,
+			"ratio": 0
+		},
+		"Djibouti": {
+			"region": "",
+			"country": "Djibouti",
+			"date": "2020-03-18",
+			"cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"active": 1,
+			"ratio": 0
+		},
+		"Gambia, The": {
+			"region": "",
+			"country": "Gambia, The",
+			"date": "2020-03-18",
 			"cases": 1,
 			"deaths": 0,
 			"recovered": 0,
