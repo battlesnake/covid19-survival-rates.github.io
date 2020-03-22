@@ -19,6 +19,9 @@ const svg = svg_root.append('g')
 		.attr('transform', `translate(${margin.left}, ${margin.top})`);
 
 (async () => {
+	const min_closed_cases = 20;
+	const min_days_with_closed_cases = 10;
+
 	const width = width_outer - margin.left - margin.right;
 	const height = height_outer - margin.top - margin.bottom;
 	const datasets = await d3.json<ScrapeData>("out.json");
@@ -28,7 +31,7 @@ const svg = svg_root.append('g')
 		.toPairs()
 		.filter(([country, _]) => {
 			const latest = datasets.country_latest[country];
-			return latest.cases - latest.active > 10;
+			return latest.cases - latest.active > min_closed_cases;
 		})
 		.map(([country, time_series]) => ({
 			key: country,
@@ -42,7 +45,7 @@ const svg = svg_root.append('g')
 				})
 				.value(),
 		}))
-		.filter(({ data }) => data.length >= 5)
+		.filter(({ data }) => data.length >= min_days_with_closed_cases)
 		.sortBy('key')
 		.value();
 	/* Title */
@@ -55,7 +58,7 @@ const svg = svg_root.append('g')
 		.text('2019-nCOV per-country surival rates');
 	title_area.append('text')
 		.attr('class', 'smallprint')
-		.text('rates = survived / (survived + died).  Showing only countries with: more than 10 closed cases, and more than zero closed cases reported on at least five days');
+		.text(`rates = survived / (survived + died).  Showing only countries with: more than ${min_closed_cases} closed cases, and more than zero closed cases reported on at least ${min_days_with_closed_cases} days`);
 	title_area.append('text')
 		.attr('class', 'source')
 		.html('Data source: <a href="https://github.com/CSSEGISandData/COVID-19">https://github.com/CSSEGISandData/COVID-19</a>');

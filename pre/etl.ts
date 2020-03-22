@@ -83,6 +83,8 @@ const country_name_map: { [name: string]: string } = {
 	'Hong Kong SAR': 'Hong Kong',
 	'Cote d\'Ivoire': 'Ivory Coast',
 	'Mainland China': 'China',
+	'Cruise Ship': 'REJECT',
+	'Others': 'REJECT',
 };
 
 const normalise_country = (name: string): string => name in country_name_map ? country_name_map[name] : name;
@@ -110,6 +112,7 @@ const data: Data = _(files)
 		.value()
 	)
 	.flatten()
+	.reject(x => x.country === 'REJECT')
 	.uniqBy(JSON.stringify)
 	.map<Datum>(x => ({
 		...x,

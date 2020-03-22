@@ -7621,16 +7621,6 @@
 			"ratio": 0.8
 		},
 		{
-			"region": "Cruise Ship",
-			"country": "Others",
-			"date": "2020-02-07",
-			"cases": 61,
-			"deaths": 0,
-			"recovered": 0,
-			"active": 61,
-			"ratio": 0
-		},
-		{
 			"region": "Inner Mongolia",
 			"country": "China",
 			"date": "2020-02-07",
@@ -8411,16 +8401,6 @@
 			"ratio": 0.9230769230769231
 		},
 		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"date": "2020-02-09",
-			"cases": 64,
-			"deaths": 0,
-			"recovered": 0,
-			"active": 64,
-			"ratio": 0
-		},
-		{
 			"region": "Inner Mongolia",
 			"country": "China",
 			"date": "2020-02-09",
@@ -8749,16 +8729,6 @@
 			"recovered": 19,
 			"active": 116,
 			"ratio": 0.8636363636363636
-		},
-		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"date": "2020-02-10",
-			"cases": 135,
-			"deaths": 0,
-			"recovered": 0,
-			"active": 135,
-			"ratio": 0
 		},
 		{
 			"region": "Guizhou",
@@ -9479,16 +9449,6 @@
 			"recovered": 32,
 			"active": 189,
 			"ratio": 0.9696969696969697
-		},
-		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"date": "2020-02-12",
-			"cases": 175,
-			"deaths": 0,
-			"recovered": 0,
-			"active": 175,
-			"ratio": 0
 		},
 		{
 			"region": "Hainan",
@@ -10371,16 +10331,6 @@
 			"ratio": 0.9473684210526315
 		},
 		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"date": "2020-02-14",
-			"cases": 218,
-			"deaths": 0,
-			"recovered": 0,
-			"active": 218,
-			"ratio": 0
-		},
-		{
 			"region": "Yunnan",
 			"country": "China",
 			"date": "2020-02-14",
@@ -10689,16 +10639,6 @@
 			"recovered": 71,
 			"active": 214,
 			"ratio": 1
-		},
-		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"date": "2020-02-15",
-			"cases": 285,
-			"deaths": 0,
-			"recovered": 0,
-			"active": 285,
-			"ratio": 0
 		},
 		{
 			"region": "Guangxi",
@@ -11049,16 +10989,6 @@
 			"recovered": 108,
 			"active": 268,
 			"ratio": 0.9642857142857143
-		},
-		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"date": "2020-02-16",
-			"cases": 355,
-			"deaths": 0,
-			"recovered": 0,
-			"active": 355,
-			"ratio": 0
 		},
 		{
 			"region": "Shanghai",
@@ -11431,16 +11361,6 @@
 			"ratio": 0.8854166666666666
 		},
 		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"date": "2020-02-17",
-			"cases": 454,
-			"deaths": 0,
-			"recovered": 0,
-			"active": 454,
-			"ratio": 0
-		},
-		{
 			"region": "Beijing",
 			"country": "China",
 			"date": "2020-02-17",
@@ -11801,16 +11721,6 @@
 			"ratio": 0.985981308411215
 		},
 		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"date": "2020-02-18",
-			"cases": 542,
-			"deaths": 0,
-			"recovered": 0,
-			"active": 542,
-			"ratio": 0
-		},
-		{
 			"region": "Sichuan",
 			"country": "China",
 			"date": "2020-02-18",
@@ -12148,16 +12058,6 @@
 			"deaths": 0,
 			"recovered": 318,
 			"active": 313,
-			"ratio": 1
-		},
-		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"date": "2020-02-19",
-			"cases": 621,
-			"deaths": 0,
-			"recovered": 1,
-			"active": 620,
 			"ratio": 1
 		},
 		{
@@ -12509,16 +12409,6 @@
 			"recovered": 433,
 			"active": 500,
 			"ratio": 0.9976958525345622
-		},
-		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"date": "2020-02-20",
-			"cases": 634,
-			"deaths": 2,
-			"recovered": 1,
-			"active": 631,
-			"ratio": 0.3333333333333333
 		},
 		{
 			"region": "Jiangsu",
@@ -13809,16 +13699,6 @@
 			"recovered": 321,
 			"active": 429,
 			"ratio": 0.9876923076923076
-		},
-		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"date": "2020-02-23",
-			"cases": 691,
-			"deaths": 3,
-			"recovered": 0,
-			"active": 688,
-			"ratio": 0
 		},
 		{
 			"region": "Jiangsu",
@@ -15171,16 +15051,6 @@
 			"ratio": 0.9843342036553525
 		},
 		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"date": "2020-02-26",
-			"cases": 705,
-			"deaths": 4,
-			"recovered": 10,
-			"active": 691,
-			"ratio": 0.7142857142857143
-		},
-		{
 			"region": "Jiangsu",
 			"country": "China",
 			"date": "2020-02-26",
@@ -16341,16 +16211,6 @@
 			"ratio": 0.9854014598540146
 		},
 		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"date": "2020-02-28",
-			"cases": 705,
-			"deaths": 6,
-			"recovered": 10,
-			"active": 689,
-			"ratio": 0.625
-		},
-		{
 			"region": "Jiangsu",
 			"country": "China",
 			"date": "2020-02-28",
@@ -16919,16 +16779,6 @@
 			"recovered": 421,
 			"active": 329,
 			"ratio": 0.9859484777517564
-		},
-		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"date": "2020-02-29",
-			"cases": 705,
-			"deaths": 6,
-			"recovered": 10,
-			"active": 689,
-			"ratio": 0.625
 		},
 		{
 			"region": "Jiangsu",
@@ -18411,16 +18261,6 @@
 			"ratio": 0.9871244635193133
 		},
 		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"date": "2020-03-02",
-			"cases": 705,
-			"deaths": 6,
-			"recovered": 10,
-			"active": 689,
-			"ratio": 0.625
-		},
-		{
 			"region": "Jiangsu",
 			"country": "China",
 			"date": "2020-03-02",
@@ -19229,16 +19069,6 @@
 			"recovered": 511,
 			"active": 241,
 			"ratio": 0.988394584139265
-		},
-		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"date": "2020-03-03",
-			"cases": 706,
-			"deaths": 6,
-			"recovered": 10,
-			"active": 690,
-			"ratio": 0.625
 		},
 		{
 			"region": "Jiangsu",
@@ -21879,16 +21709,6 @@
 			"recovered": 618,
 			"active": 134,
 			"ratio": 0.9903846153846154
-		},
-		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"date": "2020-03-06",
-			"cases": 696,
-			"deaths": 6,
-			"recovered": 40,
-			"active": 650,
-			"ratio": 0.8695652173913043
 		},
 		{
 			"region": "",
@@ -28371,16 +28191,6 @@
 			"ratio": 0.9918032786885246
 		},
 		{
-			"region": "Diamond Princess",
-			"country": "Cruise Ship",
-			"date": "2020-03-11",
-			"cases": 696,
-			"deaths": 7,
-			"recovered": 325,
-			"active": 364,
-			"ratio": 0.9789156626506024
-		},
-		{
 			"region": "",
 			"country": "Switzerland",
 			"date": "2020-03-11",
@@ -33069,16 +32879,6 @@
 			"recovered": 91,
 			"active": 1,
 			"ratio": 0.9891304347826086
-		},
-		{
-			"region": "Diamond Princess",
-			"country": "Cruise Ship",
-			"date": "2020-03-13",
-			"cases": 696,
-			"deaths": 7,
-			"recovered": 325,
-			"active": 364,
-			"ratio": 0.9789156626506024
 		},
 		{
 			"region": "",
@@ -41381,16 +41181,6 @@
 			"ratio": 0
 		},
 		{
-			"region": "Diamond Princess",
-			"country": "Cruise Ship",
-			"date": "2020-03-18",
-			"cases": 712,
-			"deaths": 7,
-			"recovered": 325,
-			"active": 380,
-			"ratio": 0.9789156626506024
-		},
-		{
 			"region": "Sichuan",
 			"country": "China",
 			"date": "2020-03-18",
@@ -47749,16 +47539,6 @@
 			"recovered": 13,
 			"active": 714,
 			"ratio": 0.8125
-		},
-		{
-			"region": "Diamond Princess",
-			"country": "Cruise Ship",
-			"date": "2020-03-21",
-			"cases": 712,
-			"deaths": 8,
-			"recovered": 325,
-			"active": 379,
-			"ratio": 0.975975975975976
 		},
 		{
 			"region": "",
@@ -85580,192 +85360,6 @@
 				}
 			]
 		},
-		"Others": {
-			"Cruise Ship": [
-				{
-					"region": "Cruise Ship",
-					"country": "Others",
-					"date": "2020-02-07",
-					"cases": 61,
-					"deaths": 0,
-					"recovered": 0,
-					"active": 61,
-					"ratio": 0
-				}
-			],
-			"Diamond Princess cruise ship": [
-				{
-					"region": "Diamond Princess cruise ship",
-					"country": "Others",
-					"date": "2020-02-09",
-					"cases": 64,
-					"deaths": 0,
-					"recovered": 0,
-					"active": 64,
-					"ratio": 0
-				},
-				{
-					"region": "Diamond Princess cruise ship",
-					"country": "Others",
-					"date": "2020-02-10",
-					"cases": 135,
-					"deaths": 0,
-					"recovered": 0,
-					"active": 135,
-					"ratio": 0
-				},
-				{
-					"region": "Diamond Princess cruise ship",
-					"country": "Others",
-					"date": "2020-02-12",
-					"cases": 175,
-					"deaths": 0,
-					"recovered": 0,
-					"active": 175,
-					"ratio": 0
-				},
-				{
-					"region": "Diamond Princess cruise ship",
-					"country": "Others",
-					"date": "2020-02-14",
-					"cases": 218,
-					"deaths": 0,
-					"recovered": 0,
-					"active": 218,
-					"ratio": 0
-				},
-				{
-					"region": "Diamond Princess cruise ship",
-					"country": "Others",
-					"date": "2020-02-15",
-					"cases": 285,
-					"deaths": 0,
-					"recovered": 0,
-					"active": 285,
-					"ratio": 0
-				},
-				{
-					"region": "Diamond Princess cruise ship",
-					"country": "Others",
-					"date": "2020-02-16",
-					"cases": 355,
-					"deaths": 0,
-					"recovered": 0,
-					"active": 355,
-					"ratio": 0
-				},
-				{
-					"region": "Diamond Princess cruise ship",
-					"country": "Others",
-					"date": "2020-02-17",
-					"cases": 454,
-					"deaths": 0,
-					"recovered": 0,
-					"active": 454,
-					"ratio": 0
-				},
-				{
-					"region": "Diamond Princess cruise ship",
-					"country": "Others",
-					"date": "2020-02-18",
-					"cases": 542,
-					"deaths": 0,
-					"recovered": 0,
-					"active": 542,
-					"ratio": 0
-				},
-				{
-					"region": "Diamond Princess cruise ship",
-					"country": "Others",
-					"date": "2020-02-19",
-					"cases": 621,
-					"deaths": 0,
-					"recovered": 1,
-					"active": 620,
-					"ratio": 1
-				},
-				{
-					"region": "Diamond Princess cruise ship",
-					"country": "Others",
-					"date": "2020-02-20",
-					"cases": 634,
-					"deaths": 2,
-					"recovered": 1,
-					"active": 631,
-					"ratio": 0.3333333333333333
-				},
-				{
-					"region": "Diamond Princess cruise ship",
-					"country": "Others",
-					"date": "2020-02-23",
-					"cases": 691,
-					"deaths": 3,
-					"recovered": 0,
-					"active": 688,
-					"ratio": 0
-				},
-				{
-					"region": "Diamond Princess cruise ship",
-					"country": "Others",
-					"date": "2020-02-26",
-					"cases": 705,
-					"deaths": 4,
-					"recovered": 10,
-					"active": 691,
-					"ratio": 0.7142857142857143
-				},
-				{
-					"region": "Diamond Princess cruise ship",
-					"country": "Others",
-					"date": "2020-02-28",
-					"cases": 705,
-					"deaths": 6,
-					"recovered": 10,
-					"active": 689,
-					"ratio": 0.625
-				},
-				{
-					"region": "Diamond Princess cruise ship",
-					"country": "Others",
-					"date": "2020-02-29",
-					"cases": 705,
-					"deaths": 6,
-					"recovered": 10,
-					"active": 689,
-					"ratio": 0.625
-				},
-				{
-					"region": "Diamond Princess cruise ship",
-					"country": "Others",
-					"date": "2020-03-02",
-					"cases": 705,
-					"deaths": 6,
-					"recovered": 10,
-					"active": 689,
-					"ratio": 0.625
-				},
-				{
-					"region": "Diamond Princess cruise ship",
-					"country": "Others",
-					"date": "2020-03-03",
-					"cases": 706,
-					"deaths": 6,
-					"recovered": 10,
-					"active": 690,
-					"ratio": 0.625
-				},
-				{
-					"region": "Diamond Princess cruise ship",
-					"country": "Others",
-					"date": "2020-03-06",
-					"cases": 696,
-					"deaths": 6,
-					"recovered": 40,
-					"active": 650,
-					"ratio": 0.8695652173913043
-				}
-			]
-		},
 		"Egypt": {
 			"": [
 				{
@@ -97416,50 +97010,6 @@
 				}
 			]
 		},
-		"Cruise Ship": {
-			"Diamond Princess": [
-				{
-					"region": "Diamond Princess",
-					"country": "Cruise Ship",
-					"date": "2020-03-11",
-					"cases": 696,
-					"deaths": 7,
-					"recovered": 325,
-					"active": 364,
-					"ratio": 0.9789156626506024
-				},
-				{
-					"region": "Diamond Princess",
-					"country": "Cruise Ship",
-					"date": "2020-03-13",
-					"cases": 696,
-					"deaths": 7,
-					"recovered": 325,
-					"active": 364,
-					"ratio": 0.9789156626506024
-				},
-				{
-					"region": "Diamond Princess",
-					"country": "Cruise Ship",
-					"date": "2020-03-18",
-					"cases": 712,
-					"deaths": 7,
-					"recovered": 325,
-					"active": 380,
-					"ratio": 0.9789156626506024
-				},
-				{
-					"region": "Diamond Princess",
-					"country": "Cruise Ship",
-					"date": "2020-03-21",
-					"cases": 712,
-					"deaths": 8,
-					"recovered": 325,
-					"active": 379,
-					"ratio": 0.975975975975976
-				}
-			]
-		},
 		"Czechia": {
 			"": [
 				{
@@ -108752,178 +108302,6 @@
 				"ratio": 0.796969696969697
 			}
 		},
-		"Others": {
-			"2020-02-07": {
-				"region": "",
-				"country": "Others",
-				"date": "2020-02-07",
-				"cases": 61,
-				"deaths": 0,
-				"recovered": 0,
-				"active": 61,
-				"ratio": 0
-			},
-			"2020-02-09": {
-				"region": "",
-				"country": "Others",
-				"date": "2020-02-09",
-				"cases": 64,
-				"deaths": 0,
-				"recovered": 0,
-				"active": 64,
-				"ratio": 0
-			},
-			"2020-02-10": {
-				"region": "",
-				"country": "Others",
-				"date": "2020-02-10",
-				"cases": 135,
-				"deaths": 0,
-				"recovered": 0,
-				"active": 135,
-				"ratio": 0
-			},
-			"2020-02-12": {
-				"region": "",
-				"country": "Others",
-				"date": "2020-02-12",
-				"cases": 175,
-				"deaths": 0,
-				"recovered": 0,
-				"active": 175,
-				"ratio": 0
-			},
-			"2020-02-14": {
-				"region": "",
-				"country": "Others",
-				"date": "2020-02-14",
-				"cases": 218,
-				"deaths": 0,
-				"recovered": 0,
-				"active": 218,
-				"ratio": 0
-			},
-			"2020-02-15": {
-				"region": "",
-				"country": "Others",
-				"date": "2020-02-15",
-				"cases": 285,
-				"deaths": 0,
-				"recovered": 0,
-				"active": 285,
-				"ratio": 0
-			},
-			"2020-02-16": {
-				"region": "",
-				"country": "Others",
-				"date": "2020-02-16",
-				"cases": 355,
-				"deaths": 0,
-				"recovered": 0,
-				"active": 355,
-				"ratio": 0
-			},
-			"2020-02-17": {
-				"region": "",
-				"country": "Others",
-				"date": "2020-02-17",
-				"cases": 454,
-				"deaths": 0,
-				"recovered": 0,
-				"active": 454,
-				"ratio": 0
-			},
-			"2020-02-18": {
-				"region": "",
-				"country": "Others",
-				"date": "2020-02-18",
-				"cases": 542,
-				"deaths": 0,
-				"recovered": 0,
-				"active": 542,
-				"ratio": 0
-			},
-			"2020-02-19": {
-				"region": "",
-				"country": "Others",
-				"date": "2020-02-19",
-				"cases": 621,
-				"deaths": 0,
-				"recovered": 1,
-				"active": 620,
-				"ratio": 1
-			},
-			"2020-02-20": {
-				"region": "",
-				"country": "Others",
-				"date": "2020-02-20",
-				"cases": 634,
-				"deaths": 2,
-				"recovered": 1,
-				"active": 631,
-				"ratio": 0.3333333333333333
-			},
-			"2020-02-23": {
-				"region": "",
-				"country": "Others",
-				"date": "2020-02-23",
-				"cases": 691,
-				"deaths": 3,
-				"recovered": 0,
-				"active": 688,
-				"ratio": 0
-			},
-			"2020-02-26": {
-				"region": "",
-				"country": "Others",
-				"date": "2020-02-26",
-				"cases": 705,
-				"deaths": 4,
-				"recovered": 10,
-				"active": 691,
-				"ratio": 0.7142857142857143
-			},
-			"2020-02-28": {
-				"region": "",
-				"country": "Others",
-				"date": "2020-02-28",
-				"cases": 705,
-				"deaths": 6,
-				"recovered": 10,
-				"active": 689,
-				"ratio": 0.625
-			},
-			"2020-02-29": {
-				"region": "",
-				"country": "Others",
-				"date": "2020-02-29",
-				"cases": 705,
-				"deaths": 6,
-				"recovered": 10,
-				"active": 689,
-				"ratio": 0.625
-			},
-			"2020-03-02": {
-				"region": "",
-				"country": "Others",
-				"date": "2020-03-02",
-				"cases": 705,
-				"deaths": 6,
-				"recovered": 10,
-				"active": 689,
-				"ratio": 0.625
-			},
-			"2020-03-03": {
-				"region": "",
-				"country": "Others",
-				"date": "2020-03-03",
-				"cases": 706,
-				"deaths": 6,
-				"recovered": 10,
-				"active": 690,
-				"ratio": 0.625
-			}
-		},
 		"Egypt": {
 			"2020-02-14": {
 				"region": "",
@@ -118218,48 +117596,6 @@
 				"ratio": 0
 			}
 		},
-		"Cruise Ship": {
-			"2020-03-11": {
-				"region": "",
-				"country": "Cruise Ship",
-				"date": "2020-03-11",
-				"cases": 696,
-				"deaths": 7,
-				"recovered": 325,
-				"active": 364,
-				"ratio": 0.9789156626506024
-			},
-			"2020-03-13": {
-				"region": "",
-				"country": "Cruise Ship",
-				"date": "2020-03-13",
-				"cases": 696,
-				"deaths": 7,
-				"recovered": 325,
-				"active": 364,
-				"ratio": 0.9789156626506024
-			},
-			"2020-03-18": {
-				"region": "",
-				"country": "Cruise Ship",
-				"date": "2020-03-18",
-				"cases": 712,
-				"deaths": 7,
-				"recovered": 325,
-				"active": 380,
-				"ratio": 0.9789156626506024
-			},
-			"2020-03-21": {
-				"region": "",
-				"country": "Cruise Ship",
-				"date": "2020-03-21",
-				"cases": 712,
-				"deaths": 8,
-				"recovered": 325,
-				"active": 379,
-				"ratio": 0.975975975975976
-			}
-		},
 		"Czechia": {
 			"2020-03-11": {
 				"region": "",
@@ -121180,16 +120516,6 @@
 			"active": 2485,
 			"ratio": 0.796969696969697
 		},
-		"Others": {
-			"region": "",
-			"country": "Others",
-			"date": "2020-03-03",
-			"cases": 706,
-			"deaths": 6,
-			"recovered": 10,
-			"active": 690,
-			"ratio": 0.625
-		},
 		"Egypt": {
 			"region": "",
 			"country": "Egypt",
@@ -122059,16 +121385,6 @@
 			"recovered": 0,
 			"active": 199,
 			"ratio": 0
-		},
-		"Cruise Ship": {
-			"region": "",
-			"country": "Cruise Ship",
-			"date": "2020-03-21",
-			"cases": 712,
-			"deaths": 8,
-			"recovered": 325,
-			"active": 379,
-			"ratio": 0.975975975975976
 		},
 		"Czechia": {
 			"region": "",
