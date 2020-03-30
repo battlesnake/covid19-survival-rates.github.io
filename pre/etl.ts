@@ -46,6 +46,25 @@ const parse_csv_line = (line: string): string[] => {
 	return state.out;
 };
 
+type CsvLine = { [key: string]: string };
+
+const parse_csv_file = (file: string[]): CsvLine[] => {
+	if (file.length <= 1) {
+		return [];
+	}
+	const keys = parse_csv_line(file[0])
+		.map(s => s.replace(/[^\w]/g, '_'));
+	return _(file)
+		.slice(1)
+		.map(line =>
+			_(keys)
+				.zip(parse_csv_line(line))
+				.fromPairs()
+				.value()
+		)
+		.value();
+};
+
 const zero: Datum = {
 	region: '',
 	country: '',
@@ -92,26 +111,31 @@ const normalise_country = (name: string): string => name in country_name_map ? c
 type RawDatum = Pick<Datum, 'region' | 'country' | 'date' | 'cases' | 'deaths' | 'recovered'>;
 
 const data: Data = _(files)
-	.map(name => _(fs.readFileSync(name, 'utf-8'))
-		.split(/[\r\n]+/)
-		.tap(lines => lines.shift())
-		.map(line => line.replace(/^\s+|\s+$/g, ''))
-		.filter(line => line.length > 0)
-		.map<RawDatum>((line, index) => {
-			const [region, country, date, cases, deaths, recovered] = parse_csv_line(line).map(x => x.trim());
-			return <Datum> {
-				region,
-				country: normalise_country(country),
-				date: parse_date(date),
-				cases: +cases,
-				deaths: +deaths,
-				recovered: +recovered,
-			};
-		})
-		.sortBy('date')
-		.value()
-	)
+	.map(name => parse_csv_file(
+			fs.readFileSync(name, 'utf-8')
+				.split(/[\r\n]+/)
+				.map(s => s.replace(/^\s+|\s+$/g, ''))
+				.filter(s => s.length > 0)))
 	.flatten()
+	.map<RawDatum>(entry => {
+		const {
+			Province_State: region,
+			Country_Region: country,
+			Last_Update: date,
+			Confirmed: cases,
+			Deaths: deaths,
+			Recovered: recovered,
+		} = entry;
+		return <Datum> {
+			region,
+			country: normalise_country(country),
+			date: parse_date(date),
+			cases: +cases,
+			deaths: +deaths,
+			recovered: +recovered,
+		};
+	})
+	.sortBy('date')
 	.reject(x => x.country === 'REJECT')
 	.uniqBy(JSON.stringify)
 	.map<Datum>(x => ({

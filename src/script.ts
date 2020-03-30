@@ -6,7 +6,7 @@ import { ScrapeData } from './types';
 
 const margin = { left: 200, top: 200, right: 200, bottom: 20 };
 const width_outer = 1200;
-const height_outer = 1200;
+const height_outer = 2400;
 
 d3.select('main>*')
 	.remove();
