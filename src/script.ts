@@ -2,6 +2,7 @@ import * as d3 from 'd3';
 import * as d3_time from 'd3-time';
 import * as d3_color from 'd3-color';
 import * as _ from 'lodash';
+import * as pako from 'pako';
 import { ScrapeData } from './types';
 
 const margin = { left: 200, top: 200, right: 200, bottom: 20 };
@@ -18,13 +19,19 @@ const svg_root = d3.select('main')
 const svg = svg_root.append('g')
 		.attr('transform', `translate(${margin.left}, ${margin.top})`);
 
+async function get_data<T>(): Promise<T> {
+	const res = await fetch('out.json.gz');
+	const blob = await res.blob();
+	return JSON.parse(pako.inflate(new Uint8Array(await blob.arrayBuffer()), { to: 'string' }));
+}
+
 (async () => {
 	const min_closed_cases = 20;
 	const min_days_with_closed_cases = 10;
 
 	const width = width_outer - margin.left - margin.right;
 	const height = height_outer - margin.top - margin.bottom;
-	const datasets = await d3.json<ScrapeData>("out.json");
+	const datasets = await get_data<ScrapeData>();
 	const countries: string[] = _(datasets.data).map('country').uniq().sort().value();
 	const dates: Date[] = _(datasets.data).map('date').uniq().map(x => new Date(x)).value();
 	const chart_data = _(datasets.by_country)
