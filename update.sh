@@ -15,7 +15,6 @@ git push
 ssh deadpool '
 	cd empire/covid19/site
 	git pull
-	yarn extract
 	cd ..
 	docker-compose up --build -d
 	'
