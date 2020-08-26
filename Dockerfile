@@ -12,4 +12,5 @@ run npm i -g http-server
 run mkdir -p /srv
 copy --from=builder /src/bin/ /srv/
 workdir /srv/
+run brotli -cd < out.json.brotli > out.json
 entrypoint ["http-server", "/srv/", "-p", "80"]

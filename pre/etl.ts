@@ -3,13 +3,14 @@ import * as path from 'path';
 import * as _ from 'lodash';
 import * as moment from 'moment';
 import { Datum, Data, RegionAg, CountryAg, DateAg, CountryLatest, ScrapeData } from '../src/types';
+import * as zlib from 'zlib';
 
 if (process.argv.length !== 3) {
 	throw new Error('Input path to csse_covid_19_daily_reports is required');
 }
 
 const input = process.argv[2];
-const output = path.join(__dirname, '..', 'results', 'out.json');
+const output = path.join(__dirname, '..', 'results', 'out.json.brotli');
 
 const parse_csv_line = (line: string): string[] => {
 	type ParseState = {
@@ -199,4 +200,13 @@ const result: ScrapeData = {
 	country_latest,
 };
 
-fs.writeFileSync(output, JSON.stringify(result, null, '\t'), 'utf-8');
+fs.writeFileSync(
+	output,
+	zlib.brotliCompressSync(
+		Buffer.from(JSON.stringify(result), 'utf-8'),
+		{
+			params: {
+				[zlib.constants.BROTLI_PARAM_MODE]: zlib.constants.BROTLI_MODE_TEXT,
+				[zlib.constants.BROTLI_PARAM_QUALITY]: 9,
+			}
+		}));
