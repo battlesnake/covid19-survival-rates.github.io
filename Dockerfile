@@ -1,4 +1,5 @@
 from node:13-slim as builder
+run apt update -y && apt install -y brotli
 run mkdir -p /src
 workdir /src
 copy package.json ./
