@@ -18,7 +18,7 @@
     "copy": "bash -ec \"cp -v src/*.{html,css} results/out.json.brotli bin/\"",
     "build": "yarn compile && yarn copy",
     "etl": "ts-node pre/etl.ts ../csse_covid_19_daily_reports",
-    "extract": "bash -ec \"brotli -dc < bin/out.json.brotli > bin/out.json\"",
+    "extract": "bash -ec \"brotli --decompress --input bin/out.json.brotli --output bin/out.json\"",
     "serve": "http-server bin/ -p 8000",
     "start": "yarn build && yarn extract && yarn serve"
   },
